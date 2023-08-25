@@ -1,0 +1,848 @@
+[
+  {
+    "name": "Google Pixel 6a Android Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/google/pixel-6a/pixel-6a-01-228x228.webp",
+    "description": "Display: 6.1-inch FHD+ OLED display, up to 60 Hz\nProcessor: Google Tensor Octa-core (5 nm)\nCamera: Dual 12.2MP + 12MP on rear, 8MP front\nFeatures: IP67, eSIM, Under Display Fingerprint",
+    "price": "39,000৳"
+  },
+  {
+    "name": "Samsung Galaxy A03 Core Smartphone (2/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a03-core/a03-core-002-228x228.webp",
+    "description": "Display: 6.5\" 720 x 1600 (HD+)\nProcessor: Octa-core (1.6GHz, 1.2GHz)\nCamera: 8MP Rear, 5MP Front\nFeatures: 5000mAh Li-Ion Battery",
+    "price": "12,299৳"
+  },
+  {
+    "name": "OPPO A17k Smartphone (3/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a17k/a17k-blue-228x228.webp",
+    "description": "Display: 6.56\" HD+ Eye-care Display\nProcessor: Mediatek MT6765 Helio G35 (12 nm)\nCamera: Single 8MP on Rear, 5MP Front\nFeatures: Side-mounted Fingerprint, IPX4",
+    "price": "14,990৳"
+  },
+  {
+    "name": "Vivo Y02t Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y02/y02-blue-228x228.webp",
+    "description": "Display: 6.51\" HD+ Eye Protection Screen\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Single 8MP on Rear, 5MP Front\nFeatures: 5000mAh Battery, 4GB Extended RAM",
+    "price": "14,999৳"
+  },
+  {
+    "name": "Vivo Y16 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y16/y16-black-228x228.webp",
+    "description": "Display: 6.51\" HD+ Halo FullView Screen\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Dual 13+2 MP on Rear, 5MP Front\nFeatures: 4GB Extended RAM, Side Fingerprint, 5000mAh Battery",
+    "price": "16,999৳"
+  },
+  {
+    "name": "Samsung Galaxy A03 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a03/galaxy-a03-02-228x228.webp",
+    "description": "Display: 6.5\" HD+ Infinity-V Display\nProcessor: Unisoc T606 (12 nm)\nCamera: Dual 48+2 MP Rear, 5MP Front\nFeatures: 5000mAh Battery",
+    "price": "16,999৳"
+  },
+  {
+    "name": "OPPO A17 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a17/a17-blue-228x228.webp",
+    "description": "Display: 6.56\" HD+ Eye-care Display\nProcessor: Mediatek MT6765 Helio G35 (12 nm)\nCamera: Dual 50+2MP on Rear, 5MP Front\nFeatures: Side-mounted Fingerprint, IPX4",
+    "price": "17,990৳"
+  },
+  {
+    "name": "Samsung Galaxy A03s Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a03s/galaxy-a03s-001-228x228.webp",
+    "description": "Display: 6.5\" 720 x 1600 (HD+)\nProcessor: Octa-core (4x2.3 GHz 4x1.8 GHz)\nCamera: 13MP + 2MP + 2MP Rear, 5MP Front\nFeatures: 5000mAh Li-Ion Battery",
+    "price": "18,599৳"
+  },
+  {
+    "name": "OPPO A57 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a57/a57-green-228x228.webp",
+    "description": "Display: 6.56\" HD+ Eye Care Display\nProcessor: Mediatek MT6765G Helio G35 (12 nm)\nCamera: Dual 13+2 MP on Rear, 8MP Front\nFeatures: Side Fingerprint, 33W SUPERVOOC",
+    "price": "18,990৳"
+  },
+  {
+    "name": "Vivo Y21T Smartphone (4/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y21t/y21t-midnight-blue-228x228.webp",
+    "description": "Display: 6.51\" HD+ Halo Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Triple 50+2+2 MP on Rear, 8MP Front\nFeatures: 1GB Extended RAM, Side Fingerprint",
+    "price": "19,990৳"
+  },
+  {
+    "name": "OPPO A77 Smartphone (4/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a77/a77-blue-228x228.webp",
+    "description": "Display: 6.56\" HD+ 90Hz Colour-Rich Display\nProcessor: Mediatek MT6765 Helio G35 (12 nm)\nCamera: Dual 50+2 MP on Rear, 8MP Front\nFeatures: IP54, Side Fingerprint, 33W SUPERVOOC",
+    "price": "20,990৳"
+  },
+  {
+    "name": "Vivo Y22 Smartphone (4/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y22/y22-green-228x228.webp",
+    "description": "Display: 6.55\" HD+ Display\nProcessor: Mediatek MT6769Z Helio G85 (12nm)\nCamera: Dual 50+2 MP on Rear, 8MP Front\nFeatures: IPX4, Side Fingerprint, 18W Fast Charge",
+    "price": "20,999৳"
+  },
+  {
+    "name": "Samsung Galaxy A14 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a14/galaxy-a14-01-228x228.webp",
+    "description": "Display: 6.6-inch FHD+ (1080 x 2408)\nProcessor: Mediatek MT6769 Helio G80 (12 nm)\nCamera: Triple 50+5+2MP Rear, 13MP Front\nFeatures: 5000mAh Li-Ion Battery",
+    "price": "23,279৳"
+  },
+  {
+    "name": "Vivo Y22s Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y22s/y22s-cyan-228x228.webp",
+    "description": "Display: 6.55\" HD+ 90Hz Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Dual 50+2 MP on Rear, 8MP Front\nFeatures: IPX4, Side Fingerprint, 18W Fast Charge",
+    "price": "22,999৳"
+  },
+  {
+    "name": "Samsung Galaxy F13 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-f13/galaxy-f13-001-228x228.webp",
+    "description": "Display: 6.6\" FHD+ PLS LCD Touchscreen\nProcessor: Octa-Core 2GHz, Exynos 850 (8nm)\nCamera: Triple 50+5+2 MP on Rear, 8MP Selfie\nFeatures: 6000mAh Battery, Side Mounted Fingerprint",
+    "price": "22,697৳"
+  },
+  {
+    "name": "Samsung Galaxy M12 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-m12/galaxy-m12-001-228x228.webp",
+    "description": "Display: 6.5\" 720 x 1600 (HD+)\nProcessor: Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)\nCamera: 48MP + 5MP + 2MP + 2MP Rear, 8MP Front\nFeatures: 6000mAh Li-Ion Battery",
+    "price": "23,499৳"
+  },
+  {
+    "name": "Vivo Y33s Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y33s/y33s-midday-dream-228x228.webp",
+    "description": "Display: 6.58\" FHD+ in-cell Display\nProcessor: Mediatek MT6769V/CU Helio G80 (12 nm)\nCamera: Triple 50+2+2 MP on Rear, 16MP Front\nFeatures: 4GB Extended RAM, Side Fingerprint",
+    "price": "23,999৳"
+  },
+  {
+    "name": "OPPO A77s Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a77s/a77s-black-228x228.webp",
+    "description": "Display: 6.56\" HD+ 90Hz Colour-Rich Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Dual 50+2 MP on Rear, 8MP Front\nFeatures: IP54, 8GB Extended RAM, Side Fingerprint, 33W SUPERVOOC",
+    "price": "24,990৳"
+  },
+  {
+    "name": "Vivo Y36 Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y36/y36-gold-228x228.webp",
+    "description": "Display: 6.64\" FHD+ 90 Hz Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Dual 50+2 MP on Rear, 16MP Front\nFeatures: 44W Fast Charging, Side Fingerprint, 4GB Extended RAM",
+    "price": "26,999৳"
+  },
+  {
+    "name": "Vivo V23e Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v23e/v23e-sunshine-gold-228x228.webp",
+    "description": "Display: 6.44\" FHD+ AMOLED Display\nProcessor: Mediatek Helio G96 (12 nm)\nCamera: Triple 64+8+2 MP on Rear, 50MP Front\nFeatures: In-display Fingerprint, 44W FlashCharge",
+    "price": "27,990৳"
+  },
+  {
+    "name": "Samsung Galaxy F13 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-f13/galaxy-f13-001-228x228.webp",
+    "description": "Display: 6.6\" FHD+ PLS LCD Touchscreen\nProcessor: Octa-Core 2GHz, Exynos 850 (8nm)\nCamera: Triple 50+5+2 MP on Rear, 8MP Selfie\nFeatures: 6000mAh Battery, Side Mounted Fingerprint",
+    "price": "26,389৳"
+  },
+  {
+    "name": "OPPO F21s Pro Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/f21s-pro/f21s-pro-dawnlight-gold-228x228.webp",
+    "description": "Display: 6.43\" FHD+ 90Hz AMOLED Eye-Care Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Triple 64+2+2 MP on Rear, 32MP Front\nFeatures: IPX4, In-Display Fingerprint, 33W SUPERVOOC",
+    "price": "29,990৳"
+  },
+  {
+    "name": "Realme 9 Pro 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/realme-9-pro/realme-9-pro-blue-228x228.webp",
+    "description": "Display: 6.6\" FHD+ 120Hz Ultra Smooth Display\nProcessor: Qualcomm SM6375 Snapdragon 695 5G (6 nm)\nCamera: Triple 64+8+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 33W Dart Charge",
+    "price": "29,999৳"
+  },
+  {
+    "name": "Vivo V25e Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v25e/v25e-gold-228x228.webp",
+    "description": "Display: 6.44\" FHD+ 90Hz AMOLED Display\nProcessor: Mediatek MT8781 Helio G99 (6nm)\nCamera: Triple 64+2+2 MP on Rear, 32MP Front\nFeatures: In-display Fingerprint, 44W FlashCharge",
+    "price": "31,999৳"
+  },
+  {
+    "name": "Samsung Galaxy A23 LTE Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a23/galaxy-a23-001-228x228.webp",
+    "description": "Display: 6.6\" FHD+ PLS TFT LCD 90Hz, V-Cut Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Quad 50+5+2+2 MP on Rear, 8MP Selfie\nFeatures: Side Mounted Fingerprint, 25W Fast Charging",
+    "price": "30,874৳"
+  },
+  {
+    "name": "OPPO Reno8 T Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/reno8-t/reno8-t-orange-228x228.webp",
+    "description": "Display: 6.43\" FHD+ 90Hz AMOLED Eye-Care Display\nProcessor: Mediatek MT8781 Helio G99 (6nm)\nCamera: Triple 100+2+2 MP on Rear, 32MP Front\nFeatures: In-Display Fingerprint, 33W SUPERVOOC",
+    "price": "32,990৳"
+  },
+  {
+    "name": "Samsung Galaxy F23 5G Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-f23-5g/galaxy-f23-5g-01-228x228.webp",
+    "description": "Display: 6.6\" FHD+ TFT LCD 120Hz, Infinity-U Display\nProcessor: Qualcomm SM7225 Snapdragon 750G 5G (8 nm)\nCamera: Triple 50+8+2 MP on Rear, 8MP Selfie\nFeatures: Power Cool Tech, Side Fingerprint, 25W Fast Charging",
+    "price": "32,899৳"
+  },
+  {
+    "name": "OPPO F21 Pro 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/f21-pro-5g/f21-pro-5g-rainbow-spectrum-228x228.webp",
+    "description": "Display: 6.43\" FHD+ Punch-hole AMOLED Screen\nProcessor: Qualcomm SM6375 Snapdragon 695 5G (6 nm)\nCamera: Triple 64+2+2 MP on Rear, 16MP Front\nFeatures: IPX4, In-Display Fingerprint, 33W SUPERVOOC",
+    "price": "34,900৳"
+  },
+  {
+    "name": "Realme GT Master Edition Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/gt-master-edition/realme-gt-master-edition-grey-228x228.webp",
+    "description": "Display: 6.43\" FHD+ 120Hz Super AMOLED Display\nProcessor: Qualcomm SM7325 Snapdragon 778G 5G (6 nm)\nCamera: Triple 64+8+2 MP on Rear, 32MP Front\nFeatures: In-display Fingerprint, 65W SuperDart Charge",
+    "price": "34,990৳"
+  },
+  {
+    "name": "OPPO F21 Pro Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/f21-pro/f21-pro-orange-228x228.webp",
+    "description": "Display: 6.43\" FHD+ 90Hz AMOLED Eye-Care Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Triple 64+2+2 MP on Rear, 32MP Front\nFeatures: IPX4, In-Display Fingerprint, 33W SUPERVOOC",
+    "price": "34,999৳"
+  },
+  {
+    "name": "Vivo V27e Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v27e/v27e-lavender-228x228.webp",
+    "description": "Display: 6.62\" FHD+ 120Hz AMOLED Display\nProcessor: Mediatek MT8781 Helio G99 (6nm)\nCamera: Triple 64+2+2 MP on Rear, 32MP Front\nFeatures: IP54, In-display Fingerprint, 66W FlashCharge",
+    "price": "34,999৳"
+  },
+  {
+    "name": "OnePlus Nord CE 3 Lite 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/nord-ce-3-lite-5g/oneplus-nord-ce-3-lite-5g-green-228x228.webp",
+    "description": "Display: 6.72\" FHD+ 120 Hz Display\nProcessor: Qualcomm SM6375 Snapdragon 695 5G (6 nm)\nCamera: Triple 108+2+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 67W SUPERVOOC",
+    "price": "35,990৳"
+  },
+  {
+    "name": "Realme 9 Pro+ Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/realme-9-pro-plus/realme-9-pro-plus-blue-228x228.webp",
+    "description": "Display: 6.4\" FHD+ 90Hz Super AMOLED Display\nProcessor: Mediatek Dimensity 920 5G (6 nm)\nCamera: Triple 50+8+2 MP on Rear, 16MP Front\nFeatures: In-display Fingerprint, 60W SuperDart Charge, Vapor Chamber Cooling System",
+    "price": "36,999৳"
+  },
+  {
+    "name": "Samsung Galaxy M33 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-m33-5g/galaxy-m33-5g-01-228x228.webp",
+    "description": "Display: 6.6\" FHD+ TFT LCD 120Hz Infinity-V Display\nProcessor: Octa-Core 2.4 GHz, Exynos 1280 (5 nm)\nCamera: Quad 50+5+2+2 MP on Rear, 8MP Selfie\nFeatures: Virtual RAM, 6000mAh, 25W Fast Charging",
+    "price": "36,269৳"
+  },
+  {
+    "name": "OnePlus Nord CE 3 Lite 5G Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/nord-ce-3-lite-5g/oneplus-nord-ce-3-lite-5g-green-228x228.webp",
+    "description": "Display: 6.72\" FHD+ 120 Hz Display\nProcessor: Qualcomm SM6375 Snapdragon 695 5G (6 nm)\nCamera: Triple 108+2+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 67W SUPERVOOC",
+    "price": "37,990৳"
+  },
+  {
+    "name": "Realme GT Neo 2 Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/gt-neo-2/realme-gt-neo-2-228x228.webp",
+    "description": "Display: 6.62\" FHD+ 120Hz E4 AMOLED Display\nProcessor: Qualcomm SM8250-AC Snapdragon 870 5G (7 nm)\nCamera: Triple 64+8+2 MP on Rear, 16MP Front\nFeatures: In-display Fingerprint, 65W SuperDart Charge, Vapour Cooling Plus",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo V25 5G Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v25-5g/v25-5g-blue-228x228.webp",
+    "description": "Display: 6.44\" FHD+ 90Hz AMOLED Display\nProcessor: Mediatek MT6877 Dimensity 900 (6 nm)\nCamera: Triple 64+8+2 MP on Rear, 50MP Front\nFeatures: In-display Fingerprint, 44W FlashCharge",
+    "price": "47,999৳"
+  },
+  {
+    "name": "Samsung Galaxy A33 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a33-5g/galaxy-a33-5g-001-228x228.webp",
+    "description": "Display: 6.4\" FHD+ Super AMOLED 90Hz Infinity-U Display\nProcessor: Octa-Core 2.4GHz, Exynos 1280 (5 nm)\nCamera: Quad 48+8+5+2 MP on Rear, 13MP Selfie\nFeatures: IP67, Under display Fingerprint, 25W Fast Charging",
+    "price": "48,499৳"
+  },
+  {
+    "name": "Vivo V27 5G Smartphone (12/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v27-5g/v27-5g-blue-228x228.webp",
+    "description": "Display: 6.78\" FHD+ 120Hz AMOLED 3D Curved Display\nProcessor: Mediatek Dimensity 7200 (4 nm)\nCamera: Triple 50+8+2 MP on Rear, 50MP Front\nFeatures: In-display Fingerprint, 66W FlashCharge",
+    "price": "54,999৳"
+  },
+  {
+    "name": "Samsung Galaxy M53 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-m53-5g/galaxy-m53-5g-001-228x228.webp",
+    "description": "Display: 6.7\" FHD+ Super AMOLED Plus 120Hz Infinity-O Display\nProcessor: MediaTek MT6877 Dimensity 900 (6 nm)\nCamera: Quad 108+8+2+2 MP on Rear, 32MP Selfie\nFeatures: Side Mounted Fingerprint, 25W Fast Charging",
+    "price": "58,599৳"
+  },
+  {
+    "name": "Samsung Galaxy A53 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a53-5g/galaxy-a53-5g-001-228x228.webp",
+    "description": "Display: 6.5\" FHD+ Super AMOLED 120Hz Infinity-O Display\nProcessor: Octa-Core 2.4GHz, Exynos 1280 (5 nm)\nCamera: Quad 64+12+5+5 MP on Rear, 32MP Selfie\nFeatures: IP67, Under Display Fingerprint, 25W Fast Charging",
+    "price": "58,199৳"
+  },
+  {
+    "name": "Apple iPhone 13 128GB Midnight (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-13/midnight/iphone-13-midnight-04-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR displayfootnote\nProcessor: A15 Bionic chip, Storage: 128GB\nCamera: 12MP + 12MP Rear, 12MP Front\nFeatures: Face ID, eSIM Support",
+    "price": "108,000৳"
+  },
+  {
+    "name": "Samsung Galaxy A54 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a54-5g/galaxy-a54-5g-01-228x228.webp",
+    "description": "Display: 6.4\" FHD+ Super AMOLED 120Hz Infinity-O Display\nProcessor: Octa-Core Exynos 1380 (5 nm)\nCamera: Triple 50+12+5 MP on Rear, 32MP Selfie\nFeatures: IP67, Under Display Fingerprint, 25W Fast Charging",
+    "price": "59,999৳"
+  },
+  {
+    "name": "Samsung Galaxy A52s 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a52s-5g/galaxy-a52s-5g-01-228x228.webp",
+    "description": "Display: 6.5\" FHD+ Super AMOLED 120Hz Infinity-O Display\nProcessor: Qualcomm SM7325 Snapdragon 778G 5G (6 nm)\nCamera: Quad 64+12+5+5 MP on Rear, 32MP Selfie\nFeatures: IP67, Under display Fingerprint, 25W Fast Charging",
+    "price": "61,999৳"
+  },
+  {
+    "name": "Google Pixel 7 Android Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/google/pixel-7/pixel-7-obsidian-228x228.webp",
+    "description": "Display: 6.3-inch FHD+ OLED display, up to 90 Hz\nProcessor: Google Tensor G2 Octa-core (5 nm)\nCamera: Triple 50 + 12MP on rear, 10.8MP front\nFeatures: IP68, eSIM, Under Display Fingerprint",
+    "price": "58,000৳"
+  },
+  {
+    "name": "Google Pixel 7a Android Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/google/pixel-7a/pixel-7a-sea-228x228.webp",
+    "description": "Display: 6.1-inch FHD+ OLED display, up to 90 Hz\nProcessor: Google Tensor G2 Octa-core (5 nm)\nCamera: Triple 64 + 13MP on rear, 13MP front\nFeatures: IP67, eSIM, Under Display Fingerprint",
+    "price": "54,000৳"
+  },
+  {
+    "name": "Samsung Galaxy A73 5G Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a73-5g/galaxy-a73-5g-01-228x228.webp",
+    "description": "Display: 6.7\" FHD+ Super AMOLED Plus 120Hz Infinity-O Display\nProcessor: Qualcomm SM7325 Snapdragon 778G 5G (6 nm)\nCamera: Quad 108+12+5+5 MP on Rear, 32MP Selfie\nFeatures: IP67, Under Display Fingerprint, 25W Fast Charging",
+    "price": "72,499৳"
+  },
+  {
+    "name": "POCO X5 Pro 5G Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/poco/x5-pro-5g/x5-pro-5g-black-228x228.webp",
+    "description": "Display: 6.67\" FHD+ Flow AMOLED DotDisplay with 120Hz Refresh Rate\nProcessor: Qualcomm SM7325 Snapdragon 778G 5G (6 nm)\nCamera: Triple 108+8+2 MP on Rear, 16MP Selfie\nFeatures: IP53, Side Fingerprint, 67W Turbo Charging",
+    "price": "38,000৳"
+  },
+  {
+    "name": "Vivo X80 5G Smartphone (12/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/x80/x80-blue-228x228.webp",
+    "description": "Display: 6.78\" FHD+ 120Hz AMOLED Display\nProcessor: Mediatek Dimensity 9000 (4 nm)\nCamera: Quad 50+12+12 MP on Rear, 32MP Front\nFeatures: In-display Fingerprint, 80W FlashCharge",
+    "price": "79,990৳"
+  },
+  {
+    "name": "OnePlus 10T 5G Smartphone (16/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/10t-5g/10t-green-228x228.webp",
+    "description": "Display: 6.7\" FHD+ 120Hz Fluid AMOLED Display\nProcessor: Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)\nCamera: Triple 50+8+2 MP on Rear, 16MP Front\nFeatures: In-display Fingerprint, 150W SUPERVOOC",
+    "price": "80,000৳"
+  },
+  {
+    "name": "HUAWEI P50 Pro Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/huawei/p50-pro/p50-pro-gold-228x228.webp",
+    "description": "Display: 6.6-inch OLED 120Hz True-Chroma Display\nProcessor: Qualcomm SM8350 Snapdragon 888 4G (5 nm)\nCamera: Quad 50+64+13+40 MP on Rear, 13MP Front\nFeatures: IP68, Under Display Fingerprint",
+    "price": "90,000৳"
+  },
+  {
+    "name": "Google Pixel 7 Pro Android Smartphone (12/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/google/pixel-7-pro/pixel-7-pro-hazel-228x228.webp",
+    "description": "Display: 6.7-inch QHD+ OLED display, up to 120 Hz\nProcessor: Google Tensor G2 Octa-core (5 nm)\nCamera: Triple 50 + 48 + 12MP on rear, 10.8MP front\nFeatures: IP68, eSIM, Under Display Fingerprint",
+    "price": "86,000৳"
+  },
+  {
+    "name": "OnePlus 11 5G Smartphone (16/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/11-5g/11-green-228x228.webp",
+    "description": "Display: 6.7\" QHD+ 120Hz Super Fluid AMOLED Display\nProcessor: Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)\nCamera: Triple 64+48+32 MP on Rear, 16MP Front\nFeatures: In-display Fingerprint, 100W SUPERVOOC",
+    "price": "95,000৳"
+  },
+  {
+    "name": "OnePlus 11 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/11-5g/11-black-228x228.webp",
+    "description": "Display: 6.7\" QHD+ 120Hz Super Fluid AMOLED Display\nProcessor: Qualcomm SM8550-AB Snapdragon 8 Gen 2 (4 nm)\nCamera: Triple 64+48+32 MP on Rear, 16MP Front\nFeatures: In-display Fingerprint, 100W SUPERVOOC",
+    "price": "89,990৳"
+  },
+  {
+    "name": "Apple iPhone 14 Plus 128GB Purple (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-plus/midnight/iphone-14-plus-midnight-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A15 Bionic chip, Storage: 128GB\nCamera: 12MP + 12MP Rear, 12MP Front\nFeatures: Face ID, eSIM Support",
+    "price": "137,198৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 256GB Deep Purple (Dual SIM)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/deep-purple/iphone-14-pro-deep-purple-01-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
+    "price": "145,000৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB Deep Purple (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "155,000৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 512GB Deep Purple (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 512GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "180,000৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 128GB Deep Purple (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/deep-purple/iphone-14-pro-deep-purple-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "159,644৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 128GB Space Black (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/space-black/iphone-14-pro-black-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "168,819৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 128GB Gold (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/gold/iphone-14-pro-gold-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "170,000৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 256GB Gold (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/gold/iphone-14-pro-gold-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "174,000৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 256GB Deep Purple (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/deep-purple/iphone-14-pro-deep-purple-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "185,000৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB Space Black (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-black-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "184,547৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB Deep Purple (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "186,744৳"
+  },
+  {
+    "name": "Samsung Galaxy Z Fold4 Smartphone (12/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-z-fold4/galaxy-z-fold4-001-228x228.webp",
+    "description": "Display: 7.6\" FHD+ AMOLED Main Screen, 6.2\" Dynamic AMOLED Cover Screen\nProcessor: Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)\nCamera: Triple 50+10+12 MP Rear, 4MP Under Display, 10MP Cover\nFeatures: Horizontal Foldable, IPX8, Side-mounted Fingerprint",
+    "price": "236,999৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro 128GB Deep Purple (Dual SIM)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/deep-purple/iphone-14-pro-deep-purple-01-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
+    "price": "122,500৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Gold (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/gold/iphone-14-pro-max-gold-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID,eSIM Support",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Silver (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/silver/iphone-14-pro-max-silver-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Silver (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/silver/iphone-14-pro-max-silver-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Gold (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/gold/iphone-14-pro-max-gold-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Space Black (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-space-black-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "123,840৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Deep Purple (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Deep Purple (Dual SIM)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
+    "price": "132,480৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB Deep Purple (Dual SIM)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
+    "price": "141,750৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB Space Black (Dual SIM)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-space-black-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
+    "price": "142,500৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB Gold (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/gold/iphone-14-pro-max-gold-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB Silver (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/silver/iphone-14-pro-max-silver-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "134,400৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 256GB Space Black (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-space-black-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "134,400৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 128GB Deep Purple (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
+    "price": "175,391৳"
+  },
+  {
+    "name": "Apple iPhone 14 256GB Purple (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14/purple/iphone-14-purple-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A15 Bionic chip, Storage: 256GB\nCamera: 12MP + 12MP Rear, 12MP Front\nFeatures: Face ID, eSIM Support",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 512GB Deep Purple (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 512GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 512GB Gold (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/gold/iphone-14-pro-max-gold-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 512GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 512GB Silver (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/silver/iphone-14-pro-max-silver-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 512GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "147,200৳"
+  },
+  {
+    "name": "Apple iPhone 14 Pro Max 512GB Space Black (USA)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-space-black-01-228x228.webp",
+    "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 512GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
+    "price": "TBA"
+  },
+  {
+    "name": "Google Pixel Fold Android Smartphone (12/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/google/pixel-fold/pixel-fold-porcelain-228x228.webp",
+    "description": "Display: 7.6-inch OLED Internal Folding Screen, 5.8-inch OLED Cover Screen\nProcessor: Google Tensor G2 Octa-core (5 nm)\nCamera: Triple 48+10.8+10.8MP on rear, 9.5MP front, 8MP Inner\nFeatures: IPX8, eSIM, Side Fingerprint, Spatial Audio",
+    "price": "TBA"
+  },
+  {
+    "name": "Google Pixel Fold Android Smartphone (12/512GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/google/pixel-fold/pixel-fold-porcelain-228x228.webp",
+    "description": "Display: 7.6-inch OLED Internal Folding Screen, 5.8-inch OLED Cover Screen\nProcessor: Google Tensor G2 Octa-core (5 nm)\nCamera: Triple 48+10.8+10.8MP on rear, 9.5MP front, 8MP Inner\nFeatures: IPX8, eSIM, Side Fingerprint, Spatial Audio",
+    "price": "TBA"
+  },
+  {
+    "name": "Nokia 105 (2019) Dual SIM Feature Phone",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/nokia/nokia-105-2019/nokia-105-2019-black-228x228.webp",
+    "description": "Display: 1.77 inches (120 x 160)\nBattery: Li-Ion 800 mAh, removable\n2,000 contacts and 500 SMS\nFlashlight, FM radio",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme C30 Smartphone (2/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c30/c30-black-228x228.webp",
+    "description": "Display: 6.5\" HD+ Display\nProcessor: Unisoc Tiger T612 (12 nm)\nCamera: Single 8MP Rear, 5MP Front\nFeatures: 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme C11 2021 Smartphone (2/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c11-2021/c11-2021-grey-228x228.webp",
+    "description": "Display: 6.5\" HD+ Display\nProcessor: Unisoc SC9863A (28nm)\nCamera: Single 8MP Rear, 5MP Front\nFeatures: 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo Y02s Smartphone (3/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y02s/y02s-blue-228x228.webp",
+    "description": "Display: 6.51\" HD+ Halo FullView Screen\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Single 8MP on Rear, 5MP Front\nFeatures: 3GB Extended RAM, 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme C11 2021 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c11-2021/c11-2021-blue-228x228.webp",
+    "description": "Display: 6.5\" HD+ Display\nProcessor: Unisoc SC9863A (28nm)\nCamera: Single 8MP Rear, 5MP Front\nFeatures: 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo Y15s Smartphone (3/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y15s/y15s-blue-228x228.webp",
+    "description": "Display: 6.51\" HD+ Halo FullView Screen\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Dual 13+2 MP on Rear, 8MP Front\nFeatures: Side Fingerprint, 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "OPPO A16 Smartphone (3/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a16/a16-blue-228x228.webp",
+    "description": "Display: 6.52\" HD+ Eye-care Display\nProcessor: Mediatek MT6765G Helio G35 (12 nm)\nCamera: Triple 13+2+2 MP on Rear, 8MP Front\nFeatures: Side Fingerprint, 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "OPPO A16e Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a16e/a16e-blue-228x228.webp",
+    "description": "Display: 6.52\" HD+ Eye-care Display\nProcessor: Mediatek MT6762D Helio P22 (12 nm)\nCamera: Single 13MP on Rear, 5MP Front\nFeatures: Support Face Unlock",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A04 Smartphone (3/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a04/galaxy-a04-04-228x228.webp",
+    "description": "Display: 6.5\" 720 x 1600 (HD+)\nProcessor: Octa-core (4x2.3 GHz 4x1.8 GHz)\nCamera: 50MP + 2MP Rear, 5MP Front\nFeatures: 5000mAh Li-Ion Battery",
+    "price": "16,659৳"
+  },
+  {
+    "name": "Realme C25Y Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c25y/c25y-blue-228x228.webp",
+    "description": "Display: 6.5\" HD+ Display\nProcessor: Unisoc Tiger T610 (12 nm)\nCamera: Triple 50+2+2 MP Rear, 5MP Front\nFeatures: Rear Fingerprint, 5000mAh Battery, 18W Quick Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme C31 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c31/c31-silver-228x228.webp",
+    "description": "Display: 6.5\" HD+ Display\nProcessor: Unisoc Tiger T612 (12 nm)\nCamera: Triple 13+2+0.3 MP Rear, 5MP Front\nFeatures: Side Fingerprint, 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Motorola Moto E40 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/motorola/moto-e40/moto-g31-mineral-grey-01 (1)-228x228.webp",
+    "description": "Display: 6.5\" HD+ (720x1600) IPS LCD 90Hz\nProcessor: Octa-core 1.8 GHz Unisoc T700\nCamera: Triple 48+2+2 MP on Rear, 8MP Selfie\nFeatures: IP52, Rear Fingerprint, 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme Narzo 50A Prime Smartphone (4/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/narzo-50a-prime/narzo-50a-prime-blue-228x228.webp",
+    "description": "Display: 6.6\" FHD+ Display\nProcessor: Unisoc Tiger T612 (12 nm)\nCamera: Triple 50+2+0.3 MP on Rear, 8MP Front\nFeatures: Side Fingerprint, 18W Quick Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo Y21 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y21/y21-diamond-glow-228x228.webp",
+    "description": "Display: 6.51\" HD+ Halo FullView Screen\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Dual 13+2 MP on Rear, 8MP Front\nFeatures: 1GB Extended RAM, Side Fingerprint",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme C25s Smartphone (4/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c25s/c25s-blue-228x228.webp",
+    "description": "Display: 6.5\" HD+ Display\nProcessor: Mediatek MT6769Z Helio G85 (12nm)\nCamera: Triple 48+2+2 MP Rear, 8MP Front\nFeatures: Rear Fingerprint, 6000mAh Battery, 18W Quick Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme C35 Smartphone (4/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c35/c35-black-228x228.webp",
+    "description": "Display: 6.6\" FHD+ Display\nProcessor: Unisoc Tiger T616 (12 nm)\nCamera: Triple 50+2+0.3 MP Rear, 8MP Front\nFeatures: Side Fingerprint, 18W Quick Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "OPPO A54 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a54/a54-blue-228x228.webp",
+    "description": "Display: 6.51\" HD+ Eye Care, Punch-Hole Screen\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Triple 13+2+2 MP on Rear, 16MP Front\nFeatures: IPX4, Side Fingerprint, 18W Fast Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A04s Smartphone (4/64 GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a04s/galaxy-a04s-001-228x228.webp",
+    "description": "Display: 6.5\" 720 x 1600 (HD+)\nProcessor: Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)\nCamera: 50MP + 2MP + 2MP Rear, 5MP Front\nFeatures: 5000mAh Li-Ion Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme Narzo 50 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/narzo-50/narzo-50-blue-228x228.webp",
+    "description": "Display: 6.6\" FHD+ 120Hz Display\nProcessor: Mediatek Helio G96 (12 nm)\nCamera: Triple 50+2+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 33W Dart Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A04s Smartphone (4/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a04s/galaxy-a04s-001-228x228.webp",
+    "description": "Display: 6.5” HD+ Infinity-V Display\nProcessor: Exynos 850 (8nm)\nCamera: Triple 50+2+2MP Rear, 5MP Front\nFeatures: 5000mAh Battery, 15W Fast Charging",
+    "price": "TBA"
+  },
+  {
+    "name": "OnePlus Nord N20 SE Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/nord-n20-se/nord-n20-se-blue-228x228.webp",
+    "description": "Display: 6.56\" HD+ Colour-Rich Display\nProcessor: Mediatek MT6765G Helio G35 (12 nm)\nCamera: Dual 50+2 MP on Rear, 8MP Front\nFeatures: Side Fingerprint, 33W SUPERVOOC",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme C35 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c35/c35-green-228x228.webp",
+    "description": "Display: 6.6\" FHD+ Display\nProcessor: Unisoc Tiger T616 (12 nm)\nCamera: Triple 50+2+0.3 MP Rear, 8MP Front\nFeatures: Side Fingerprint, 18W Quick Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Motorola Moto G31 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/motorola/moto-g31/moto-g31-mineral-grey-01-228x228.webp",
+    "description": "Display: 6.4\" FHD+ (2400x1080) OLED\nProcessor: Mediatek MT6769Z Helio G85 (12nm)\nCamera: Triple 50+8+2 MP on Rear, 13MP Selfie\nFeatures: Rear Fingerprint, 20W Fast Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme Narzo 50 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/narzo-50/narzo-50-black-228x228.webp",
+    "description": "Display: 6.6\" FHD+ 120Hz Display\nProcessor: Mediatek Helio G96 (12 nm)\nCamera: Triple 50+2+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 33W Dart Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme 9i Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/realme-9i/realme-9i-blue-228x228.webp",
+    "description": "Display: 6.6\" FHD+ 90Hz Ultra Smooth Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Triple 50+2+2 MP on Rear, 16MP Front\nFeatures: Side Fingerprint, 33W Dart Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "OPPO A76 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a76/a76-blue-228x228.webp",
+    "description": "Display: 6.56\" HD+ 90Hz Colour-Rich Punch-Hole Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Dual 13+2 MP on Rear, 8MP Front\nFeatures: Side Fingerprint, 33W SUPERVOOC",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A13 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a13/galaxy-a13-001-228x228.webp",
+    "description": "Display: 6.6\" 1080 x 2408 (FHD+)\nProcessor: Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)\nCamera: 50MP + 5MP + 2MP + 2MP Rear, 8MP Front\nFeatures: 5000mAh Li-Ion Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "OPPO A95 Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/a95/a95-silver-228x228.webp",
+    "description": "Display: 6.43\" FHD+ AMOLED Display\nProcessor: Qualcomm SM6115 Snapdragon 662 (11 nm)\nCamera: Triple 48+2+2 MP on Rear, 16MP Front\nFeatures: 5GB Extended RAM, In-Display Fingerprint, 33W Flash Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy F22 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-f22/galaxy-f22-001-228x228.webp",
+    "description": "Display: 6.4\" HD+ Super AMOLED 90Hz Infinity-U Display\nProcessor: Mediatek MT6769V/CU Helio G80 (12 nm)\nCamera: Quad 48+8+2+2 MP on Rear, 13MP Selfie\nFeatures: 6000mAh Battery, Side Mounted Fingerprint",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme 9 Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/realme-9/realme-9-gold-228x228.webp",
+    "description": "Display: 6.4\" FHD+ 90Hz Super AMOLED Display\nProcessor: Qualcomm SM6225 Snapdragon 680 4G (6 nm)\nCamera: Triple 108+8+2 MP on Rear, 16MP Front\nFeatures: In-display Fingerprint, 33W Dart Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme 8 Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/realme-8/realme-8-silver-228x228.webp",
+    "description": "Display: 6.4\" FHD+ Super AMOLED Display\nProcessor: Mediatek Helio G95 (12 nm)\nCamera: Quad 64+8+2+2 MP on Rear, 16MP Front\nFeatures: In-Display Fingerprint, 30W Dart Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Motorola Edge 20 Fusion Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/motorola/edge-20-fusion/edge-20-fusion-graphite-01-228x228.webp",
+    "description": "Display: 6.7\" FHD+ (2400x1080) OLED 90Hz HDR10+\nProcessor: Mediatek MT6853 Dimensity 800U (7 nm)\nCamera: Triple 108+8+2 MP on Rear, 32MP Selfie\nFeatures: IP52, Side Fingerprint, 30W Fast Charge",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo V27e Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v27e/v27e-lavender-228x228.webp",
+    "description": "Display: 6.62\" FHD+ 120Hz AMOLED Display\nProcessor: Mediatek MT8781 Helio G99 (6nm)\nCamera: Triple 64+2+2 MP on Rear, 32MP Front\nFeatures: IP54, In-display Fingerprint, 66W FlashCharge",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo V23 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v23-5g/v23-5g-black-228x228.png",
+    "description": "Display: 6.44\" FHD+ AMOLED 90Hz Display\nProcessor: Mediatek Dimensity 920 (6 nm)\nCamera: Triple 64+8+2 MP on Rear, Dual 50+8 MP Front\nFeatures: In-display Fingerprint, 44W FlashCharge",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A52 Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a52/galaxy-a52-001-228x228.webp",
+    "description": "Display: 6.5\" FHD+ Super AMOLED 90Hz Infinity-O Display\nProcessor: Qualcomm SM7125 Snapdragon 720G (8 nm)\nCamera: Quad 64+12+5+5 MP on Rear, 32MP Selfie\nFeatures: IP67, Under display Fingerprint, 25W Fast Charging",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo V27 5G Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/v27-5g/v27-5g-blue-228x228.webp",
+    "description": "Display: 6.78\" FHD+ 120Hz AMOLED 3D Curved Display\nProcessor: Mediatek Dimensity 7200 (4 nm)\nCamera: Triple 50+8+2 MP on Rear, 50MP Front\nFeatures: In-display Fingerprint, 66W FlashCharge",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy S21 FE 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s21-fe-5g/galaxy-s21-fe-5g-01-228x228.webp",
+    "description": "Display: 6.4’’ FHD+ Dynamic AMOLED 2x, 120Hz Infinity-O Display\nProcessor: Octa-Core 2.9 GHz, Exynos 2100 5nm\nCamera: 12MP + 12MP + 8MP on Rear, 32MP Selfie\nFeatures: IP68, Under Display Fingerprint, 25W Fast Charging",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 128GB Purple (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14/purple/iphone-14-purple-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A15 Bionic chip, Storage: 128GB\nCamera: 12MP + 12MP Rear, 12MP Front\nFeatures: Face ID, eSIM Support",
+    "price": "TBA"
+  },
+  {
+    "name": "Apple iPhone 14 128GB Midnight (Singapore)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14/midnight/iphone-14-midnight-228x228.webp",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A15 Bionic chip, Storage: 128GB\nCamera: 12MP + 12MP Rear, 12MP Front\nFeatures: Face ID, eSIM Support",
+    "price": "146,999৳"
+  },
+  {
+    "name": "Samsung Galaxy S22+ Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s22-plus/galaxy-s22-plus-01-228x228.webp",
+    "description": "Display: 6.6\" FHD+ Dynamic AMOLED 2X, 120Hz Infinity-O Display\nProcessor: Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)\nCamera: 50MP + 10MP + 12MP on Rear, 10MP Selfie\nFeatures: Under Display Fingerprint, 45W Fast Charging, IP68",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy Z Flip4 Smartphone (8/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-z-flip4/galaxy-z-flip4-001-228x228.webp",
+    "description": "Display: 6.7\" FHD+ AMOLED Main Screen, 1.9\" Super AMOLED Cover Screen\nProcessor: Qualcomm SM8475 Snapdragon 8+ Gen 1 (4 nm)\nCamera: Dual 12+12 MP on Rear, 10MP Selfie\nFeatures: Vertical Foldable, IPX8, 25W Fast Charging",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy S22 Ultra Smartphone (12/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s22-ultra/galaxy-s22-ultra-001-228x228.webp",
+    "description": "Display: 6.6\" Quad HD+ Dynamic AMOLED 2X, 120Hz\nProcessor: Qualcomm SM8450 Snapdragon 8 Gen 1 (4 nm)\nCamera: Quad 108+10+10+12 MP on Rear, 40MP Selfie\nFeatures: Under Display Fingerprint, 45W Fast Charging, IP68",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra Smartphone (12/256GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s23-ultra/galaxy-s23-ultra-green-01-228x228.webp",
+    "description": "Display: 6.8\" Quad HD+ Dynamic AMOLED 2X, 120Hz, HDR10+\nProcessor: Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)\nCamera: Quad 200+10+10+12 MP on Rear, 12MP Selfie\nFeatures: Under Display Fingerprint, 45W Fast Charging, IP68",
+    "price": "224,999৳"
+  },
+  {
+    "name": "Samsung Galaxy S23 Ultra Smartphone (12/512GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-s23-ultra/galaxy-s23-ultra-green-01-228x228.webp",
+    "description": "Display: 6.8\" Quad HD+ Dynamic AMOLED 2X, 120Hz, HDR10+\nProcessor: Qualcomm SM8550-AC Snapdragon 8 Gen 2 (4 nm)\nCamera: Quad 200+10+10+12 MP on Rear, 12MP Selfie\nFeatures: Under Display Fingerprint, 45W Fast Charging, IP68",
+    "price": "232,499৳"
+  },
+  {
+    "name": "Vivo Y02 Smartphone (2/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y02/y02-blue-228x228.webp",
+    "description": "Display: 6.51\" HD+ Eye Protection Screen\nProcessor: MediaTek MT6762 Helio P22 (12nm)\nCamera: Single 8MP on Rear, 5MP Front\nFeatures: 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo Y02A Smartphone (3/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y02a/y02a-grey-228x228.webp",
+    "description": "Display: 6.51\" HD+ Eye Protection Screen\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Single 8MP on Rear, 5MP Front\nFeatures: 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A04e Smartphone (3/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a04e/galaxy-a04e-01-228x228.webp",
+    "description": "Display: 6.5-inch HD+ Infinity-V Display\nProcessor: Mediatek MT6765 Helio P35 (12nm)\nCamera: Dual 13+2 MP Rear, 5MP Front\nFeatures: 5000mAh Li-Ion Battery",
+    "price": "14,601৳"
+  },
+  {
+    "name": "Realme C33 Smartphone (3/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c33/c33-black-228x228.webp",
+    "description": "Display: 6.5\" HD+ Display\nProcessor: Unisoc Tiger T612 (12 nm)\nCamera: Dual 50+0.3 MP Rear, 5MP Front\nFeatures: Side Fingerprint, 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Realme C33 Smartphone (4/64GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/realme/c33/c33-blue-228x228.webp",
+    "description": "Display: 6.5\" HD+ Display\nProcessor: Unisoc Tiger T612 (12 nm)\nCamera: Dual 50+0.3 MP Rear, 5MP Front\nFeatures: Side Fingerprint, 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A03 Smartphone (3/32GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a03/galaxy-a03-01-228x228.webp",
+    "description": "Display: 6.5\" HD+ Infinity-V Display\nProcessor: Unisoc T606 (12 nm)\nCamera: Dual 48+2 MP Rear, 5MP Front\nFeatures: 5000mAh Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "OnePlus Nord N20 SE Smartphone (4/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/oneplus/nord-n20-se/nord-n20-se-green-228x228.webp",
+    "description": "Display: 6.56\" HD+ Colour-Rich Display\nProcessor: Mediatek MT6765G Helio G35 (12 nm)\nCamera: Dual 50+2 MP on Rear, 8MP Front\nFeatures: Side Fingerprint, 33W SUPERVOOC",
+    "price": "TBA"
+  },
+  {
+    "name": "Vivo Y53s Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/vivo/y53s/y53s-fantastic-rainbow-228x228.webp",
+    "description": "Display: 6.58\" FHD+ in-cell Display\nProcessor: Mediatek MT6769V/CU Helio G80 (12 nm)\nCamera: Triple 64+2+2 MP on Rear, 16MP Front\nFeatures: 4GB Extended RAM, Side Fingerprint, 33W FlashCharge",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A13 Smartphone (6/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a13/galaxy-a1307-228x228.webp",
+    "description": "Display: 6.6\" 1080 x 2408 (FHD+)\nProcessor: Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)\nCamera: 50MP + 5MP + 2MP + 2MP Rear, 8MP Front\nFeatures: 5000mAh Li-Ion Battery",
+    "price": "TBA"
+  },
+  {
+    "name": "Samsung Galaxy A34 5G Smartphone (8/128GB)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a34-5g/galaxy-a34-5g-01-228x228.webp",
+    "description": "Display: 6.6\" FHD+ Super AMOLED 120Hz Display\nProcessor: Mediatek MT6877V Dimensity 1080 (6 nm)\nCamera: Triple 48+8+5 MP on Rear, 13MP Selfie\nFeatures: IP67, Under display Fingerprint, 25W Fast Charging",
+    "price": "TBA"
+  }
+]

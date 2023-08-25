@@ -1,0 +1,746 @@
+[
+  {
+    "name": "Toten 6U 600 x 450mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el265-6-6u/el265-6-6u-01-228x228.webp",
+    "description": "Size: 600 x 450mm\nFan: 2 Fans (Low noise)\nPDU: 6 ports\nGlass Door",
+    "price": "10,000৳"
+  },
+  {
+    "name": "ASUS TS100-E11-PI4 Intel Xeon E-2334 4 Core Tower Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/asus/ts100-e11-pi4/ts100-e11-pi4-01-228x228.webp",
+    "description": "Processor: Intel Xeon E-2334 Processor (3.60GHz up to 4.80GHz)\nRAM: 16GB 3200MT/s UDIMM ECC\nStorage: 2 x 1TB 7.2K RPM SATA3 Hard Drive\n300W 80PLUS Bronze Power Supply",
+    "price": "155,000৳"
+  },
+  {
+    "name": "Toten 9U 600 x 600mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el266-9-9u/el266-9-9u-01-228x228.webp",
+    "description": "Size: 600 x 600mm\nFan:  2 Fans (Low noise)\nLock: Round, DU: 6 ports\nGlass Door",
+    "price": "13,000৳"
+  },
+  {
+    "name": "ASUS TS100-E11-PI4 Intel Xeon E-2336 6 Core Tower Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/asus/ts100-e11-pi4/ts100-e11-pi4-01-228x228.webp",
+    "description": "Processor: Intel Xeon E-2336 Processor (2.90GHz up to 4.80GHz)\nRAM: 16GB 3200MT/s UDIMM ECC\nStorage: 2 x 1TB 7.2K RPM SATA3 Hard Drive\n300W 80PLUS Bronze Power Supply",
+    "price": "168,000৳"
+  },
+  {
+    "name": "Toten 12U 600 x 450mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el265-12-12u/el265-12-12u-01-228x228.webp",
+    "description": "Size: 600 x 450mm\nFan:  2 Fans (Low noise)\nLock: Round, DU: 6 ports\nGlass Door",
+    "price": "14,500৳"
+  },
+  {
+    "name": "ASUS TS100-E11-PI4 Intel Xeon E-2378 8 Core Tower Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/asus/ts100-e11-pi4/ts100-e11-pi4-01-228x228.webp",
+    "description": "Processor: Intel Xeon E-2378 Processor (2.60GHz up to 4.80GHz)\nRAM: 16GB 3200MT/s UDIMM ECC\nStorage: 2 x 1TB 7.2K RPM SATA3 Hard Drive\n300W 80PLUS Bronze Power Supply",
+    "price": "178,000৳"
+  },
+  {
+    "name": "HPE ProLiant MicroServer Gen10 Plus v2 Ultra Micro Tower Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/hpe/proliant-microserver-gen10-plus-v2/proliant-microserver-gen10-plus-v2-01-228x228.webp",
+    "description": "Processor: 1 x Intel Xeon E-2314 2.8GHz, 4C/4T, 8GT/s, 8M Cache, Turbo (65W)\nMemory: 1 x HPE 16GB (1x16GB) DDR4-3200 RAM\nInternal Storage: 3x HPE 1TB SATA 6G HDD\nExpansion Slots: 1 standard (Low Profile) PCIe 4.0",
+    "price": "200,000৳"
+  },
+  {
+    "name": "Safenet 9U Wall Mount Network Cabinet with PDU",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/snw-series/safenet-snw-01-228x228.webp",
+    "description": "Tempered Glass side with Advanced Swivel Lock\nAdjustable Front and Rear Vertical Rails\nPreinstalled 2-Fans on top and Brush Panel\nDimension: 600 x 450 x 500 mm",
+    "price": "15,500৳"
+  },
+  {
+    "name": "HPE ProLiant ML30 Gen10 Plus Tower Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/hpe/proliant-ml30-gen10-plus/proliant-ml30-gen10-plus-01-228x228.webp",
+    "description": "Processor: 1 x Intel Xeon E-2334 3.4GHz 4-core 65W Processor\nMemory: 1 x HPE 16GB (1x16GB) DDR4-3200 RAM\nInternal Storage: 2x HPE 1TB SATA 6G SSD\nExpansion Slots: Four PCIe slots",
+    "price": "205,000৳"
+  },
+  {
+    "name": "Dell PowerEdge T150 Tower Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/dell/poweredge-t150/poweredge-t150-01-228x228.jpg",
+    "description": "Processor: Intel Xeon E-2334 3.4GHz, 8M Cache, 4C/8T, Turbo (65W), 3200 MT/s\nChassis Type: 3.5\" Chassis with up to 4 Hot Plug Hard Drives\nMemory: 16GB UDIMM, 3200MT/s, ECC\nRAID Controller: PERC H355 Adapter FH (RAID levels 0, 1, 10 )",
+    "price": "280,000৳"
+  },
+  {
+    "name": "Toten 12U 600 x 600mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el265-12-12u/el265-12-12u-01-228x228.webp",
+    "description": "Size: 600 x 600mm\nFan:  2 Fans (Low noise)\nLock: Round, DU: 6 ports\nGlass Door",
+    "price": "16,000৳"
+  },
+  {
+    "name": "Dell PowerEdge T350 Tower Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/dell/poweredge-t350/poweredge-t350-01-228x228.jpg",
+    "description": "Processor: Intel Xeon E-2356G 3.2GHz, 12M Cache, 6C/12T, Turbo (80W), 3200 MT/s\nChassis Type: 3.5\" Chassis with up to 8 Hot Plug Hard Drives and AIC PERC, hot-plug PSU\nMemory: 16GB UDIMM, 3200MT/s, ECC\nRAID Controller: PERC H355 Adapter FH (RAID levels 0, 1, 10 )",
+    "price": "330,000৳"
+  },
+  {
+    "name": "Toten 15U 600 x 600mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el266-15-15u/el266-15-15u-01-228x228.webp",
+    "description": "Size: 600 x 600mm\nFan:  2 Fans (Low noise)\nLock: Round, DU: 6 ports\nGlass Door",
+    "price": "17,500৳"
+  },
+  {
+    "name": "Synology RKS-02 Sliding Rail Kit for Synology Rackmount Servers",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/rks-02/rks-02-01-228x228.webp",
+    "description": "Synology Rackmount Servers, Provides Easy Access to Servers\nMount post width must be equal to or greater than 450 mm\nPanel width must be equal to or greater than 480 mm\nRack mounting depth: 610 mm to 890 mm",
+    "price": "18,500৳"
+  },
+  {
+    "name": "Safenet 15U Wall Mount Network Cabinet with PDU",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/snw-series/safenet-snw-01-228x228.webp",
+    "description": "Tempered Glass side with Advanced Swivel Lock\nAdjustable Front and Rear Vertical Rails\nPreinstalled 2-Fans on top and Brush Panel\nDimension: 600 x 600 x 770 mm",
+    "price": "20,000৳"
+  },
+  {
+    "name": "HPE ProLiant DL20 Gen10 Plus Rack Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/hpe/proliant-dl20-gen10-plus/proliant-dl20-gen10-plus-01-228x228.webp",
+    "description": "Processor: 1 x Intel Xeon E-2314 2.8GHz 4-core 65W Processor \nMemory: 2 x HPE 16GB (1x16GB) DDR4-3200 RAM\nInternal Storage:  2 x HPE 1.2TB SAS 12G HDD\nExpansion Slots: 2 x PCIe Gen4 slots",
+    "price": "450,000৳"
+  },
+  {
+    "name": "Safenet 32U 2-Post Open Frame Floor Standing Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/sn2f/sn2f-01-228x228.jpg",
+    "description": "Solid structure, modular Design & easy mounting\nHeavy duty Casters with brake to roll out\nEasy access to Structured Cabling equipment\nDimension: 600 x 600 x 1562 mm",
+    "price": "21,000৳"
+  },
+  {
+    "name": "Safenet 32U 4-Post Open Frame Floor Standing Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/sn4f/sn4f-01-228x228.webp",
+    "description": "Solid structure, modular Design & easy mounting\nHeavy duty Casters with brake to roll out\nEasy access to Structured Cabling equipment\nDimension: 600 x 600 x 1562 mm",
+    "price": "25,000৳"
+  },
+  {
+    "name": "Synology DiskStation DS220J 2-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds220j/diskstation-ds220j-01-228x228.webp",
+    "description": "Processor: 1.4 GHz Realtek RTD1296 Quad-Core\nRAM: 512 MB DDR4 non-ECC\nHDD Interface: 2 x 3.5/2.5\" SATA III/II\nLAN: 1x Gigabit (RJ-45)",
+    "price": "27,500৳"
+  },
+  {
+    "name": "Dell PowerEdge R750xs Intel Xeon Silver 4310T Rack Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/dell/poweredge-r750xs/poweredge-r750xs-01-228x228.webp",
+    "description": "Processor: 2 x Intel Xeon Silver 4310T 2.3G, 10C/20T, 10.4GT/s, 15M Cache, Turbo, HT (105W)\nMemory: 2 x 32GB RDIMM, 3200MT/s, Dual Rank, 16Gb BASE x8\nStorage: 6 x 2.4TB 10K RPM SAS 12G 2.5in Hot-plug Hard Drive\nNetwork: Intel i350 Quad Port 1GbE BASE-T, OCP NIC 3.0",
+    "price": "880,000৳"
+  },
+  {
+    "name": "Safenet 42U 4-Post Open Frame Floor Standing Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/sn4f/sn4f-01-228x228.webp",
+    "description": "Solid structure, modular Design & easy mounting\nHeavy duty Casters with brake to roll out\nEasy access to Structured Cabling equipment\nDimension: 600 x 600 x 2000 mm",
+    "price": "28,000৳"
+  },
+  {
+    "name": "HPE ProLiant DL380 Generation 10 PLUS 2 x Intel Xeon-Silver 4310 64GB RAM 3 x HPE 2.4TB HDD Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/hpe/proliant-dl380-gen10/proliant-dl380-gen10-01-228x228.jpg",
+    "description": "Processor: 2 x Intel Xeon-Silver 4310 2.1GHz 12-core 120W Processor\nMemory: HPE 64GB (2 x32GB) Dual Rank x4 DDR4-3200 RAM\nInternal Storage: 3 X HPE 2.4TB SAS HDD\nExpansion Slots: Up to 8 PCIe  slots",
+    "price": "925,000৳"
+  },
+  {
+    "name": "HPE ProLiant DL380 Generation 10 PLUS 64GB RAM 3 X HPE 1.2TB HDD Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/hpe/proliant-dl380-gen10/proliant-dl380-gen10-01-228x228.jpg",
+    "description": "Processor: 2 x Intel Xeon-Silver 4310 2.1GHz 12-core 120W Processor\nMemory: HPE 64GB (2 x32GB) Dual Rank x4 DDR4-3200 RAM\nInternal Storage: 3 X HPE 1.2TB SAS HDD\nExpansion Slots: Up to 8 PCIe  slots",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology HAT5300 4TB SATA III 3.5\" Enterprise HDD",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/synology/hat5300/hat5300-4tb-01-228x228.webp",
+    "description": "Form Factor: 3.5\"\nInterface: SATA 6 Gb/s\nRotational Speed: 7,200 rpm\nInterface Speed: 6.0 Gb/s, 3.0 Gb/s, 1.5 Gb/s",
+    "price": "29,500৳"
+  },
+  {
+    "name": "Cisco UCS C240 M6 2U SFF Rack Server (12 Core)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/cisco/ucs-c240-m6/ucs-c240-m6-01-228x228.jpg",
+    "description": "Processor: 2 x Intel 4310 2.1GHz/120W 12C/18MB DDR4 2667MHz\nRAM: 2 x 32GB RDIMM DRx4 3200 (8Gb)\nHDD: 2 x 2.4 TB 12G SAS 10K RPM SFF HDD (4K)\nRAID: Cisco 12G SAS, w/4GB FBWC Â (16 Drv) w/2U Brkt",
+    "price": "TBA"
+  },
+  {
+    "name": "Toten 22U 600 x 1000mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el26100-22-22u/el26100-22-22u-01-228x228.webp",
+    "description": "Size: 600 x 1000mm\nFan:  4 Fans (Low noise)\nDU: 6 ports\nGlass front door With Push Lock",
+    "price": "34,500৳"
+  },
+  {
+    "name": "Cisco UCS C240 M6 2U SFF Rack Server (10 Core)",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/cisco/ucs-c240-m6/ucs-c240-m6-01-228x228.jpg",
+    "description": "Processor: 2 x Intel 4310T 2.3GHz/105W 10C/15MB DDR4 2667MHz\nRAM: 2 x 32GB RDIMM DRx4 3200 (8Gb)\nHDD: 4 x 1.2 TB 12G SAS 10K RPM SFF HDD\nRAID: Cisco 12G SAS, w/4GB FBWC Â (16 Drv) w/2U Brkt",
+    "price": "TBA"
+  },
+  {
+    "name": "Safenet 22U Tempered Glass Door Floor Standing Server Cabinet",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/sng-series/safenet-sng-01-228x228.webp",
+    "description": "Tempered Glass front door with Advanced Swivel Lock\nHex-vented hole rear door to improve cooling efficiency\nPreinstalled 4-Fans on top and Brush Panel\nDimension: 600 x 800 x 1166 mm",
+    "price": "44,500৳"
+  },
+  {
+    "name": "HPE ProLiant DL380 Generation 10 PLUS 2 x Intel Xeon-Silver 4314 64GB RAM 3 x HPE 2.4TB HDD Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/hpe/proliant-dl380-gen10/proliant-dl380-gen10-01-228x228.jpg",
+    "description": "Processor: 2 x Intel Xeon-Silver 4314 2.4GHz 16-core 135W Processor\nMemory: HPE 64GB (2 x32GB) Dual Rank x4 DDR4-3200 RAM\nInternal Storage: 3 X HPE 2.4TB SAS HDD\nExpansion Slots: Up to 8 PCIe  slots",
+    "price": "TBA"
+  },
+  {
+    "name": "Safenet 22U-XL Tempered Glass Door Floor Standing Server Cabinet",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/sng-series/safenet-sng-01-228x228.webp",
+    "description": "Tempered Glass front door with Advanced Swivel Lock\nHex-vented hole rear door to improve cooling efficiency\nPreinstalled 4-Fans on top and Brush Panel\nDimension: 600 x 1000 x 1166 mm",
+    "price": "45,000৳"
+  },
+  {
+    "name": "Asustor DRIVESTOR 4 Pro AS3304T 4-Bay NAS",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/drivestor-4-pro/drivestor-4-pro-01-228x228.jpg",
+    "description": "Realtek RTD1296 Quad-Core 1.4 GHz CPU\nUses 2 GB DDR4 40% more efficient\nSuperfast 2.5-Gigabit Ethernet\nMax Internal Capacity: 72 TB",
+    "price": "51,800৳"
+  },
+  {
+    "name": "Dell PowerEdge R750 12c Rack Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/dell/poweredge-r750/poweredge-r750-01-228x228.jpg",
+    "description": "Processor: 2 x Intel Xeon Silver 4310 2.1G, 12C/24T, 10.4GT/s, 18M Cache, Turbo, HT (120W) DDR4-2666\nChassis Type: 2.5\" Chassis with up to 16 SAS/SATA Drives, 2 CPU\nMemory: 32GB RDIMM, 3200MT/s, Dual Rank\nBezel: PowerEdge 2U Standard Bezel",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell PowerEdge R750 Rack Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/dell/poweredge-r750/poweredge-r750-01-228x228.jpg",
+    "description": "Processor: 2 x Intel Xeon Silver 4314 2.4G, 16C/32T, 24M Cache (135W) DDR4-2666\nChassis Type: 2.5\" Chassis with up to 16 SAS/SATA Drives, 2 CPU\nMemory: 32GB RDIMM, 3200MT/s, Dual Rank\nBezel: PowerEdge 2U Standard Bezel",
+    "price": "TBA"
+  },
+  {
+    "name": "Toten 42U 600 x 1000mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el26100-42-42u/el26100-42-42u-01-228x228.webp",
+    "description": "Size: 600 x 1000mm\nFan:  4 Fans (Low noise)\nPDU: 6 ports\nGlass front door, Perforated Rear Door",
+    "price": "53,000৳"
+  },
+  {
+    "name": "Safenet 32U Tempered Glass Door Floor Standing Server Cabinet",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/sng-series/safenet-sng-01-228x228.webp",
+    "description": "Tempered Glass front door with Advanced Swivel Lock\nHex-vented hole rear door to improve cooling efficiency\nPreinstalled 4-Fans on top and Brush Panel\nDimension: 600 x 1000 x 1610 mm",
+    "price": "58,000৳"
+  },
+  {
+    "name": "Synology DiskStation DS423+ 4-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds423-plus/diskstation-ds423-plus-01-228x228.webp",
+    "description": "Processor: 2.0 GHz Intel Celeron J4125 Quad-Core\nRAM: 2 GB DDR4 non-ECC SODIMM\nHDD Interface: 4 x 2.5\"/3.5\" SATA III/II\nLAN: 2x Gigabit (RJ-45)",
+    "price": "63,500৳"
+  },
+  {
+    "name": "Synology HAT5300 12TB SATA III 3.5\" Enterprise HDD",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/synology/hat5300/hat5300-12tb-01-228x228.webp",
+    "description": "Form Factor: 3.5\"\nInterface: SATA 6 Gb/s\nRotational Speed: 7,200 rpm\nInterface Speed: 6.0 Gb/s, 3.0 Gb/s, 1.5 Gb/s",
+    "price": "64,500৳"
+  },
+  {
+    "name": "Toten 42U 800 x 1000mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el26100-42-42u/el26100-42-42u-01-228x228.webp",
+    "description": "Size: 800 x 1000mm\nFan:  4 Fans (Low noise)\nPDU: 10 ports\nGlass front door, Perforated Rear Door",
+    "price": "66,000৳"
+  },
+  {
+    "name": "Asustor AS6602T NAS Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as6602t/as6602t-01-228x228.webp",
+    "description": "Dual M.2 NVMe SSD ports for fast caching\nTwo 2.5 GbE ports with up to 5 Gbps \nOverwhelming 4K experience\n4GB SO-DIMM DDR4 Memory",
+    "price": "67,500৳"
+  },
+  {
+    "name": "Synology DiskStation DS923+ 4-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds923-plus/diskstation-ds923-plus-01-228x228.webp",
+    "description": "Processor: 2.6 GHz AMD Ryzen R1600 Dual-Core\nRAM: 4GB DDR4 RAM\nHDD Interface: 4 x 3.5/2.5\" Bays, 2 x M.2 2280 Slots\nLAN: 2 x Gigabit Ethernet Ports",
+    "price": "75,500৳"
+  },
+  {
+    "name": "Safenet 42U Tempered Glass Door Floor Standing Server Cabinet",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/sng-series/safenet-sng-01-228x228.webp",
+    "description": "Tempered Glass front door with Advanced Swivel Lock\nHex-vented hole rear door to improve cooling efficiency\nPreinstalled 4-Fans on top and Brush Panel\nDimension: 600 x 1000 x 2055 mm",
+    "price": "78,000৳"
+  },
+  {
+    "name": "Synology HAT5300 16TB SATA III 3.5\" Enterprise HDD",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/synology/hat5300/hat5300-16tb-01-228x228.jpg",
+    "description": "Form Factor: 3.5\"\nInterface: SATA 6 Gb/s\nRotational Speed: 7,200 rpm\nInterface Speed: 6.0 Gb/s, 3.0 Gb/s, 1.5 Gb/s",
+    "price": "82,500৳"
+  },
+  {
+    "name": "Asustor AS6604T NAS Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as6604t-01-228x228.jpg",
+    "description": "Dual M.2 NVMe SSD ports for fast caching\nTwo 2.5 GbE ports with up to 5 Gbps \nOverwhelming 4K experience\n4GB SO-DIMM DDR4 Memory",
+    "price": "85,500৳"
+  },
+  {
+    "name": "Synology HAT5310 18TB SATA III 3.5\" Enterprise HDD",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/synology/hat5300/hat5310-18tb-01-228x228.webp",
+    "description": "Form Factor: 3.5\"\nInterface: SATA 6 Gb/s\nRotational Speed: 7,200 rpm\nInterface Speed: 6.0 Gb/s, 3.0 Gb/s, 1.5 Gb/s",
+    "price": "92,500৳"
+  },
+  {
+    "name": "Safenet 42U-XL Tempered Glass Door Floor Standing Server Cabinet",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/sng-series/safenet-sng-01-228x228.webp",
+    "description": "Tempered Glass front door with Advanced Swivel Lock\nHex-vented hole rear door to improve cooling efficiency\nPreinstalled 4-Fans on top and Brush Panel\nDimension: 800 x 1000 x 2055 mm",
+    "price": "95,000৳"
+  },
+  {
+    "name": "Lenovo ThinkStation P340 Core i5 10th Gen Tower Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/lenovo/thinkstation-p340/thinkstation-p340-10-228x228.jpg",
+    "description": "Processor: Intel Core i5-10600 (12M Cache, 3.30 GHz up to 4.80 GHz)\nDiscrete Graphics: NVIDIA Quadro P1000, 4GBGDDR5, 4x miniDP 1.4, DP to VGA\nMemory: 8GB UDIMM DDR4-2933 non-ECC\nInternal Disk Drive: 1TB HDD 7200rpm 3.5\" SATA6Gb/s",
+    "price": "115,000৳"
+  },
+  {
+    "name": "Lenovo ThinkStation P340 Core i7 10th Gen Tower Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/lenovo/thinkstation-p340/thinkstation-p340-01-228x228.webp",
+    "description": "Processor: Intel Core i7-10700 (16M Cache, 2.90 GHz up to 4.80 GHz)\nDiscrete Graphics: NVIDIA Quadro P1000, 4GB GDDR5, 4x miniDP 1.4, DP to VGA\nMemory: 8GB UDIMM DDR4-2933 non-ECC\nInternal Disk Drive: 1TB HDD 7200rpm 3.5\" SATA6Gb/s",
+    "price": "130,000৳"
+  },
+  {
+    "name": "Synology DiskStation DS1621+ 6-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds1621-plus/diskstation-ds1621-plus-01-228x228.jpg",
+    "description": "Processor: 2.2 GHz AMD Ryzen V1500B Quad-Core\nRAM: 4GB of DDR4 ECC RAM\nHDD Interface: 6 x 3.5â€³/2.5â€³ SATA Drive Bays\nLAN: 4 x Gigabit Ethernet Ports",
+    "price": "116,500৳"
+  },
+  {
+    "name": "Safenet 42U Perforated Floor Standing Data Center Cabinet",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/snp-series/safenet-snp-01-228x228.webp",
+    "description": "Split Rear Door & either side opening Front Door\nLockable & Removable Side Panels\nPreinstalled 4-Fans on Top Panel\nDimension: 600 x 1070 x 1992",
+    "price": "120,000৳"
+  },
+  {
+    "name": "Synology RackStation RS822+ 4-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/rs822rp-plus/rs822rp-plus-21-228x228.webp",
+    "description": "4 x 3.5/2.5\" SATA Drive Bays\n2GB of DDR4 ECC RAM\n2.2 GHz AMD Ryzen V1500B Quad-Core\n4 x Gigabit Ethernet Ports",
+    "price": "137,500৳"
+  },
+  {
+    "name": "Synology RackStation RS822RP+ 4-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/rs822rp-plus/rs822rp-plus-21-228x228.webp",
+    "description": "4 x 3.5/2.5\" SATA Drive Bays\n2GB of DDR4 ECC RAM\n2.2 GHz AMD Ryzen V1500B Quad-Core\n4 x Gigabit Ethernet Ports",
+    "price": "165,500৳"
+  },
+  {
+    "name": "Dell Precision T3650 Core i7 11th Gen Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/dell/precision-t3650/precision-t3650-01-228x228.webp",
+    "description": "Intel Core i7-12700 Processor (25MB Cache, 2.1GHz up to 4.9GHz)\n32GB DDR4 3200MHz Non-ECC RAM\nM.2 256GB SSD  + 1 TB SATA HDD\nNvidia Quadro P2000, 5GB, 4 DP",
+    "price": "175,000৳"
+  },
+  {
+    "name": "Asustor AS6508T LockerStor 8 NAS Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as6508t-lockerstor-8/as6508t-lockerstor-8-228x228.jpg",
+    "description": "Intel ATOM C3538 Quad Core Processor (2.1GHz)\nDual 10-Gigabit Ports\nDual M.2 NVMe SSD Ports\n8GB 2133MHz SO-DIMM RAM",
+    "price": "177,500৳"
+  },
+  {
+    "name": "Synology RackStation RS820RP+ 4-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/rs822rp-plus/rs822rp-plus-21-228x228.webp",
+    "description": "4 x 3.5/2.5\" SATA Drive Bays\n2GB of DDR4 ECC RAM\n2.2 GHz AMD Ryzen V1500B Quad-Core\n4 x Gigabit Ethernet Ports",
+    "price": "199,500৳"
+  },
+  {
+    "name": "Synology DiskStation DS1823xs+ 8-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds1823xs-plus/diskstation-ds1823xs-plus-01-228x228.webp",
+    "description": "Processor: 3.35 GHz AMD Ryzen V1780B 4-Core CPU\nRAM: 8 GB DDR4 ECC SODIMM\nHDD Interface: 8 x 3.5\" / 2.5\" SATA, 2 x M.2 2280 NVMe SSD\nLAN: 1 x 10GbE Port, 3 x 1GbE Ports",
+    "price": "210,000৳"
+  },
+  {
+    "name": "Dell Precision T3660 Core i7 12th Gen Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/brand-pc/dell/precession-t3660/precession-t3660-03-228x228.webp",
+    "description": "Intel Core i7-12700 Processor (25MB Cache, 2.1GHz up to 4.9GHz)\n32GB DDR4 3200MHz Non-ECC RAM\nM.2 2280, 512GB, PCIe NVMe SSD \nNvidia RTX A2000 6GB Graphics",
+    "price": "240,000৳"
+  },
+  {
+    "name": "QNAP TS-832PXU-RP-4G 8 Bay Nas Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/qnap/ts-832pxu-rp-4g/ts-832pxu-rp-4g-01-228x228.webp",
+    "description": "AnnapurnaLabs Alpine AL324 64-bit ARM Cortex-A57 4-core 1.7GHz Processor\n4 GB UDIMM DDR4 (1 x 4 GB)\n2x 10GbE SFP+ and 2x 2.5GbE RJ45 ports\nRedundant Power Supply",
+    "price": "250,000৳"
+  },
+  {
+    "name": "Asustor AS6512RD Lockerstor 12RD NAS Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/nas storage/as6512rd-lockerstor-12rd/as6512rd-lockerstor-12rd-01-228x228.jpg",
+    "description": "CPU: Intel Atom C3538 2.1GHz Quad-Core CPU \nSupports ACL and AD for business application\nSupports Wake-on-LAN and Wake-on-WAN\nPCIe slot for 10-Gigabit Ethernet card",
+    "price": "346,500৳"
+  },
+  {
+    "name": "Asustor AS7112RDX Lockerstor 12R Pro NAS Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as7112rdx-lockerstor-12r-pro/as7112rdx-lockerstor-12r-pro-228x228.jpg",
+    "description": "Intel Xeon E-2224 Quad Core Processor (3.4GHz up to 4.6GHz) \nAgile Expandability\n360Â° Backup solution\nProtected From Ransomware",
+    "price": "467,000৳"
+  },
+  {
+    "name": "Asustor AS7116RDX Lockerstor 16R Pro 16-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/asustor/as7116rdx/as7116rdx-01-228x228.jpg",
+    "description": "16 x SATA3 6Gb/s; 3.5\"/2.5\" HDD/SSD\nMemory: 8GB DDR4 ECC UDIMM\n2x M.2 PCIe (NVMe) / SATA\nMax. Internal Raw Capacity: 288 TB",
+    "price": "570,000৳"
+  },
+  {
+    "name": "Dell Precision 3420 Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/brand-pc/dell/3420/Untitled-1-228x228.jpg",
+    "description": "Intel Xeon Processor E3-1240 v5 (Quad Core HT 3.5Ghz)\nDell Precision SFF 3420 Up to 92% efficient 240W Chassis\nMemory: 8GB (2x4GB) 2133MHz DDR4 Non-ECC\nHard Drive: 1TB 3.5inch SATA (7,200 Rpm)",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Server 2.5\" HDD Bay",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/dell-bay/dell-server-2.5-inch-bay-228x228.jpg",
+    "description": "",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Server 3.5\" HDD Bay",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/dell-bay/2-228x228.jpg",
+    "description": "For Dell R&T Series with 3.5\" drive configuration\nSupports 3.5\" and 2.5\" drives\nWorks with PowerEdge servers\nDimensions: 9.45 x 5.51 x 1.57 inches",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Server 2.5\" 300 GB 10000 Rpm HDD SAS",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/dell-server-hdd-sas-2-point-5-228x228.jpg",
+    "description": "",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Server 2.5\" 600 GB 15000 Rpm HDD SAS",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/dell-server-hdd-sas-2-point-5-228x228.jpg",
+    "description": "",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Server 300 GB 3.5\" 10000 Rpm HDD SAS",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/dell-server-hdd-sas-3.5''-228x228.jpg",
+    "description": "",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Server 600 GB 3.5\" 15000 Rpm HDD SAS",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/dell-server-hdd-sas-3.5''-228x228.jpg",
+    "description": "",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Server 600 GB 2.5\" 10000 Rpm G8 And G9 HDD SAS",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/g8-and-g9-228x228.jpg",
+    "description": "",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Server Redundant Power Supply",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/power-supply/dell-server redundant-power supply-228x228.jpg",
+    "description": "Compatible devices: Server\nOutput power: 750 Watts\ninput voltage max: 240 volts\nMinimum input voltage: 100 volts",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Server 1.2TB 2.5\" 10000 Rpm G8 And G9 HDD SAS",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/hp-server/1tb-hdd/server-hdd-228x228.jpg",
+    "description": "Capacity\t1.2TB\nData Transfer Rate 12Gb/sec\nForm Factor 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 240GB SSD SATA Mix Use TLC 6Gbps 512e 2.5in Drive S4600",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/ssd/dell/ssd-240gb-228x228.jpg",
+    "description": "Interface: SATA 6Gb/s\nCapacity: 240 GB\nForm Factor: 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 400GB SSD SATA, Mix Use MLC 6Gbps 2.5in Drive, THNSF8",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/ssd/dell/ssd-400gb-228x228.jpg",
+    "description": "Interface: SATA 6Gb/s\nCapacity: 400 GB\nForm Factor: 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 1TB 7.2K RPM Near-Line SAS 512n 3.5\" Hot Plug Hard Drive, CusKit",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/hot-plug-hard-drive-cuskit-228x228.jpg",
+    "description": "Interface: SATA 6Gb/s\nCapacity: 1 TB\nForm Factor: 3.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 2TB 7.2K RPM Near-Line SAS 512n 3.5\" Hot Plug Hard Drive, CusKit",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/hot-plug-hard-drive-cuskit-228x228.jpg",
+    "description": "Interface: SATA 6Gb/s\nCapacity: 2 TB\nForm Factor: 3.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 4TB 7.2K RPM Near-Line SAS 512n 3.5\" Hot Plug Hard Drive, CusKit",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/hot-plug-hard-drive-cuskit-228x228.jpg",
+    "description": "Interface: SATA 6Gb/s\nCapacity: 4 TB\nForm Factor: 3.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 8TB 7.2K RPM Near-Line SAS 512n 3.5\" Hot Plug Hard Drive, CusKit",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/hot-plug-hard-drive-cuskit-228x228.jpg",
+    "description": "Interface: SATA 6Gb/s\nCapacity: 8 TB\nForm Factor: 3.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 300GB 10K RPM SAS 12Gbps 2.5in Hot-plug hard drive",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/hot-plug-hard-drive-cuskit-228x228.jpg",
+    "description": "Interface: 1 x SAS\nCapacity: 300GB\nForm Factor: 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 600GB 10K RPM SAS 12Gbps 2.5in Hot-plug hard drive",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/hot-plug-hard-drive-cuskit-228x228.jpg",
+    "description": "Interface: 1 x SAS\nCapacity: 600GB\nForm Factor: 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 1.2TB 10K RPM SAS 12Gbps 2.5in Hot-plug Drive 3.5in Hybrid Carrier",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/dell-1.2tb-228x228.jpg",
+    "description": "Interface: SAS 12Gb/s\nCapacity: 1.2 TB\nForm Factor: 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 1.8TB 10K RPM SAS 12Gbps 2.5in Hot-plug Drive 3.5in Hybrid Carrier",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/dell-1.2tb-228x228.jpg",
+    "description": "Interface: SAS 12Gb/s\nCapacity: 1.8 TB\nForm Factor: 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell EMC ME4024 Storage Array",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/dell/me4024/me4024-228x228.jpg",
+    "description": "1 x 10Gb iSCSI BaseT 8 Port Dual Controller\n12 x Hard Drive Filler 2.5in, Single Blank\n12 x 1.2T HDD 10K SAS12 2.5\nRack Rails Rack Rails 2U",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell EMC NX3240 NAS Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/dell/emc-nx3240/emc-nx3240-228x228.jpg",
+    "description": "ReadyRails Sliding Rails\nWindows Storage Servers 2016\nDell EMC NX3240, Single Intel Xeon\nRAID 5 for 4 or more HDDs or SSDs",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Precision 5820 Tower Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/dell/5820/5820-001-228x228.jpg",
+    "description": "Intel Xeon Processor W-2235 (6C, 3.8GHz 4.6GHz)\n16GB (2x8GB) 2666MHz DDR4 RAM\n256GB SATA SSD + 2TB HDD\nWindows 10 Pro",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Precision 7820 Tower Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/dell/7820/7820-001-228x228.jpg",
+    "description": "Intel Xeon Gold 6250 (3.9GHz - 4.5GHz, 35.75MB Cache)\n32GB (2x16GB) DDR4 Memory\n256GB SATA SSD + 4TB HDD\nWindows 10 Pro",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Precision 7920 Tower Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/dell/7920/7920-tower-228x228.jpg",
+    "description": "Dual Intel Xeon Silver 4214R 2.4GHz, 3.5GHz Turbo, 12C,)\n64GB 4x16GB DDR4 2933MHz Memory\n256GB SATA SSD + 8TB HDD\nWindows 10 Pro",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 300GB 15K RPM SAS 12Gbps 2.5in Hot-plug Drive",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/dell-server-hdd-sas-2-point-5-228x228.jpg",
+    "description": "Interface: SAS 12Gb/s\nCapacity: 300 GB\nForm Factor: 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Precision 7920 Rack Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/dell/7920-rack/7920-rack-228x228.jpg",
+    "description": "Dual Intel Xeon Silver 4214R 2.4GHz, (3.5GHz Turbo, 12C,)\n96GB 6x16GB DDR4 2933MHz Memory\n256GB SATA SSD+ 8TB Hard Drive\nWindows 10 Pro",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Precision R3930 Rack Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/dell/r3930/r3930-1-228x228.jpg",
+    "description": "Intel Xeon E-2226G (6 Core, 12MB Cache, 3.4Ghz, 4.7Ghz )\n16GB, 1x16GB, DDR4 2666MHz Memory\n3.5\" 2TB 7200 RPM SATA HDD\nWindows 10 Pro",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell EMC ME4012 ME4 2U Bezel Storage Array",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/dell/emc-me4012/emc-me4012-228x228.jpg",
+    "description": "Thin Provisioning\n3-Level Auto-tiering\nADAPT (Distributed RAID)\nVolume Copy, SSD Read Cache",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell EMC PowerStore 3000T Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/dell/emc-powerstore-3000t/emc-powerstore-3000t-228x228.jpg",
+    "description": "Max Drives: 96 Drives\nRaw Capacity: 11.5 TB\nReadyRails Sliding Rails\nMemory per Appliance: 768 GB",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell EMC Unity XT 480F All-Flash Storage",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/dell/emc-unity-xt-480f/emc-unity-xt-480f-228x228.jpg",
+    "description": "Max Drives: 750 Drives\nRaw Capacity: 4.0 PBs\nReadyRails Sliding Rails\nMemory per Appliance: 192 GB",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell SCv3020 Storage Array",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/dell/scv3020/scv3020-228x228.jpg",
+    "description": "64GB per controller, 128GB per array\nMaximum drive count\t222\nMax raw capacity: 2.16PB\n2 Management ports per array",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell EMC IDPA DP4400 Integrated Data Protection Appliance",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/dell/dp4400/dp4400-01-228x228.jpg",
+    "description": "Instant access up to 64 VMs with up to 60K IOPS\nMax Throughput: Up to 9TB/hr\nLogical Capacity: Up to 4.8PB\nUsable Capacity: 8TB - 96TB",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell 600GB 15K RPM SAS 12Gbps 2.5in Hot-plug Drive",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/hdd/dell-server-hdd-sas-2-point-5-228x228.jpg",
+    "description": "Interface: SAS 12Gb/s\nCapacity: 600 GB\nForm Factor: 2.5\"",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology RackStation RS1221RP+ 8-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/nas storage/rs1221rp+/rackstation-rs1221rp-plus-01-228x228.webp",
+    "description": "8 x 3.5\"/2.5\" SATA Drive Bays\n4GB of DDR4 ECC RAM (1 x 4GB, Max 32GB)\n2.2 GHz AMD Ryzen V1500B Quad-Core\n4 x Gigabit Ethernet Ports",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology RackStation RS1619xs+ 4-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/nas storage/rs1619xs/rs1619xs-01-228x228.webp",
+    "description": "CPU: Quad-core up to 2.7GHz\nSize: 4-bay 8GB DDR4\n1,523 MB/s sequential reading, 162,097\nUp to 16 drives with one RX1217/RX1217RP",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology SNV3410 400GB M.2 2280 NVMe PCIe SSD",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/ssd/synology/snv3410/snv3410-400gb-01-228x228.webp",
+    "description": "Form Factor: M.2 2280\nInterface: NVMe PCIe 3.0 x4\nSequential read: 3,000 MB/s\nSequential write: 750 MB/s",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology 16GB DDR4 2666MHz ECC SO-DIMM RAM",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-accessories/ram/synology/16gb-ddr4-2666mhz-01-228x228.webp",
+    "description": "For Selected Synology NAS Servers\n16GB (1 x 16GB) Capacity\n2666 MHz Clock Speed\nECC Error Correction",
+    "price": "TBA"
+  },
+  {
+    "name": "Safenet 6U Wall Mount Network Cabinet with PDU",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/snw-series/safenet-snw-01-228x228.webp",
+    "description": "Tempered Glass side with Advanced Swivel Lock\nAdjustable Front and Rear Vertical Rails\nPreinstalled 2-Fans on top and Brush Panel\nDimension: 600 x 450 x 380 mm",
+    "price": "TBA"
+  },
+  {
+    "name": "Safenet 12U Wall Mount Network Cabinet with PDU",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/snw-series/safenet-snw-01-228x228.webp",
+    "description": "Tempered Glass side with Advanced Swivel Lock\nAdjustable Front and Rear Vertical Rails\nPreinstalled 2-Fans on top and Brush Panel\nDimension: 600 x 600 x 635 mm",
+    "price": "TBA"
+  },
+  {
+    "name": "Toten 32U 600 x 1000mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el26100-32-32u/el26100-32-32u-01-228x228.webp",
+    "description": "Size: 600 x 1000mm\nFan:  4 Fans (Low noise)\nPDU: 8 ports\nGlass front door With Push Lock",
+    "price": "44,500৳"
+  },
+  {
+    "name": "Synology DiskStation DS1821+ 8-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds1821-plus/diskstation-ds1821-plus-01-228x228.webp",
+    "description": "Processor: 2.2 GHz AMD Ryzen V1500B Quad-Core CPU\nRAM: 4GB of DDR4 RAM\nHDD Interface: 8 x 3.5\"/2.5\" SATA, 2 x M.2 2280 NVMe SSD\nLAN: 4 x Gigabit Ethernet Ports",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Z4 G4 Tower Intel Xeon 2123 Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/hp-brand/z4-g4/z4-g4-228x228.jpg",
+    "description": "Intel Xeon 2123 CPU, 3.6 GHz to 3.9 GHz,4 Cores, 8 threads\n16GB DDR4 RAM\n256GB Z Turbo SSD+2x2TB  HDD\nNVIDIA Quadro P2000 5GB",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Z6 G4 Tower Intel Xeon 4114 Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/hp-brand/z6-g4/z6-228x228.png",
+    "description": "Intel Xeon 4114 CPU (2.2 GHz up to 3 GHz, 13.75 MB cache, 10 cores)\n32GB DDR4 ECC RAM\n256GB PCIe G2+2x4TB HDD\n NVIDIA 8GB GDDR5 graphics",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Z8 G4 Tower Intel Xeon 4116 WorkStation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/HP Z240  SFF Q-228x228.jpg",
+    "description": "Intel Xeon 4116 CPU, 2.1GHz to 3.0GHz, 12 cores, 24 threads\n64GB DDR4 ECC RAM\n256GB PCIe SSD+2x4TB HDD\nNVIDIA 8GB GDDR5 graphics",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Z8 G4 Tower Intel Xeon Gold 6130 Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/hp-brand/6130/6130-228x228.jpg",
+    "description": "Intel Xeon Gold 6130 (2.1 GHz up to 3.7 GHz, 22 MB cache, 16 cores)\n64GB DDR4-2666MHz ECC RAM\n256GB PCIe G2+2x6TB HDD\nNVIDIA 8GB GDDR5 graphics",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Z6 G4 Tower Intel Xeon 4116 Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/hp-brand/z6-g4/z6-228x228.png",
+    "description": "Intel Xeon 4116 CPU (2.1GHz up to turbo 3.0GHz, 16.5 MB, Cache, 12 core)\n32GB DDR4 ECC RAM\n256GB PCIe G2+2x4TB HDD\nNVIDIA 8GB GDDR5 graphics",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Z2 G4 SFF Intel Xeon E-2126G VPro Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/hp-brand/z2-g4/z2-g4-228x228.jpg",
+    "description": "Intel Xeon E-2126G vPro (3.3 GHz up to 4.5 GHz, 12 MB cache, 6 cores)\n8GB DDR4-2666 nECC RAM\n1TB 7200 RPM SATA HDD\nAMD Radeon 4GB Graphics",
+    "price": "TBA"
+  },
+  {
+    "name": "HP Z2 G4 Tower Intel Xeon E-2136 VPro Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/hp-brand/z2-g4/z2-g4-228x228.jpg",
+    "description": "Intel Xeon E-2136 vPro (3.3 GHz up to 4.5 GHz, 12 MB cache, 6 cores)\n16GB DDR4-2666 ECC RAM\n256GB SSD + 2TB HDD\nNVIDIA P2000 5GB Graphics",
+    "price": "TBA"
+  },
+  {
+    "name": "Toten 9U 600 x 450mm Server Rack",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/toten/el265-9-9u/el265-9-9u-01-228x228.webp",
+    "description": "Size: 600 x 450mm\nFan:  2 Fans (Low noise)\nLock: Round, DU: 6 ports\nGlass Door",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology DiskStation DS218 2-Bay NAS Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds218/diskstation-ds218-01-228x228.webp",
+    "description": "Processor: Realtek RTD1296 quad-core 1.4GHz\nRAM: 2 GB DDR4\nHDD Interface: 2x 3.5\" or 2.5\" SATA III/II\nLAN: 1x Gigabit (RJ-45)",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology DiskStation DS220+ 2-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds220-plus/diskstation-ds220-plus-01-228x228.jpg",
+    "description": "Processor: 2.0 GHz Intel Celeron J4025 Dual-Core\nRAM: 2GB DDR4 RAM\nHDD Interface: 2x 3.5\" or 2.5\" SATA III/II\nLAN: 1x Gigabit (RJ-45)",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology DiskStation DS920+ 4-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds920-plus/diskstation-ds920-plus-01-228x228.jpg",
+    "description": "Processor: 2.0 GHz Intel Celeron J4125 Quad-Core\nRAM: 4GB DDR4 RAM\nHDD Interface: 4 x 3.5/2.5\" Bays, 2 x M.2 2280 Slots\nLAN: 2 x Gigabit Ethernet Ports",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology DiskStation DS1522+ 5-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds1522-plus/diskstation-ds1522-plus-01-228x228.webp",
+    "description": "Processor: 2.6 GHz AMD Ryzen R1600 Dual-Core\nRAM: 8GB of DDR4 RAM\nHDD Interface: 5 x 3.5\"/2.5\" SATA Drive Bays\nLAN: 4 x Gigabit Ethernet Ports",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell Precision Tower 3620 XCTO BASE Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/dell/3620/dell-precision-3620-228x228.jpg",
+    "description": "Intel(R) Xeon(R) Processor E3-1220 v5\n8GB 2400MHz DDR4 UDIMM Non-ECC\n2TB 3.5inch Hard Drive\nGenuine Windows 10 Pro",
+    "price": "TBA"
+  },
+  {
+    "name": "QNAP TS-453U-RP NAS Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/qnap/ts-453u-rp-228x228.jpg",
+    "description": "Quad-core Intel Celeron 2.0GHz (up to 2.42GHz)\n8GB DDR3L SDRAM\n4 x 3.5\" or 2.5\" SATA 6Gb/s,",
+    "price": "TBA"
+  },
+  {
+    "name": "Safenet 42U-XL Perforated Floor Standing Data Center Cabinet",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server-rack/safenet/snp-series/safenet-snp-01-228x228.webp",
+    "description": "Split Rear Door & either side opening Front Door\nLockable & Removable Side Panels\nPreinstalled 4-Fans on Top Panel\nDimension: 800 x 1070 x 1992",
+    "price": "TBA"
+  },
+  {
+    "name": "Lenovo ThinkStation P340 Tower Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/lenovo/thinkstation-p340/thinkstation-p340-10-228x228.jpg",
+    "description": "Processor: Intel Xeon W-1250P (6C / 12T, 3.3 /4.1 GHz to 4.8GHz, 12MB)\nDiscrete Graphics: NVIDIA Quadro P1000, 4GBGDDR5, 4x miniDP 1.4,DP to VGA\nMemory: 16GB UDIMM DDR4-2933 non-ECC\nInternal Disk Drive: 1TB HDD 7200rpm 3.5\" SATA6Gb/s",
+    "price": "140,000৳"
+  },
+  {
+    "name": "Lenovo ThinkStation P350 Tower Workstation",
+    "image": "https://www.startech.com.bd/image/cache/catalog/workstation/lenovo/thinkstation-p350/thinkstation-p350-01-228x228.jpg",
+    "description": "Processor: Intel Xeon W-1350 (6C / 12T, 3.3 / 5.0GHz, 12MB)\nDiscrete Graphics: NVIDIA RTX A4000,16GB GDDR6 with ECC,4x DP 1.4a, DP to VGA\nMemory: 16 GB(2x 8GB) UDIMM DDR4-3200 ECC\n2x 4TB 7200rpm 3.5\" SATA6Gb/s HDD & 512GB SSD",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell PowerEdge R450 Rack Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/Dell/poweredge-r450/poweredge-r450-01-228x228.webp",
+    "description": "Processor: Intel Xeon Silver 4309Y 2.8G, 8C/16T, 10.4GT/s, 12M Cache, Turbo, HT (105W) DDR4-2666\nChassis Type: 2.5\" Chassis with up to 8 Hard Drives (SAS/SATA) CPU\nMemory: 32GB (2x16GB) RDIMM, 3200MT/s, Dual Rank\nBezel: Standard Bezel for x8 Chassis",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell PowerEdge R750xs Intel Xeon Silver 4309Y Rack Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/dell/poweredge-r750xs/poweredge-r750xs-01-228x228.webp",
+    "description": "Processor: 2 x Intel Xeon Silver 4309Y 2.8G, 8C/16T, 10.4GT/s, 12M Cache, Turbo, HT (105W)\nMemory: 2 x 32GB RDIMM, 3200MT/s, Dual Rank, 16Gb BASE x8\nStorage: 2 x 480GB SSD, 2 x 1.2TB Hard Drive\nNetwork: Broadcom 57416 Dual Port 10GbE BASE-T Adapter, OCP NIC 3.0",
+    "price": "TBA"
+  },
+  {
+    "name": "Dell PowerEdge R350 Rack Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/server/dell/poweredge-r350/poweredge-r350-01-228x228.jpg",
+    "description": "Processor: Intel Xeon E-2356G 3.2GHz, 12M Cache, 6C/12T, Turbo (80W), 3200 MT/s\nChassis Type: 3.5\" Chassis with up to 4 Hot Plug Hard Drives\nMemory: 32GB UDIMM, 3200MT/s, ECC\nBezel: PowerEdge 1U Standard Bezel",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology DiskStation DS120j 1-Bay NAS Server",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds120j/ds120j-01-228x228.webp",
+    "description": "Processor: Marvell Armada 3700 88F3720 dual-core 800 MHz\nRAM: 512 MB DDR3L RAM\nHDD Interface: 1x 3.5\" or 2.5\" SATA III/II\nLAN: 1x Gigabit (RJ-45)",
+    "price": "TBA"
+  },
+  {
+    "name": "Synology DiskStation DS223 2-Bay NAS Enclosure",
+    "image": "https://www.startech.com.bd/image/cache/catalog/storage/synology/diskstation-ds223/diskstation-ds223-01-228x228.webp",
+    "description": "Processor: 1.7 GHz Realtek RTD1619B Quad-Core\nRAM: 2 GB DDR4 non-ECC\nHDD Interface: 2 x 3.5/2.5\" SATA III/II\nLAN: 1x Gigabit (RJ-45)",
+    "price": "TBA"
+  }
+]
