@@ -3753,7 +3753,7 @@
     "name": "Apple MacBook Pro 14-Inch M1 Max Chip, 32GB RAM, 1TB SSD (Z15H00107) Space Grey, Late 2021",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/apple/macbook-pro-14/macbook-pro-14-10-228x228.jpg",
     "price": "N/A",
-    "description": "Processor: M1 Max chip, 10-core CPU and 32-core GPU\nRAM: 32GB, Storage: 1TB SSD\nDisplay: 14\" (3024 x 1964) Liquid Retina XDR\nFeatures: Backlit Magic Keyboard",
+    "description": "Processor: M1 Max chip, 10-core CPU and 32-core GPU\n14\" (3024 x 1964) Liquid Retina XDR display\nRAM: 32GB, Storage: 1TB SSD\nDisplay: 14\" (3024 x 1964) Liquid Retina XDR\nFeatures: Backlit Magic Keyboard",
     "additionalDetails": {
       "cashDiscountPrice": "N/A",
       "regularPrice": "N/A",
@@ -4458,7 +4458,7 @@
     "name": "Microsoft Surface Laptop 4 Core i7 11th Gen 16GB RAM 512GB SSD 15\" Multi Touch Display Laptop (5IM-00053)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/microsoft/surface-laptop-4/surface-laptop-4-001-228x228.jpg",
     "price": "N/A",
-    "description": "Processor: Intel Core i7-1185G7 (12M Cache, 3.00 GHz up to 4.80 GHz)\nRAM: 16MB LPDDR4x, Storage: 512GB SSD\nDisplay: 15\" PixelSense (2256x1504) Multi-Touch\nFeatures: Touch Display, Type-C",
+    "description": "Processor: Intel Core i7-1185G7 (12M Cache, 3.00 GHz up to 4.80 GHz)\nRAM: 16MB LPDDR4x, Storage: 512GB SSD\nDisplay: 15\" PixelSense (2256x 1504) Multi-Touch\nFeatures: Wi-Fi 6, Type-C, Dolby Atmos",
     "additionalDetails": {
       "cashDiscountPrice": "N/A",
       "regularPrice": "N/A",
@@ -4893,7 +4893,7 @@
     "name": "MSI GF63 THIN 11UC Core i5 11th Gen RTX 3050 Max-Q 4GB Graphics 15.6\" FHD Gaming Laptop",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/laptop/msi/gf63-thin-11uc/gf63-thin-11uc-01-228x228.jpg",
     "price": "N/A",
-    "description": "Processor: Intel Core i5-11400H (12M Cache, 2.70 GHz up to 4.50 GHz)\nRAM: 8GB DDR4 3200MHz  Storage: 256GB SSD\nGraphics: NVIDIA RTX 3050 Max-Q 4GB\nFeatures: Red keyboard, Type-C",
+    "description": "Processor: Intel Core i5-11400H (12M Cache, 2.70 GHz up to 4.50 GHz)\nRAM: 8GB DDR4 3200MHz\nSSD: 256GB NVMe PCIe Gen3x4\nGraphics: NVIDIA RTX 3050 Max-Q 4GB",
     "additionalDetails": {
       "cashDiscountPrice": "N/A",
       "regularPrice": "N/A",

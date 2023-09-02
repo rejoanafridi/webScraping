@@ -1,0 +1,2725 @@
+[
+  {
+    "name": "CommScope FPS-BS-1P-W 1-Port Faceplate Kit",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/fps-bs-1p-w/fps-bs-1p-w-228x228.webp",
+    "price": "N/A",
+    "description": "Number of Port: 1\nModule Type: Mini-Com\nOutlet Orientation: Flat\nMaterial: ABS",
+    "additionalDetails": {
+      "regularPrice": "181৳",
+      "status": "In Stock",
+      "productCode": "29912",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 760249249",
+        "Model: FPS-BS-1P-W",
+        "Number of Port: 1",
+        "Module Type: Mini-Com",
+        "Outlet Orientation: Flat",
+        "Material: ABS",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Outlet Type": "Flat",
+      "Application Area": "Used with KJ Series outlets with adapter, M Series modular information outlet, SL Series outlets",
+      "Port Count": "1",
+      "Color": "Off White",
+      "Assembly": "Single Gang",
+      "Dimensions": "Height: 85.979 mm | 3.385 in\nWidth: 85.979 mm | 3.385 in\nDepth: 8.001 mm | 0.315 in",
+      "Material": "High-impact, Flame Retardant, Thermoplastic, UL listed Material"
+    }
+  },
+  {
+    "name": "CommScope M10CF 1-Port Faceplate Kit",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/m10cf/m10cf-228x228.webp",
+    "price": "N/A",
+    "description": "Number of Port: 1\nMounting: Flush\nOutlet Orientation: Flat\nMaterial: ABS",
+    "additionalDetails": {
+      "regularPrice": "187৳",
+      "status": "In Stock",
+      "productCode": "29972",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 760200428",
+        "Model: M10CF",
+        "Number of Port: 1",
+        "Mounting: Flush",
+        "Outlet Orientation: Flat",
+        "Material: ABS",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Outlet Type": "Flat",
+      "Port Count": "1",
+      "Color": "Off White",
+      "Assembly": "Single Gang",
+      "Dimensions": "Height : 86.36 mm | 3.4 in",
+      "Material": "High-impact, Flame Retardant, Thermoplastic, UL listed Material"
+    }
+  },
+  {
+    "name": "Zyxel GS1900-8 8-Port GbE ROHS Smart Managed Switch",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/switch/zyxel/gs1900-8/gs1900-8-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Forwarding performance: 11.9 Mpps\n8 Gigabit Ethernet ports\nPorts: 8 x 10/100/1000\nSwitching Capacity: 16 Gbps",
+    "additionalDetails": {
+      "regularPrice": "6,300৳",
+      "status": "In Stock",
+      "productCode": "13711",
+      "brand": "Zyxel",
+      "keyFeatures": [
+        "MPN: GS1900-8-EU0101F",
+        "Model: GS1900-8",
+        "Forwarding performance: 11.9 Mpps",
+        "8 Gigabit Ethernet ports",
+        "Ports: 8 x 10/100/1000",
+        "Switching Capacity: 16 Gbps",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions (L x W x H )": "25 cm x 10.4 cm x 2.7 cm",
+      "Interface": "8 x 1000Base-T RJ-45",
+      "Power Supply": "Max. power consumption (watt): 6.2\\\nInput: 100 - 240 V AC,50/60 Hz",
+      "Weight": "650 g",
+      "Type": "Switch - 8 ports - smart",
+      "Port": "8 x 10/100/1000BASE-T,fixed",
+      "Network Standard": "IEEE 802.3, IEEE 802.3u, IEEE 802.1Q, IEEE 802.3ab, IEEE 802.1p, IEEE 802.3x, IEEE 802.3ad (LACP), IEEE 802.1x, IEEE 802.1ab (LLDP), IEEE 802.3az",
+      "Transmission Method": "Store and Forward",
+      "MAC Address Table": "8 K",
+      "Environment": "Operating temperature: 0°C to 50°C (32°F to 122°F)\nStorage temperature: -40°C to 70°C (-40°F to 158°F)\nOperating humidity: 10% to 95%(non-condensing)\nStorage humidity: 10% to 95% (non-condensing)\nMTBF (hr): 862,561\t\nHeat dissipation (BTU/hr): 21.14",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "name": "TP-Link Archer C24 AC750 4 Antenna Dual-Band Wi-Fi Router",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/router/tp-link/archer-c24/archer-c24-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Supports Router, Access Point, & Range Extender\n4Ã— antennas deliver far-reaching Wi-Fi\nIPv6 Supported, Parental Controls\nDoubling Bandwidth, Guest Network",
+    "additionalDetails": {
+      "regularPrice": "2,060৳",
+      "status": "In Stock",
+      "productCode": "18530",
+      "brand": "TP-Link",
+      "keyFeatures": [
+        "Model: Archer C24",
+        "Supports Router, Access Point, & Range Extender",
+        "4Ã— antennas deliver far-reaching Wi-Fi",
+        "IPv6 Supported, Parental Controls",
+        "Doubling Bandwidth, Guest Network",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Antenna": "4× Fixed Antennas\nMultiple antennas form a signal-boosting array to cover more directions and large areas",
+      "Button": "WPS/Reset Button",
+      "Wireless": "Standards\tWi-Fi 5\nIEEE 802.11ac/n/a 5 GHz\nIEEE 802.11n/b/g 2.4 GHz\n\nWiFi Speeds\tAC750\n5 GHz: 433 Mbps (802.11ac)\n2.4 GHz: 300 Mbps (802.11n)",
+      "Network Standard": "Network Security\t\nSPI Firewall\nAccess Control\nIP & MAC Binding\nApplication Layer Gateway\n\nGuest Network\t\n1× 5 GHz Guest Network\n1× 2.4 GHz Guest Network",
+      "Encryption": "WEP\nWPA\nWPA2\nWPA/WPA2-Enterprise (802.1x)",
+      "Ports": "Ethernet Ports\t\n1× 10/100 Mbps WAN Port\n4× 10/100 Mbps LAN Ports",
+      "Power Mode": "Router Mode\nAccess Point Mode\nRange Extender Mode",
+      "Dimension": "4.5 × 4.2 × 1.0 in\n(115 × 106.7 × 24.3 mm)",
+      "Color": "White",
+      "Warranty": "01 year warranty"
+    }
+  },
+  {
+    "name": "Dintek 1303-12011CH 1-Port Wall Plate with Shutter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/1303-12011ch/1303-12011ch-228x228.webp",
+    "price": "N/A",
+    "description": "Number of Port: 1\nModule Type: Mini-Com\nOutlet Orientation: Flat\nMaterial: ABS Plastic",
+    "additionalDetails": {
+      "regularPrice": "209৳",
+      "status": "In Stock",
+      "productCode": "30470",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1303-12011CH",
+        "Number of Port: 1",
+        "Module Type: Mini-Com",
+        "Outlet Orientation: Flat",
+        "Material: ABS Plastic",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Outlet Type": "Flat",
+      "Port Count": "1",
+      "Color": "Off White",
+      "Assembly": "Single Gang",
+      "Dimensions": "86 x 86 mm",
+      "Material": "High-impact, Flame Retardant, Thermoplastic, UL listed Material"
+    }
+  },
+  {
+    "name": "Panduit Pan-Net CFPUKS2SIWY Dual Port Faceplate",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/panduit/cfpuks2siwy/cfpuks2siwy-01-228x228.webp",
+    "price": "N/A",
+    "description": "Number of Ports: 2\nModule Type: Mini-Com\nOutlet Orientation: Sloped Shuttered\nMaterial: ABS",
+    "additionalDetails": {
+      "regularPrice": "220৳",
+      "status": "In Stock",
+      "productCode": "25697",
+      "brand": "Others",
+      "keyFeatures": [
+        "Model: Pan-Net CFPUKS2SIWY",
+        "Number of Ports: 2",
+        "Module Type: Mini-Com",
+        "Outlet Orientation: Sloped Shuttered",
+        "Material: ABS",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Outlet Type": "Sloped Shuttered",
+      "Port Count": "2",
+      "Color": "Off White",
+      "Assembly": "Single Gang",
+      "Dimensions": "86.1 x 86.1 x 23.87 mm",
+      "Material": "ABS"
+    }
+  },
+  {
+    "name": "CommScope FPS-BS-2P-W 2-Ports Faceplate Kit",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/fps-bs-2p-w/fps-bs-2p-w-01-228x228.webp",
+    "price": "N/A",
+    "description": "Number of Ports: 2\nModule Type: Mini-Com\nOutlet Orientation: Flat\nMaterial: ABS",
+    "additionalDetails": {
+      "regularPrice": "229৳",
+      "status": "In Stock",
+      "productCode": "29908",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 760249251",
+        "Model: FPS-BS-2P-W",
+        "Number of Ports: 2",
+        "Module Type: Mini-Com",
+        "Outlet Orientation: Flat",
+        "Material: ABS",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Outlet Type": "Flat",
+      "Application Area": "Used with KJ Series outlets with adapter, M Series modular information outlet, SL Series outlets",
+      "Port Count": "2",
+      "Color": "Off White",
+      "Assembly": "Single Gang",
+      "Dimensions": "Height: 85.979 mm | 3.385 in\nWidth: 85.979 mm | 3.385 in\nDepth: 8.001 mm | 0.315 in",
+      "Material": "High-impact, Flame Retardant, Thermoplastic, UL listed Material"
+    }
+  },
+  {
+    "name": "R&M CAT6 2-Port Faceplate",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/faceplate-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Port Count: 2X1 \nMaterial Plastic: PC + ABS \nSize: 86x86 mm \nColor: Pure White",
+    "additionalDetails": {
+      "regularPrice": "230৳",
+      "status": "In Stock",
+      "productCode": "13794",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R503341",
+        "Model: 2-Port Faceplate",
+        "Port Count: 2X1",
+        "Material Plastic: PC + ABS",
+        "Size: 86x86 mm",
+        "Color: Pure White",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Outlet Type": "Faceplate",
+      "Application Area": "Flush-mounting (FM)",
+      "Port Count": "2 x 1",
+      "Color": "Pure White",
+      "Assembly": "Empty",
+      "Dimensions": "86.0 mm x 86.0 mm / 3.386 in x 3.386 in (W x H)",
+      "Material": "Plastic PC + ABS"
+    }
+  },
+  {
+    "name": "Dintek 1303-12010CH 2-Port Wall Plate with Shutter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/1303-12010ch/1303-12010ch-228x228.webp",
+    "price": "N/A",
+    "description": "Number of Port: 2\nModule Type: Mini-Com\nOutlet Orientation: Flat\nMaterial: ABS Plastic",
+    "additionalDetails": {
+      "regularPrice": "242৳",
+      "status": "In Stock",
+      "productCode": "30472",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1303-12010CH",
+        "Number of Port: 2",
+        "Module Type: Mini-Com",
+        "Outlet Orientation: Flat",
+        "Material: ABS Plastic",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Outlet Type": "Flat",
+      "Port Count": "2",
+      "Color": "Off White",
+      "Assembly": "Single Gang",
+      "Dimensions": "86 x 86 mm",
+      "Material": "High-impact, Flame Retardant, Thermoplastic, UL listed Material"
+    }
+  },
+  {
+    "name": "Safenet 34-3551BL 0.5 Meter Cat6 LSZH UTP Patch Cord Blue",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/blue-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "275৳",
+      "status": "In Stock",
+      "productCode": "29530",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3551BL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Blue",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3551YL 0.5 Meter Cat6 LSZH UTP Patch Cord Yellow",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/34-3551yl-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "275৳",
+      "status": "In Stock",
+      "productCode": "29532",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3551YL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Yellow",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3551OR 0.5 Meter Cat6 LSZH UTP Patch Cord Orange",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/orange-01-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "275৳",
+      "status": "In Stock",
+      "productCode": "29535",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3551OR",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Orange",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 2412-3051YL 5 Meter SM Duplex Fiber LC/APC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/2422-3051yl-01-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 5 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "275৳",
+      "status": "In Stock",
+      "productCode": "30340",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 2412-3051YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 5 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC/APC-LC/APC",
+      "Poles": "2",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Color": "Yellow",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Safenet 2414-3051YL 5 Meter SM Duplex Fiber LC/APC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/2422-3051yl-01-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 5 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "275৳",
+      "status": "In Stock",
+      "productCode": "30342",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 2414-3051YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 5 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC/APC-LC/APC",
+      "Poles": "2",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Color": "Yellow",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Prolink CAT6 UTP Patch Cord 1 Meter Blue",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/prolink/cat6-blue-1m/cat6-blue-1m-02-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Length: 1M\nConductor: 23 AWG (4 pairs)\nTransmits Bandwidth: 250 MHz \nOperating Temperature: 70°C",
+    "additionalDetails": {
+      "regularPrice": "320৳",
+      "status": "In Stock",
+      "productCode": "24836",
+      "brand": "PROLINK",
+      "keyFeatures": [
+        "Model: CAT6 Blue 1M",
+        "Cable Length: 1M",
+        "Conductor: 23 AWG (4 pairs)",
+        "Transmits Bandwidth: 250 MHz",
+        "Operating Temperature: 70°C",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 34-3011BL 1 Meter Cat6 LSZH UTP Patch Cord Blue",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/blue-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "330৳",
+      "status": "In Stock",
+      "productCode": "29536",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3011BL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Blue",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3011YL 1 Meter Cat6 LSZH UTP Patch Cord Yellow",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/34-3551yl-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "330৳",
+      "status": "In Stock",
+      "productCode": "29538",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3011YL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Yellow",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3011GR 1 Meter Cat6 LSZH UTP Patch Cord Gray",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/gray-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "330৳",
+      "status": "In Stock",
+      "productCode": "29539",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3011GR",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Gray",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3011PR 1 Meter Cat6 LSZH UTP Patch Cord Purple",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/prpl-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "330৳",
+      "status": "In Stock",
+      "productCode": "29542",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3011PR",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Gray",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "CommScope 1375055-6 SL 110 Cat 6 U/UTP Information Outlet Modular jack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/1375055-6/1375055-6-228x228.webp",
+    "price": "N/A",
+    "description": "Material Type: Copper alloy, Flame Retardant, Thermoplastic\nTermination Contact Plating: Nickel\nCompatible Conductor Gauge: 22 AWG | 24 AWG\nInsulation Resistance: 500 MOhm",
+    "additionalDetails": {
+      "regularPrice": "330৳",
+      "status": "In Stock",
+      "productCode": "29970",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 700206758",
+        "Model: 1375055-6",
+        "Material Type: Copper alloy, Flame Retardant, Thermoplastic",
+        "Termination Contact Plating: Nickel",
+        "Compatible Conductor Gauge: 22 AWG | 24 AWG",
+        "Insulation Resistance: 500 MOhm",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 2412-3031YL 3 Meter SM Duplex Fiber LC/APC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/2422-3051yl-01-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 3 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "330৳",
+      "status": "In Stock",
+      "productCode": "30123",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 2412-3031YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 3 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC/APC-LC/APC",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Color": "Yellow",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Safenet 2414-3031YL 3 Meter SM Duplex Fiber LC/APC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/2422-3051yl-01-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 3 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "330৳",
+      "status": "In Stock",
+      "productCode": "30124",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 2414-3031YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 3 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC/APC-LC/APC",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Color": "Yellow",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Safenet 2413-3031YL 3 Meter SM Duplex Fiber LC/APC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/2422-3051yl-01-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 3 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "330৳",
+      "status": "In Stock",
+      "productCode": "30126",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 2413-3031YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 3 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC/APC-LC/APC",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Color": "Yellow",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 1 Meter Grey Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-u-utp-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm â€“ 6.5mm\n3P and UL certified\nLength: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "340৳",
+      "status": "In Stock",
+      "productCode": "13736",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196109",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm â€“ 6.5mm",
+        "3P and UL certified",
+        "Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Grey",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH  Grey 1 Meter",
+      "Outer Diameter": "Outer diameter: 5.0±0.5 mm.",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "Vention IBKBG Cat 6A UTP 1.5M Slim Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/cable/vention/ibibh-cat-6a-utp/ibibh-cat-6a-utp-228x228.jpg",
+    "price": "N/A",
+    "description": "Interface: RJ45/8P8C\nConductor: Oxygen Free Copper\nImpedance (ZO): Average: 100+5Î©\nLoop Resistance (20Â°C): â‰¤1583â„¦/km",
+    "additionalDetails": {
+      "regularPrice": "357৳",
+      "status": "In Stock",
+      "productCode": "15947",
+      "brand": "Vention",
+      "keyFeatures": [
+        "Model: Vention IBKBG Cat 6A UTP",
+        "Interface: RJ45/8P8C",
+        "Conductor: Oxygen Free Copper",
+        "Impedance (ZO): Average: 100+5Î©",
+        "Loop Resistance (20Â°C): â‰¤1583â„¦/km",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 44-5551OR 0.5 Meter Cat6A SFTP Stranded LSZH Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/orange-01-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n26 AWG SOLID-Bare Copper Conductor\nCable Length: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "360৳",
+      "status": "In Stock",
+      "productCode": "30413",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 44-5551OR",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "26 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "LSZH",
+      "Category Connector": "Cat6A",
+      "Color": "Orange",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "CommScope 2121106-4 Fiber Optic Cable with HDPE Jacket",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/fiber-optic-cable/commscope/2121106-4/2121106-4-228x228.webp",
+    "price": "N/A",
+    "description": "Fiber Type: OS2\nNumber of fibers/Core: 6\nCable Length: 1 Meter\nJacket Material: High-density polyethylene (HDPE)",
+    "additionalDetails": {
+      "regularPrice": "375৳",
+      "status": "In Stock",
+      "productCode": "29914",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 2121106-4",
+        "Model: 2121106-4",
+        "Fiber Type: OS2",
+        "Number of fibers/Core: 6",
+        "Cable Length: 1 Meter",
+        "Jacket Material: High-density polyethylene (HDPE)",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 0.5 Meter Yellow Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-u-utp-yellow-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm x 6.5mm\n3P and UL certified\nLength: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "385৳",
+      "status": "In Stock",
+      "productCode": "23513",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196106",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm x 6.5mm",
+        "3P and UL certified",
+        "Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Grey",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH Yellow 1 Meter",
+      "Outer Diameter": "Outer diameter: 5.0±0.5 mm.",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "Rosenberger CP61-423-1P0 0.5 Meter Cat 6 UTP Patch Cord Blue",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/rosenberger/cp61-423-1p0/cp61-423-1p0-01-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Shielding: UTP (Unshielded Twisted Pair)\nJacket Material: PVC\nConductor Material: Solid copper\nLength: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "385৳",
+      "status": "In Stock",
+      "productCode": "28747",
+      "brand": "Rosenberger",
+      "keyFeatures": [
+        "Model: CP61-423-1P0",
+        "Cable Shielding: UTP (Unshielded Twisted Pair)",
+        "Jacket Material: PVC",
+        "Conductor Material: Solid copper",
+        "Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Rosenberger CP61-425-1P0 0.5 Meter Cat 6 UTP Patch Cord Red",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/rosenberger/cp61-425-1p0/cp61-425-1p0-01-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Shielding: UTP (Unshielded Twisted Pair)\nJacket Material: PVC\nConductor Material: Solid copper\nLength: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "385৳",
+      "status": "In Stock",
+      "productCode": "28748",
+      "brand": "Rosenberger",
+      "keyFeatures": [
+        "Model: CP61-425-1P0",
+        "Cable Shielding: UTP (Unshielded Twisted Pair)",
+        "Jacket Material: PVC",
+        "Conductor Material: Solid copper",
+        "Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Rosenberger CP61-422-1P0 0.5 Meter Cat 6 UTP Patch Cord Yellow",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/rosenberger/cp61-422-1p0/cp61-422-1p0-01-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Shielding: UTP (Unshielded Twisted Pair)\nJacket Material: PVC\nConductor Material: Solid copper\nLength: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "385৳",
+      "status": "In Stock",
+      "productCode": "28749",
+      "brand": "Rosenberger",
+      "keyFeatures": [
+        "Model: CP61-422-1P0",
+        "Cable Shielding: UTP (Unshielded Twisted Pair)",
+        "Jacket Material: PVC",
+        "Conductor Material: Solid copper",
+        "Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 35-3010BL Cat6 Modular Jack Blue",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/35-3010wt-228x228.webp",
+    "price": "N/A",
+    "description": "Jack Contacts: Phosphor Bronze\nJack Housing: ABS, UL94V-O\nTCTL: Up to 250MHz\nCap: PC, UL94V-O",
+    "additionalDetails": {
+      "regularPrice": "385৳",
+      "status": "In Stock",
+      "productCode": "29599",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 35-3010BL",
+        "Jack Contacts: Phosphor Bronze",
+        "Jack Housing: ABS, UL94V-O",
+        "TCTL: Up to 250MHz",
+        "Cap: PC, UL94V-O",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 35-3010YL Cat6 Modular Jack Yellow",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/3010yl-014-228x228.webp",
+    "price": "N/A",
+    "description": "Jack Contacts: Phosphor Bronze\nJack Housing: ABS, UL94V-O\nTCTL: Up to 250MHz\nCap: PC, UL94V-O",
+    "additionalDetails": {
+      "regularPrice": "385৳",
+      "status": "In Stock",
+      "productCode": "29600",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 35-3010YL",
+        "Jack Contacts: Phosphor Bronze",
+        "Jack Housing: ABS, UL94V-O",
+        "TCTL: Up to 250MHz",
+        "Cap: PC, UL94V-O",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 44-5011OR 1 Meter Cat6A SFTP Stranded LSZH Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/orange-01-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n26 AWG SOLID-Bare Copper Conductor\nCable Length: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "385৳",
+      "status": "In Stock",
+      "productCode": "30414",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 44-5011OR",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "26 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "LSZH",
+      "Category Connector": "Cat6A",
+      "Color": "Orange",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 1 Meter Blue Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-blue-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm x 6.5mm\n3P and UL certified\nLength: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "400৳",
+      "status": "In Stock",
+      "productCode": "13776",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196126",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm x 6.5mm",
+        "3P and UL certified",
+        "Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Blue",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH Blue 1 Meter",
+      "Outer Diameter": "5.0±0.5 mm",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "Safenet 34-3021BL 2 Meter Cat6 LSZH UTP Patch Cord Blue",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/blue-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 2 Meter",
+    "additionalDetails": {
+      "regularPrice": "405৳",
+      "status": "In Stock",
+      "productCode": "29546",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3021BL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 2 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Blue",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3021YL 2 Meter Cat6 LSZH UTP Patch Cord Yellow",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/34-3551yl-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 2 Meter",
+    "additionalDetails": {
+      "regularPrice": "405৳",
+      "status": "In Stock",
+      "productCode": "29550",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3021YL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 2 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Yellow",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3021GR 2 Meter Cat6 LSZH UTP Patch Cord Gray",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/gray-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 2 Meter",
+    "additionalDetails": {
+      "regularPrice": "405৳",
+      "status": "In Stock",
+      "productCode": "29555",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3021GR",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 2 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Gray",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Dintek 1305-04017 Cat6 Keystone E-jack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/1305-04017/1305-04017-03-228x228.webp",
+    "price": "N/A",
+    "description": "Material Type: Copper alloy, Flame Retardant, Thermoplastic\nTermination Contact Plating: Nickel\nCompatible Conductor Gauge: 22 AWG | 24 AWG\nInsulation Resistance: 500 MOhm",
+    "additionalDetails": {
+      "regularPrice": "407৳",
+      "status": "In Stock",
+      "productCode": "30456",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1305-04017",
+        "Material Type: Copper alloy, Flame Retardant, Thermoplastic",
+        "Termination Contact Plating: Nickel",
+        "Compatible Conductor Gauge: 22 AWG | 24 AWG",
+        "Insulation Resistance: 500 MOhm",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 1 Meter Yellow Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-u-utp-yellow-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm â€“ 6.5mm\n3P and UL certified\nLength: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "415৳",
+      "status": "In Stock",
+      "productCode": "13739",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196106",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm â€“ 6.5mm",
+        "3P and UL certified",
+        "Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Grey",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH Yellow 1 Meter",
+      "Outer Diameter": "Outer diameter: 5.0±0.5 mm.",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 2 Meter Grey Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-u-utp-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm x 6.5mm\n3P and UL certified\nLength: 2 Meters",
+    "additionalDetails": {
+      "regularPrice": "420৳",
+      "status": "In Stock",
+      "productCode": "13737",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196110",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm x 6.5mm",
+        "3P and UL certified",
+        "Length: 2 Meters",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Grey",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH  Grey 2 Meter",
+      "Outer Diameter": "Outer diameter: 5.0±0.5 mm.",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 2 Meter Blue Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-blue-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm x 6.5mm\n3P and UL certified\nLength: 2 Meters",
+    "additionalDetails": {
+      "regularPrice": "420৳",
+      "status": "In Stock",
+      "productCode": "13778",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196107",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm x 6.5mm",
+        "3P and UL certified",
+        "Length: 2 Meters",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Blue",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH Blue 2 Meter",
+      "Outer Diameter": "5.0±0.5 mm",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "Safenet 35-3010WT Cat6 Modular Jack White",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/35-3010wt-01-228x228.webp",
+    "price": "N/A",
+    "description": "Jack Contacts: Phosphor Bronze\nJack Housing: ABS, UL94V-O\nTCTL: Up to 250MHz\nCap: PC, UL94V-O",
+    "additionalDetails": {
+      "regularPrice": "429৳",
+      "status": "In Stock",
+      "productCode": "29598",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 35-3010WT",
+        "Jack Contacts: Phosphor Bronze",
+        "Jack Housing: ABS, UL94V-O",
+        "TCTL: Up to 250MHz",
+        "Cap: PC, UL94V-O",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Dintek 1201-0450X 0.5 Meter Cat.6 UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/1201-0450x/1201-0450x-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 0.5 Meter",
+    "additionalDetails": {
+      "regularPrice": "429৳",
+      "status": "In Stock",
+      "productCode": "30462",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1201-0450X",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 0.5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat 6",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "CommScope MGS400-317 Cat 6 U/UTP Information Outlet Modular jack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/mgs400-317/mgs400-317-228x228.webp",
+    "price": "N/A",
+    "description": "Material Type: Copper alloy, Flame Retardant, Thermoplastic\nTermination Contact Plating: Nickel\nCompatible Conductor Gauge: 22 AWG | 24 AWG\nInsulation Resistance: 500 MOhm",
+    "additionalDetails": {
+      "regularPrice": "435৳",
+      "status": "In Stock",
+      "productCode": "29903",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 700206741",
+        "Model: MGS400-317",
+        "Material Type: Copper alloy, Flame Retardant, Thermoplastic",
+        "Termination Contact Plating: Nickel",
+        "Compatible Conductor Gauge: 22 AWG | 24 AWG",
+        "Insulation Resistance: 500 MOhm",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "QGeeM QG-OT0602 CAT6 UTP Patch Cord 2 Meter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/qgeem/qg-ot0602/qg-ot0602-01-228x228.webp",
+    "price": "N/A",
+    "description": "Connector Type: RJ45\nCable Length: 2M\nGigabit Ethernet Speed\n7X More Flexible Stranded",
+    "additionalDetails": {
+      "regularPrice": "440৳",
+      "status": "In Stock",
+      "productCode": "28473",
+      "brand": "PROLINK",
+      "keyFeatures": [
+        "Model: QG-OT0602",
+        "Connector Type: RJ45",
+        "Cable Length: 2M",
+        "Gigabit Ethernet Speed",
+        "7X More Flexible Stranded",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 2422-3051YL 5 Meter SM Duplex Fiber LC/APC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/2422-3051yl-01-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 5 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "440৳",
+      "status": "In Stock",
+      "productCode": "30116",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 2422-3051YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 5 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC/APC-LC/APC",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Color": "Yellow",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Safenet 2422-3031YL 3 Meter SM Duplex Fiber LC/APC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/2422-3051yl-01-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 3 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "440৳",
+      "status": "In Stock",
+      "productCode": "30119",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 2422-3031YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 3 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC/APC-LC/APC",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Color": "Yellow",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Safenet 2422-3011YL 1 Meter SM Duplex Fiber LC/APC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/2422-3051yl-01-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 1 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "440৳",
+      "status": "In Stock",
+      "productCode": "30121",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 2422-3011YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 1 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC/APC-LC/APC",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Color": "Yellow",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 2 Meter Yellow Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-u-utp-yellow-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm x 6.5mm\n3P and UL certified\nLength: 2 Meters",
+    "additionalDetails": {
+      "regularPrice": "450৳",
+      "status": "In Stock",
+      "productCode": "13740",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196197",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm x 6.5mm",
+        "3P and UL certified",
+        "Length: 2 Meters",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Grey",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH Yellow 2 Meter",
+      "Outer Diameter": "Outer diameter: 5.0±0.5 mm.",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "CommScope MGS400-318 Cat 6 U/UTP Information Outlet Modular jack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/mgs400-318/mgs400-318-228x228.webp",
+    "price": "N/A",
+    "description": "Material Type: Copper alloy, Flame Retardant, Thermoplastic\nTermination Contact Plating: Nickel\nCompatible Conductor Gauge: 22 AWG | 24 AWG\nInsulation Resistance: 500 MOhm",
+    "additionalDetails": {
+      "regularPrice": "460৳",
+      "status": "In Stock",
+      "productCode": "29905",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 700206758",
+        "Model: MGS400-318",
+        "Material Type: Copper alloy, Flame Retardant, Thermoplastic",
+        "Termination Contact Plating: Nickel",
+        "Compatible Conductor Gauge: 22 AWG | 24 AWG",
+        "Insulation Resistance: 500 MOhm",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "R&M CAT6 Connection Module for Plate",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/tool-free-termination-jack-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Category: 6 \nConnector Type: RJ45 \nInstallation: Tool less \n3P and UL certified",
+    "additionalDetails": {
+      "regularPrice": "450৳",
+      "status": "In Stock",
+      "productCode": "13797",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R810597",
+        "Model: CAT6 Connection Module for Plate",
+        "Category: 6",
+        "Connector Type: RJ45",
+        "Installation: Tool less",
+        "3P and UL certified",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "EN 50173-1 \nIEC 60603-7: Electrical Characteristics of the Telecommunication Outlets ISO/IEC 11801",
+      "Connector Class": "Connection Module",
+      "Shielding Connector": "Unshielded",
+      "Connector Type": "RJ45",
+      "Category Connector": "Cat. 6",
+      "Holder for Connector": "Mounting plate",
+      "Poles": "8",
+      "Dimensions": "18.2 mm x 22.7 mm x 41.3 mm / 0.717 in x 0.894 in x 1.626 in (W x H x D)",
+      "Color": "Green"
+    }
+  },
+  {
+    "name": "R&M R810598 CAT6 Connection Module for Panel",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/faceplate/termination-jack-228x228.jpg",
+    "price": "N/A",
+    "description": "Category: 6 \nConnector Type: RJ45 \nInstallation: Tool less \n3P and UL certified",
+    "additionalDetails": {
+      "regularPrice": "450৳",
+      "status": "In Stock",
+      "productCode": "13801",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R810598",
+        "Model: CAT6 Connection Module for Panel",
+        "Category: 6",
+        "Connector Type: RJ45",
+        "Installation: Tool less",
+        "3P and UL certified",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "EN 50173-1\nIEC 60603-7: Electrical Characteristics of the Telecommunication Outlets ISO/IEC 11801",
+      "Connector Class": "Connection Module",
+      "Shielding Connector": "Unshielded",
+      "Connector Type": "RJ45",
+      "Category Connector": "Cat. 6",
+      "Poles": "8",
+      "Dimensions": "18.2 mm x 22.7 mm x 41.3 mm / 0.717 in x 0.894 in x 1.626 in (W x H x D)",
+      "Color": "Green"
+    }
+  },
+  {
+    "name": "Safenet 5422-3011VT 1 Meter OM4 Duplex LC-LC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/5422-3201vt-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 1 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "460৳",
+      "status": "In Stock",
+      "productCode": "30412",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 5422-3011VT",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 1 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC-LC",
+      "Poles": "2",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Dintek 1201-04062CH 1 Meter Cat.6 UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/1201-0450x/1201-0450x-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "460৳",
+      "status": "In Stock",
+      "productCode": "30463",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1201-04062CH",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat 6",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "CommScope 2121106-3 Fiber Optic Cable with HDPE Jacket",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/fiber-optic-cable/commscope/2121106-4/2121106-4-228x228.webp",
+    "price": "N/A",
+    "description": "Fiber Type: OS2\nNumber of fibers/Core: 6\nCable Length: 1 Meter\nJacket Material: High-density polyethylene (HDPE)",
+    "additionalDetails": {
+      "regularPrice": "484৳",
+      "status": "In Stock",
+      "productCode": "29915",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 2121106-3",
+        "Model: 2121106-3",
+        "Fiber Type: OS2",
+        "Number of fibers/Core: 6",
+        "Cable Length: 1 Meter",
+        "Jacket Material: High-density polyethylene (HDPE)",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Rosenberger Cat-6 UTP 90 Degree Toolless Ivory Pegasus (Module#CP31-13C-14)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/accessories/CP31-13C-14/rosenberger-cat-6-utp-90-degree-toolless-ivory-pegasus-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Quick and easy on-site installation\nGuaranteed high reliability; PRE CON-NECT  copper cable\nCat.5e, Cat.6, Cat.6a and Unshielded or shielded option\nCM, CMR, CMP and LSZH series fire retardant",
+    "additionalDetails": {
+      "regularPrice": "500৳",
+      "status": "In Stock",
+      "productCode": "22603",
+      "brand": "Rosenberger",
+      "keyFeatures": [
+        "MPN: CP31-13C-14",
+        "Model: Cat-6 UTP 90 Degree Toolless Ivory Pegasus",
+        "Quick and easy on-site installation",
+        "Guaranteed high reliability; PRE CON-NECT  copper cable",
+        "Cat.5e, Cat.6, Cat.6a and Unshielded or shielded option",
+        "CM, CMR, CMP and LSZH series fire retardant",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 34-3031BL 3 Meter Cat6 LSZH UTP Patch Cord Blue",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/blue-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "495৳",
+      "status": "In Stock",
+      "productCode": "29591",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3031BL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Blue",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3031YL 3 Meter Cat6 LSZH UTP Patch Cord Yellow",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/34-3551yl-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "495৳",
+      "status": "In Stock",
+      "productCode": "29593",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3031YL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Yellow",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 34-3031OR 3 Meter Cat6 LSZH UTP Patch Cord Orange",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/orange-01-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "495৳",
+      "status": "In Stock",
+      "productCode": "29594",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3031OR",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Orange",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "Safenet 44-5031OR 3 Meter Cat6A SFTP Stranded LSZH Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/orange-01-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n26 AWG SOLID-Bare Copper Conductor\nCable Length: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "495৳",
+      "status": "In Stock",
+      "productCode": "30420",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 44-5031OR",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "26 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "LSZH",
+      "Category Connector": "Cat6A",
+      "Color": "Orange",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "D-Link NCB-C6UGRYR1-3 CAT6 UTP 24AWG 3 Meter Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/ncb-c6ugryr1-3/ncb-c6ugryr1-3-01-228x228.webp",
+    "price": "N/A",
+    "description": "4 Unshielded Twisted Pair (UTP) Cable\n24 AWG Conductor Size\nMaximum Data Transmission: 1 Gbps\nColor: gray, Length: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "500৳",
+      "status": "In Stock",
+      "productCode": "30742",
+      "brand": "D-Link",
+      "keyFeatures": [
+        "Model: NCB-C6UGRYR1-3",
+        "4 Unshielded Twisted Pair (UTP) Cable",
+        "24 AWG Conductor Size",
+        "Maximum Data Transmission: 1 Gbps",
+        "Color: gray, Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "UL 444 (for copper conductors)\nUL 758 Style 2835\nUL 1581 (Test standard)\nVerified TIA / EIA-568C.2 standard by ETL, CUL listed, RoHS",
+      "Connector Class": "RJ-45 8P with transparent color",
+      "Shielding Connector": "UTP",
+      "Category Connector": "CAT6",
+      "Color": "Grey",
+      "Conductor": "Conductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Cable Designation": "Patch Cord Cable Length of 3 Meters"
+    }
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 3 Meter Grey Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-u-utp-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm â€“ 6.5mm\n3P and UL certified\nLength: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "510৳",
+      "status": "In Stock",
+      "productCode": "13738",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196128",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm â€“ 6.5mm",
+        "3P and UL certified",
+        "Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Grey",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH  Grey 3 Meter",
+      "Outer Diameter": "Outer diameter: 5.0±0.5 mm.",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 3 Meter Yellow Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-u-utp-yellow-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm â€“ 6.5mm\n3P and UL certified\nLength: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "510৳",
+      "status": "In Stock",
+      "productCode": "13741",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196142",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm â€“ 6.5mm",
+        "3P and UL certified",
+        "Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Grey",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH Yellow 3 Meter",
+      "Outer Diameter": "Outer diameter: 5.0±0.5 mm.",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "R&M CAT6 U/UTP 4P LSZH 3 Meter Blue Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cat-6-u-utp/cat-6-blue-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nOuter Diameter: 4.7mm x 6.5mm\n3P and UL certified\nLength: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "510৳",
+      "status": "In Stock",
+      "productCode": "13779",
+      "brand": "R&M",
+      "keyFeatures": [
+        "MPN: R196127",
+        "Model: CAT6 U/UTP 4P LSZH",
+        "Outer Jacket: LSZH",
+        "Outer Diameter: 4.7mm x 6.5mm",
+        "3P and UL certified",
+        "Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Blue",
+      "Conductor": "Number of fibers / conductors: 8 \nConductor size: 24 AWG (26/7) \nConductor type: stranded conductor",
+      "Standards": "Compliant with Cat.6 requirements of ISO/IEC 11801, EN 50173, EN 50168 and EIA/TIA 568.C.x",
+      "Cable Designation": "PC C6 U/UTP 4P LSZH Blue 3 Meter",
+      "Outer Diameter": "5.0±0.5 mm",
+      "Weight": "0.078000KG"
+    }
+  },
+  {
+    "name": "CommScope CPC3312-03F003 3 Feet U/UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cpc3312-03f003-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 3 Feet",
+    "additionalDetails": {
+      "regularPrice": "532৳",
+      "status": "In Stock",
+      "productCode": "29899",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "Model: CPC3312-03F003",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 3 Feet",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Transmission Standards IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "Safenet 5422-3031VT 3 Meter OM4 Duplex LC-LC Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/5422-3201vt-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 3 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "530৳",
+      "status": "In Stock",
+      "productCode": "30411",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 5422-3031VT",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 3 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC-LC",
+      "Poles": "2",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "TP-Link LS1005 5-Port 10/100Mbps Desktop Network Switch",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/switch/tp-link/ls1005/ls1005-01-228x228.jpg",
+    "price": "N/A",
+    "description": "5Ã— 10/100Mbos Auto-Negotiation RJ45 ports\nGreen Ethernet technology\nIEEE 802.3X flow control\nPlastic casing and desktop design",
+    "additionalDetails": {
+      "regularPrice": "600৳",
+      "status": "In Stock",
+      "productCode": "19413",
+      "brand": "TP-Link",
+      "keyFeatures": [
+        "Model: LS1005",
+        "5Ã— 10/100Mbos Auto-Negotiation RJ45 ports",
+        "Green Ethernet technology",
+        "IEEE 802.3X flow control",
+        "Plastic casing and desktop design",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions (L x W x H )": "3.3 × 1.8 × 0.9 in. (83.6 × 45.7 × 22.8 mm)",
+      "Interface": "5× 10/100Mbps, Auto-Negotiation, Auto-MDI/MDIX Ports",
+      "LED": "Yes",
+      "Power Supply": "External Power Adapter (Output: 5VDC/0.6A)",
+      "Type": "Unmanaged Switch",
+      "Port": "5 Port",
+      "Network Standard": "IEEE 802.3i/802.3u/802.3x",
+      "Advanced Functions": "Green Technology\n802.3X Flow Control\nBack Pressure",
+      "Transmission Method": "Store and Forward",
+      "Data Transmission Rate": "10/100Mbps",
+      "Environment": "Operating Temperature: 0°C~40°C (32°F~104°F)\nStorage Temperature: -40°C~70°C (-40°F~158°F)\nOperating Humidity: 10% ~ 90% non-condensing\nStorage Humidity: 5%~90% non-condensing",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "name": "CommScope CPCSSZ2-09F004 4 Feet Cat 6A U/UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/34-3551yl-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 4 Feet",
+    "additionalDetails": {
+      "regularPrice": "605৳",
+      "status": "In Stock",
+      "productCode": "30002",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "Model: CPCSSZ2-09F004",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 4 Feet",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat 6A",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "Safenet 4422-3031AQ OM3 LC-LC 3 Meter Duplex Fiber Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/4422-3051aq-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 3 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "605৳",
+      "status": "In Stock",
+      "productCode": "30380",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 4422-3031AQ",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 3 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC-LC",
+      "Poles": "2",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Dintek 1201-04074CH 3 Meter Cat.6 UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/1201-0450x/1201-0450x-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "605৳",
+      "status": "In Stock",
+      "productCode": "30464",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1201-04074CH",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat 6",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "Dintek 1201-06001 1 Meter Cat.6A Shielded Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/1201-06003-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 26 AWG\nCable Length: 1 Meter",
+    "additionalDetails": {
+      "regularPrice": "605৳",
+      "status": "In Stock",
+      "productCode": "30468",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1201-06001",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 26 AWG",
+        "Cable Length: 1 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat 6A",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "Tenda W311MI AX300 Wi-Fi 6 Wireless Nano USB Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/lan-card/netis/w311mi-ax300/w311mi-ax300-01-228x228.webp",
+    "price": "N/A",
+    "description": "Interfaces: USB2.0\nFrequency: 2.4GHz\nData Rate: 2.4GHz: Up to 286Mbps\nWireless Modes: Station Mode, SoftAP Mode",
+    "additionalDetails": {
+      "regularPrice": "600৳",
+      "status": "In Stock",
+      "productCode": "30480",
+      "brand": "Tenda",
+      "keyFeatures": [
+        "Model: W311MI",
+        "Interfaces: USB2.0",
+        "Frequency: 2.4GHz",
+        "Data Rate: 2.4GHz: Up to 286Mbps",
+        "Wireless Modes: Station Mode, SoftAP Mode",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Antenna": "Internal Antenna",
+      "Dimensions (L x W x H )": "21mm × 15mm × 7.7mm(L x W x H)",
+      "Interface": "USB2.0",
+      "Data Rate": "2.4GHz: Up to 286Mbps",
+      "Frequency": "2.4GHz",
+      "Standards": "IEEE802.11b,IEEE 802.11g, IEEE 802.11n,IEEE 802.11ax",
+      "System Requirements": "Windows 7/10/11\nLinux 3.2+\nUOS",
+      "Wireless Modes": "Station Mode, SoftAP Mode",
+      "Wireless Security": "WPA-PSK/WPA2-PSK\nWPA/WPA2",
+      "Warranty": "01-year warranty"
+    }
+  },
+  {
+    "name": "Tenda S105 5-port Ethernet Switch",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/switch/tenda/s105/tenda-105-228x228.jpg",
+    "price": "N/A",
+    "description": "Port: 5*10/100M  RJ 45\nDimension: 82.00 X 52.00 X 22.30\nMAC Address Table: 1K",
+    "additionalDetails": {
+      "regularPrice": "600৳",
+      "status": "In Stock",
+      "productCode": "5559",
+      "brand": "Tenda",
+      "keyFeatures": [
+        "Model: Tenda S105",
+        "Port: 5*10/100M  RJ 45",
+        "Dimension: 82.00 X 52.00 X 22.30",
+        "MAC Address Table: 1K",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Port": "5",
+      "Data transfer rate": "100 Mbps"
+    }
+  },
+  {
+    "name": "CommScope CPCSSZ2-02F003 3 Feet Cat 6A U/UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cpcssz2-02f003-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 3 Feet",
+    "additionalDetails": {
+      "regularPrice": "617৳",
+      "status": "In Stock",
+      "productCode": "30004",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "Model: CPCSSZ2-02F003",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 3 Feet",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat 6A",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "Havit WF15 150 MBPS Wi-Fi Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/lan-card/havit/wf15/wf15-228x228.jpg",
+    "price": "N/A",
+    "description": "Compatible with any PC/Laptop to connect to WiFi Router\nUSB WiFi Adapter\nBandwidth: 20MHz/40MHz\ntransmission rate: 150Mbps",
+    "additionalDetails": {
+      "regularPrice": "660৳",
+      "status": "In Stock",
+      "productCode": "12941",
+      "brand": "Havit",
+      "keyFeatures": [
+        "Model: Havit WF15",
+        "Compatible with any PC/Laptop to connect to WiFi Router",
+        "USB WiFi Adapter",
+        "Bandwidth: 20MHz/40MHz",
+        "transmission rate: 150Mbps",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Interface": "USB",
+      "Data Rate": "150Mbps wireless transmission rate",
+      "Frequency": "20MHz/40MHz Bandwidth",
+      "Standards": "Supports 64/128-bit WEP, complies with 128 bit WPA standard(TKIP/AES)",
+      "System Requirements": "Supports WINXP//LINUX/VISTA/WIN7",
+      "Wireless Security": "supports MIC, IV  Expansion, Shared Key  Authentication, IEEE 802.1X",
+      "Warranty": "01-Year Warranty"
+    }
+  },
+  {
+    "name": "Totolink N160USM 150Mbps Wireless Nano USB Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/lan-card/totolink/n160usm/n160usm-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Complies with IEEE 802.11b/g/n standards\nUp to 150Mbps data rate for Wi-Fi network\nUniversal USB2.0 interface for high compatibility\nBuilt-in driver, easy to install and configure",
+    "additionalDetails": {
+      "regularPrice": "660৳",
+      "status": "In Stock",
+      "productCode": "19365",
+      "brand": "TOTOLINK",
+      "keyFeatures": [
+        "Model: N160USM",
+        "Complies with IEEE 802.11b/g/n standards",
+        "Up to 150Mbps data rate for Wi-Fi network",
+        "Universal USB2.0 interface for high compatibility",
+        "Built-in driver, easy to install and configure",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Antenna": "built-in high gain antenna",
+      "Interface": "USB 2.0",
+      "Frequency": "802.11 standard",
+      "Standards": "Complying with the 802.11n/g/b standard",
+      "Wireless Security": "WPS",
+      "Warranty": "1 year",
+      "Compatibility": "Windows, MacOS, Linux"
+    }
+  },
+  {
+    "name": "Safenet 34-3051BL 5 Meter Cat6 LSZH UTP Patch Cord Blue",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/blue-228x228.webp",
+    "price": "N/A",
+    "description": "Outer Jacket: LSZH\nTransmission frequency: 250 MHz\n23 AWG SOLID-Bare Copper Conductor\nCable Length: 5 Meter",
+    "additionalDetails": {
+      "regularPrice": "660৳",
+      "status": "In Stock",
+      "productCode": "29596",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 34-3051BL",
+        "Outer Jacket: LSZH",
+        "Transmission frequency: 250 MHz",
+        "23 AWG SOLID-Bare Copper Conductor",
+        "Cable Length: 5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "ISO/IEC 11801\nIEC 61156-5\nEN 50173\nEN 50288 TIA/EIA 568—C.2\nOther Parameter:\nLength (L): L = L+dmm (Omm < L ≤ 1000mm) L+10mm (1000mm < L ≤ 2000mm)\nL+20mm (2000mm < L ≤ 5000mm) L+50mrn(5000mrn<L ≤ 1S000mm) L+100mm (L > 15000mm)",
+      "Connector Class": "Connector",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Color": "Blue",
+      "Outer Diameter": "6.1mm + 1.0 mm"
+    }
+  },
+  {
+    "name": "CommScope MGS600-246 Cat 6 U/UTP Information Outlet Modular jack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/mgs600-246/mgs600-246-228x228.webp",
+    "price": "N/A",
+    "description": "Material Type: Copper alloy, Flame Retardant, Thermoplastic\nTermination Contact Plating: Nickel\nCompatible Conductor Gauge: 22 AWG | 24 AWG\nInsulation Resistance: 500 MOhm",
+    "additionalDetails": {
+      "regularPrice": "700৳",
+      "status": "In Stock",
+      "productCode": "29902",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 760092411",
+        "Model: MGS600-246",
+        "Material Type: Copper alloy, Flame Retardant, Thermoplastic",
+        "Termination Contact Plating: Nickel",
+        "Compatible Conductor Gauge: 22 AWG | 24 AWG",
+        "Insulation Resistance: 500 MOhm",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "QGeeM QG-OT0605 CAT6 UTP Patch Cord 5 Meter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/qgeem/qg-ot0602/qg-ot0602-01-228x228.webp",
+    "price": "N/A",
+    "description": "Connector Type: RJ45\nCable Length: 5M\nGigabit Ethernet Speed\n7X More Flexible Stranded",
+    "additionalDetails": {
+      "regularPrice": "710৳",
+      "status": "In Stock",
+      "productCode": "28475",
+      "brand": "PROLINK",
+      "keyFeatures": [
+        "Model: QG-OT0605",
+        "Connector Type: RJ45",
+        "Cable Length: 5M",
+        "Gigabit Ethernet Speed",
+        "7X More Flexible Stranded",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Safenet 4422-3051AQ OM3 LC-LC 5 Meter Duplex Fiber Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/4422-3051aq-228x228.webp",
+    "price": "N/A",
+    "description": "Core: 9 ± 2.5μm\nSingle-mode, LSZH\nCable Length: 5 Meter\nMax Load: Short Term 120N",
+    "additionalDetails": {
+      "regularPrice": "715৳",
+      "status": "In Stock",
+      "productCode": "30349",
+      "brand": "Safenet",
+      "keyFeatures": [
+        "Model: 4422-3051YL",
+        "Core: 9 ± 2.5μm",
+        "Single-mode, LSZH",
+        "Cable Length: 5 Meter",
+        "Max Load: Short Term 120N",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Connector Type": "LC-LC",
+      "Poles": "2",
+      "Dimensions": "Bare Fiber Diameter: 245 ± 7μm\nTight Buffer Fiber Diameter: 0.9 ± 0.05mm",
+      "Outer Diameter": "245 ± 7μm",
+      "Bending Radius": "Dynamic 60 Static 30"
+    }
+  },
+  {
+    "name": "Dintek 1305-05004 Cat6A Shielded Keystone Jack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/1305-05004/1305-05004-228x228.webp",
+    "price": "N/A",
+    "description": "Material Type: Copper alloy, Flame Retardant, Thermoplastic\nTermination Contact Plating: Nickel\nCompatible Conductor Gauge: 22 AWG | 24 AWG\nInsulation Resistance: 500 MOhm",
+    "additionalDetails": {
+      "regularPrice": "715৳",
+      "status": "In Stock",
+      "productCode": "30469",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1305-05004",
+        "Material Type: Copper alloy, Flame Retardant, Thermoplastic",
+        "Termination Contact Plating: Nickel",
+        "Compatible Conductor Gauge: 22 AWG | 24 AWG",
+        "Insulation Resistance: 500 MOhm",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "CommScope CPC3312-03F010 10 Feet U/UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cpc3312-03f003-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 10 Feet",
+    "additionalDetails": {
+      "regularPrice": "726৳",
+      "status": "In Stock",
+      "productCode": "29900",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "Model: CPC3312-03F010",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 10 Feet",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Transmission Standards IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "CommScope CPC3312-07F010 7 Feet U/UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/cpc3312-03f003-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 7 Feet",
+    "additionalDetails": {
+      "regularPrice": "726৳",
+      "status": "In Stock",
+      "productCode": "29901",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "Model: CPC3312-07F010",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 7 Feet",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "Transmission Standards IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat.6",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "CommScope MGS600-123 Cat 6 U/UTP Information Outlet Modular jack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/connector/mgs600-123/mgs600-123-228x228.webp",
+    "price": "N/A",
+    "description": "Material Type: Copper alloy, Flame Retardant, Thermoplastic\nTermination Contact Plating: Nickel\nCompatible Conductor Gauge: 22 AWG | 24 AWG\nInsulation Resistance: 500 MOhm",
+    "additionalDetails": {
+      "regularPrice": "726৳",
+      "status": "In Stock",
+      "productCode": "29973",
+      "brand": "CommScope",
+      "keyFeatures": [
+        "MPN: 700206758",
+        "Model: MGS600-123",
+        "Material Type: Copper alloy, Flame Retardant, Thermoplastic",
+        "Termination Contact Plating: Nickel",
+        "Compatible Conductor Gauge: 22 AWG | 24 AWG",
+        "Insulation Resistance: 500 MOhm",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Dintek 1201-04080CH 5 Meter Cat.6 UTP Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/1201-0450x/1201-0450x-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 24 AWG\nCable Length: 5 Meter",
+    "additionalDetails": {
+      "regularPrice": "735৳",
+      "status": "In Stock",
+      "productCode": "30465",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1201-04080CH",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 24 AWG",
+        "Cable Length: 5 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat 6",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "Dintek 1201-06003 3 Meter Cat.6A Shielded Patch Cord",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/patch-cord/1201-06003-228x228.webp",
+    "price": "N/A",
+    "description": "Cable Type: U/UTP (unshielded)\nTransmission Standards: IEEE 802.3bt Type 4\nConductor Gauge: 26 AWG\nCable Length: 3 Meter",
+    "additionalDetails": {
+      "regularPrice": "749৳",
+      "status": "In Stock",
+      "productCode": "30467",
+      "brand": "Dintek",
+      "keyFeatures": [
+        "Model: 1201-06003",
+        "Cable Type: U/UTP (unshielded)",
+        "Transmission Standards: IEEE 802.3bt Type 4",
+        "Conductor Gauge: 26 AWG",
+        "Cable Length: 3 Meter",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Standard": "IEEE 802.3bt Type 4",
+      "Connector Class": "Standard",
+      "Shielding Connector": "U/UTP",
+      "Category Connector": "Cat 6A",
+      "Twisting": "Yes",
+      "Outer Diameter": "7.24 mm (0.285 in)"
+    }
+  },
+  {
+    "name": "Netis WF2120 150Mbps Wireless N Nano USB Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/lan-card/netis/wf2120/wf2120-01-228x228.webp",
+    "price": "N/A",
+    "description": "Interfaces: USB2.0\nFrequency: 2.4GHz\nData Rate: 2.4GHz: Up to 286Mbps\nWireless Modes: Station Mode, SoftAP Mode",
+    "additionalDetails": {
+      "regularPrice": "750৳",
+      "status": "In Stock",
+      "productCode": "30484",
+      "brand": "Netis",
+      "keyFeatures": [
+        "Model: WF2120",
+        "Interfaces: USB2.0",
+        "Frequency: 2.4GHz",
+        "Data Rate: 2.4GHz: Up to 286Mbps",
+        "Wireless Modes: Station Mode, SoftAP Mode",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Antenna": "Internal Antenna",
+      "Dimensions (L x W x H )": "14 x 19 x 7 mm",
+      "Interface": "USB2.0",
+      "Weight": "2 g",
+      "Data Rate": "Up to 150Mbps",
+      "Frequency": "2.4-2.4835GHz",
+      "Standards": "IEEE 802.11b, IEEE 802.11g, IEEE 802.11n",
+      "System Requirements": "Windows 7/10/11\nLinux 3.2+\nUOS",
+      "Wireless Modes": "Station, Access Point",
+      "Wireless Security": "Support 64/128-bit WEP, WPA-PSK/WPA2-PSK",
+      "Warranty": "01-year warranty",
+      "Compatibility": "Windows XP (32/64bits),\nWindows Vista (64/86bits),\nWindows 7 (64/86bits),\nWindows 8 (64/86bits), Windows 8.1 (64/86bits), Win 10(32/64bits)  \nMAC 10.4/10.5/10.6/10.7/10.8/10.9/10.10/10.11\nLinux as Ubuntu 14.04/13.10/12.04/11.04"
+    }
+  },
+  {
+    "name": "TP-Link SF1005D 5 Port",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Switch/TL-SF1005D-04-228x228.jpg",
+    "price": "N/A",
+    "description": "5 10/100Mbps RJ45 Ports\nDimension: 4.1 x 2.8 x 0.9 in\nIEEE 802.3x flow control",
+    "additionalDetails": {
+      "regularPrice": "760৳",
+      "status": "In Stock",
+      "productCode": "2593",
+      "brand": "TP-Link",
+      "keyFeatures": [
+        "Model: TP-Link SF1005D 5 Port",
+        "5 10/100Mbps RJ45 Ports",
+        "Dimension: 4.1 x 2.8 x 0.9 in",
+        "IEEE 802.3x flow control",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Port": "5",
+      "Data transfer rate": "100 Mbps"
+    }
+  },
+  {
+    "name": "TP-Link TL-WN725N 150Mbps Wireless N Nano USB LAN Card",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/router1/TP-Link/wn725n/TL-WN725N-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Frequency: 2.4GHz\nInterface: USB 2.0\nDimensions: 0.73 Ã— 0.59 Ã— 0.28 in",
+    "additionalDetails": {
+      "regularPrice": "750৳",
+      "status": "In Stock",
+      "productCode": "5549",
+      "brand": "TP-Link",
+      "keyFeatures": [
+        "Model:  TP-LINK TL-WN725N",
+        "Frequency: 2.4GHz",
+        "Interface: USB 2.0",
+        "Dimensions: 0.73 Ã— 0.59 Ã— 0.28 in",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Interface": "USB 2.0",
+      "Transfer Rate": "150Mbps"
+    }
+  },
+  {
+    "name": "Mercusys MW300UM 300Mbps N300 Wireless Mini USB Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/lan-card/mercusys/mw300um/mw300um-2-228x228.jpg",
+    "price": "N/A",
+    "description": "Provides fast 300Mbps Wi-Fi connections for wired devices\nOnline gaming, HD streaming\nSupports Windows 10/8.1/8/7/XP",
+    "additionalDetails": {
+      "regularPrice": "760৳",
+      "status": "In Stock",
+      "productCode": "13516",
+      "brand": "Mercusys",
+      "keyFeatures": [
+        "Model: Mercusys MW300UM",
+        "Provides fast 300Mbps Wi-Fi connections for wired devices",
+        "Online gaming, HD streaming",
+        "Supports Windows 10/8.1/8/7/XP",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Tenda S108 10/100 8 Port Desktop Switch White",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/router1/Tenda/switch/Tenda S108/Tenda S108-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Backbound Bandwidth: 1.6Gbps\nAccess Control: CDMA/CD\nMAC Address Table: 1K",
+    "additionalDetails": {
+      "regularPrice": "750৳",
+      "status": "In Stock",
+      "productCode": "5573",
+      "brand": "Tenda",
+      "keyFeatures": [
+        "Model: Tenda S108",
+        "Backbound Bandwidth: 1.6Gbps",
+        "Access Control: CDMA/CD",
+        "MAC Address Table: 1K",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Port": "8",
+      "Data transfer rate": "1.6Gbps"
+    }
+  },
+  {
+    "name": "Cudy PE10 Gigabit PCI Express Network Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/lan-card/cudy/pe10/pe10-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Upgrade your ethernet to super fast 10/100/1000Mbps\nRemotely power on/off your computer with WOL\nDual Brackets compatible with mini and standard size PC\nCompatible with Windows, Linux, Mac OS",
+    "additionalDetails": {
+      "regularPrice": "800৳",
+      "status": "In Stock",
+      "productCode": "22997",
+      "brand": "Cudy",
+      "keyFeatures": [
+        "Model: PE10",
+        "Upgrade your ethernet to super fast 10/100/1000Mbps",
+        "Remotely power on/off your computer with WOL",
+        "Dual Brackets compatible with mini and standard size PC",
+        "Compatible with Windows, Linux, Mac OS",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions (L x W x H )": "12*75*55mm",
+      "Interface": "1*10/100/1000Mbps RJ45 Network interface Support network adaptation",
+      "Warranty": "01-Year",
+      "Compatibility": "PCIE-16X/PCIE-4X/PCIE-8X/PCIE-1X"
+    }
+  },
+  {
+    "name": "Totolink N300UM 300mbps USB Network Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/landCard/N300UM-228x228.jpg",
+    "price": "N/A",
+    "description": "Frequency: 2.4-2.4835GHz \nEIRP: < 20dBm \nInterface: USB 2.0",
+    "additionalDetails": {
+      "regularPrice": "750৳",
+      "status": "In Stock",
+      "productCode": "2586",
+      "brand": "TOTOLINK",
+      "keyFeatures": [
+        "Model: TOTO-Link N300UM",
+        "Frequency: 2.4-2.4835GHz",
+        "EIRP: < 20dBm",
+        "Interface: USB 2.0",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Interface": "USB 2.0",
+      "Transfer Rate": "300 Mbps"
+    }
+  },
+  {
+    "name": "TOTOLINK S505 5-Port 10/100Mbps Desktop Switch",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/switch/totolink/s505/s505-228x228.jpg",
+    "price": "N/A",
+    "description": "5 10/100Mbps auto-negotiated RJ45 ports\nAuto-MDI/MDIX\nSupports IEEE 802.3x\n1K entry MAC address",
+    "additionalDetails": {
+      "regularPrice": "770৳",
+      "status": "In Stock",
+      "productCode": "4708",
+      "brand": "TOTOLINK",
+      "keyFeatures": [
+        "Model: TOTOLINK S505",
+        "5 10/100Mbps auto-negotiated RJ45 ports",
+        "Auto-MDI/MDIX",
+        "Supports IEEE 802.3x",
+        "1K entry MAC address",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions (L x W x H )": "84 x 54 x 25mm",
+      "Interface": "5*10/100Mbps auto-negotiation RJ-45 Ports (Auto MDI/MDIX)",
+      "LED": "1* Power, 5*LANs",
+      "Power Supply": "DC 5V/0.6A",
+      "Port": "5*10/100Mbps auto-negotiation RJ-45 Ports (Auto MDI/MDIX)",
+      "Network Standard": "IEEE 802.3\nIEEE 802.3u\nIEEE 802.3x",
+      "Transmission Method": "Store-and-forward",
+      "Data Transmission Rate": "10/100Mbps",
+      "MAC Address Table": "1K",
+      "Environment": "Operating Temperature: 0℃~40 ℃ (32 ℉~104℉)\nStorage Temperature: -40℃~70 ℃ (-40 ℉~158℉)\nOperating Humidity: 10%~90% non-condensing\nStorage Humidity: 5%~90% non-condensing",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "name": "Netis ST3105S 5 Port Fast Ethernet Switch",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/networking/network-switch/netis/st3105s/st3105s-1-228x228.jpg",
+    "price": "N/A",
+    "description": "IEEE 802.3x flow control provides reliable data transfer\n5 Auto-Negotiation RJ45 ports\nSaves the power up to 70%\nPlug and play",
+    "additionalDetails": {
+      "regularPrice": "800৳",
+      "status": "In Stock",
+      "productCode": "11418",
+      "brand": "Netis",
+      "keyFeatures": [
+        "Model: Netis ST3105S",
+        "IEEE 802.3x flow control provides reliable data transfer",
+        "5 Auto-Negotiation RJ45 ports",
+        "Saves the power up to 70%",
+        "Plug and play",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions (L x W x H )": "99 x 57 x 21 mm",
+      "Interface": "5 * 10/100M RJ45 port, Auto-Negotiation, Auto MDI/MDIX",
+      "LED": "PWR, 1-5",
+      "Power Supply": "DC 5V/800mA(Output)",
+      "Weight": "4 ounces",
+      "Port": "5 RJ45 port",
+      "Network Standard": "IEEE 802.3 10Base-T, IEEE 802.3u 100Base-TX,\nIEEE 802.3x Flow Control",
+      "Access Method": "CSMA/CD",
+      "Transmission Method": "Store and Forward",
+      "Data Transmission Rate": "10/100Mbps(Half-duplex)\n20/200Mbps(Full-duplex)",
+      "MAC Address Table": "2K",
+      "Environment": "Operating Temperature: 0℃~40℃\nStorage Temperature: -20℃~70℃\nOperating Humidity: 5%~90% non-condensing S\ntorage Humidity: 5%~90% non-condensing",
+      "Warranty": "01 Year Warranty"
+    }
+  },
+  {
+    "name": "TP-Link LS1008 8-Port 10/100Mbps Desktop Switch",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/switch/tp-link/ls1008/ls1008-01-228x228.webp",
+    "price": "N/A",
+    "description": "Interface: 8× 10/100Mbps Auto-Negotiation, Auto-MDI/MDIX\nGreen Ethernet technology saves power\nIEEE 802.3X flow control provides reliable data transfer\nPlug and play, no configuration is needed",
+    "additionalDetails": {
+      "regularPrice": "810৳",
+      "status": "In Stock",
+      "productCode": "24556",
+      "brand": "TP-Link",
+      "keyFeatures": [
+        "Model: LS1008",
+        "Interface: 8× 10/100Mbps Auto-Negotiation, Auto-MDI/MDIX",
+        "Green Ethernet technology saves power",
+        "IEEE 802.3X flow control provides reliable data transfer",
+        "Plug and play, no configuration is needed",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions (L x W x H )": "4.9 × 1.9 × 0.9 in. (124.6 × 48.7 × 22.8 mm)",
+      "Interface": "8× 10/100Mbps, Auto-Negotiation, Auto-MDI/MDIX Ports",
+      "Power Supply": "External Power Adapter (Output: 5VDC / 0.6A)",
+      "Port": "8 Port",
+      "Advanced Functions": "Green Technology\n802.3X Flow Control\nBack Pressure",
+      "Transmission Method": "Store and Forward",
+      "Environment": "Operating Temperature: 0°C~40°C (32°F~104°F)\nStorage Temperature: -40°C~70°C (-40°F~158°F)\nOperating Humidity: 10% ~ 90% non-condensing\nStorage Humidity: 5%~90% non-condensing",
+      "Warranty": "01-Year"
+    }
+  },
+  {
+    "name": "Netis ST3105c 5 Port Fast Ethernet Switch",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/switch/netis/st3105c/st3105c-01-228x228.webp",
+    "price": "N/A",
+    "description": "5x 10/100M RJ45 Ports\nAuto-Negotiation, Auto MDI/MDIX\nTransmission Method: Store and Forward\nAccess Method: CSMA/CD",
+    "additionalDetails": {
+      "regularPrice": "800৳",
+      "status": "In Stock",
+      "productCode": "30558",
+      "brand": "Netis",
+      "keyFeatures": [
+        "Model: ST3105c",
+        "5x 10/100M RJ45 Ports",
+        "Auto-Negotiation, Auto MDI/MDIX",
+        "Transmission Method: Store and Forward",
+        "Access Method: CSMA/CD",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions (L x W x H )": "85x 75 x 222mm",
+      "Interface": "5x 10/100M RJ45 port, Auto-Negotiation, Auto MDI/MDIX",
+      "LED": "PWR, 1-5",
+      "Power Supply": "DC 5V/600mA(Output)",
+      "Weight": "2.1 Kg",
+      "Port": "5x Port",
+      "Network Standard": "IEEE 802.3 10Base-T, IEEE 802.3u 100Base-TX,IEEE 802.3x Flow Control",
+      "Access Method": "CSMA/CD",
+      "Transmission Method": "Store and Forward",
+      "Data Transmission Rate": "10/100Mbps(Half-duplex)",
+      "MAC Address Table": "2K",
+      "Warranty": "01 Year Warranty"
+    }
+  },
+  {
+    "name": "TP-Link TL-SF1008D 8Port 10/100Mbps Desktop Switch",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/switch/tp-link/sf1008d/sf1008d-02-228x228.png",
+    "price": "N/A",
+    "description": "8 10/100Mbps RJ45 Ports\nDimension: 5.3*3.1*0.9 in\nBuffer Size\t2Mb",
+    "additionalDetails": {
+      "regularPrice": "880৳",
+      "status": "In Stock",
+      "productCode": "2594",
+      "brand": "TP-Link",
+      "keyFeatures": [
+        "Model: TP-Link SF1008D 8 Port",
+        "8 10/100Mbps RJ45 Ports",
+        "Dimension: 5.3*3.1*0.9 in",
+        "Buffer Size\t2Mb",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Port": "8",
+      "Data transfer rate": "100 Mbps"
+    }
+  },
+  {
+    "name": "Micronet Cat 6 RJ45 Cable Connector-Pack Of 20 Pieces",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Networking Accessories/Cable Connector/Micronet/SP1113_10cm-228x228.jpg",
+    "price": "N/A",
+    "description": "Micronet high-quality RJ45 plugs\nGigabit Ethernet network\nPlug maintains high bandwidth",
+    "additionalDetails": {
+      "regularPrice": "850৳",
+      "status": "In Stock",
+      "productCode": "5945",
+      "brand": "Micronet",
+      "keyFeatures": [
+        "Model: Micronet Cat 6 RJ45 Cable Connector",
+        "Micronet high-quality RJ45 plugs",
+        "Gigabit Ethernet network",
+        "Plug maintains high bandwidth",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  }
+]
