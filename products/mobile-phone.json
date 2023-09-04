@@ -1094,6 +1094,59 @@
     }
   },
   {
+    "name": "Apple iPhone 14 Pro 128GB Deep Purple (Dual SIM)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/deep-purple/iphone-14-pro-deep-purple-01-228x228.webp",
+    "price": "123,000৳",
+    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
+    "additionalDetails": {
+      "cashDiscountPrice": "123,000৳",
+      "regularPrice": "132,500৳",
+      "status": "In Stock",
+      "productCode": "26482",
+      "brand": "Apple",
+      "keyFeatures": [
+        "Model: iPhone 14 Pro",
+        "Display: 6.1\" Super Retina XDR Always-On display",
+        "Processor: A16 Bionic chip, Storage: 128GB",
+        "Camera: 48MP + 12MP + 12MP Rear, 12MP Front",
+        "Features: Dynamic Island, Face ID, Dual SIM",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Size": "6.1‑inch",
+      "Type": "Built‑in rechargeable lithium‑ion battery",
+      "Resolution": "TrueDepth front camera (12MP camera)",
+      "Refresh Rate": "ProMotion technology with adaptive refresh rates up to 120Hz",
+      "Brightness": "1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)",
+      "Features": "ƒ/1.9 aperture\nAutofocus with Focus Pixels\nSix-element lens\nRetina Flash\nPhotonic Engine\nDeep Fusion\nSmart HDR 4\nPortrait mode with advanced bokeh and Depth Control\nPortrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Mono)\nAnimoji and Memoji\nNight mode\nPhotographic Styles\nApple ProRAW\nWide colour capture for photos and Live Photos\nLens correction\nAuto image stabilisation\nBurst mode",
+      "Chipset": "A16 Bionic chip",
+      "CPU Type": "6‑core CPU with 2 performance and 4 efficiency cores\n16‑core Neural Engine",
+      "GPU": "5‑core GPU",
+      "RAM": "6GB",
+      "Internal Storage": "128GB",
+      "Card Slot": "N/A",
+      "Video Recording": "4K video recording at 24 fps, 25 fps, 30 fps or 60 fps\n1080p HD video recording at 25 fps, 30 fps or 60 fps\nCinematic mode up to 4K HDR at 30 fps\nHDR video recording with Dolby Vision up to 4K at 60 fps\nProRes video recording up to 1080p at 30 fps\nSlow-motion video support for 1080p at 240 fps\nTime-lapse video with stabilisation\nNight mode Time-lapse\nQuickTake video\nCinematic video stabilisation (4K, 1080p and 720p)",
+      "Speaker": "Built‑in stereo speaker",
+      "Audio Features": "Supported formats include AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos\nSpatial Audio playback\nUser-configurable maximum volume limit",
+      "SIM": "Dual SIM",
+      "Wi-Fi": "5G (sub‑6 GHz) with 4x4 MIMO\nGigabit LTE with 4x4 MIMO and LAA\nWi‑Fi 6 (802.11ax) with 2x2 MIMO",
+      "Bluetooth": "Bluetooth 5.3",
+      "GPS": "Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS and BeiDou)\nDigital compass\nWi-Fi\nMobile data\niBeacon micro-location",
+      "NFC": "NFC with reader mode",
+      "Audio Jack": "N/A",
+      "Operating System": "iOS 16",
+      "Sensors": "Face ID\nLiDAR Scanner\nBarometer\nHigh dynamic range gyro\nHigh-g accelerometer\nProximity sensor\nDual ambient light sensors",
+      "IP Rating": "Rated IP68 (maximum depth of 6 metres for up to 30 minutes) under IEC standard 60529",
+      "Other Features": "Face ID (Enabled by TrueDepth camera for facial recognition)\nApple Pay (Pay with your iPhone using Face ID in stores, within apps and on the web)\nSafety: Emergency SOS, Crash Detection",
+      "Fast Charging": "MagSafe wireless charging up to 15W\nQi wireless charging up to 7.5W\nCharging via USB to computer system or power adapter\nFast-charge capable\nUp to 50% charge in around 30 minutes11 with 20W adapter or higher (available separately)",
+      "Dimension": "Height: 147.5mm\nWidth: 71.5mm\nDepth: 7.85mm",
+      "Weight": "206g",
+      "Body Material": "Ceramic Shield front\nTextured matt glass back and\nstainless steel design",
+      "Colors": "Deep Purple"
+    }
+  },
+  {
     "name": "OPPO F21s Pro Smartphone (8/128GB)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/oppo/f21s-pro/f21s-pro-dawnlight-gold-228x228.webp",
     "price": "N/A",
@@ -3014,9 +3067,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 128GB Space Black (USA)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-space-black-01-228x228.webp",
-    "price": "N/A",
+    "price": "124,000৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
     "additionalDetails": {
+      "cashDiscountPrice": "124,000৳",
       "regularPrice": "131,000৳",
       "status": "In Stock",
       "productCode": "26491",
@@ -3066,9 +3120,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 128GB Deep Purple (Dual SIM)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-01-228x228.webp",
-    "price": "N/A",
+    "price": "133,000৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
     "additionalDetails": {
+      "cashDiscountPrice": "133,000৳",
       "regularPrice": "140,000৳",
       "status": "In Stock",
       "productCode": "26493",
@@ -3118,9 +3173,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 256GB Silver (USA)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/silver/iphone-14-pro-max-silver-01-228x228.webp",
-    "price": "N/A",
+    "price": "135,000৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
     "additionalDetails": {
+      "cashDiscountPrice": "135,000৳",
       "regularPrice": "142,000৳",
       "status": "In Stock",
       "productCode": "26533",
@@ -3170,9 +3226,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 256GB Space Black (USA)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-space-black-01-228x228.webp",
-    "price": "N/A",
+    "price": "135,000৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
     "additionalDetails": {
+      "cashDiscountPrice": "135,000৳",
       "regularPrice": "142,000৳",
       "status": "In Stock",
       "productCode": "26534",
@@ -3274,9 +3331,10 @@
   {
     "name": "Apple iPhone 14 128GB Midnight (Singapore)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14/midnight/iphone-14-midnight-228x228.webp",
-    "price": "N/A",
+    "price": "126,999৳",
     "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A15 Bionic chip, Storage: 128GB\nCamera: 12MP + 12MP Rear, 12MP Front\nFeatures: Face ID, eSIM Support",
     "additionalDetails": {
+      "cashDiscountPrice": "126,999৳",
       "regularPrice": "161,999৳",
       "status": "In Stock",
       "productCode": "30655",
@@ -3378,9 +3436,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 256GB Space Black (Dual SIM)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-space-black-01-228x228.webp",
-    "price": "N/A",
+    "price": "144,000৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
     "additionalDetails": {
+      "cashDiscountPrice": "144,000৳",
       "regularPrice": "152,000৳",
       "status": "In Stock",
       "productCode": "26527",
@@ -3483,9 +3542,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 512GB Silver (USA)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/silver/iphone-14-pro-max-silver-01-228x228.webp",
-    "price": "N/A",
+    "price": "150,000৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 512GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual eSIM",
     "additionalDetails": {
+      "cashDiscountPrice": "150,000৳",
       "regularPrice": "162,000৳",
       "status": "In Stock",
       "productCode": "28400",
@@ -3535,9 +3595,10 @@
   {
     "name": "Apple iPhone 14 Plus 128GB Purple (Singapore)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-plus/midnight/iphone-14-plus-midnight-228x228.webp",
-    "price": "N/A",
+    "price": "139,999৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A15 Bionic chip, Storage: 128GB\nCamera: 12MP + 12MP Rear, 12MP Front\nFeatures: Face ID, eSIM Support",
     "additionalDetails": {
+      "cashDiscountPrice": "139,999৳",
       "regularPrice": "181,820৳",
       "status": "In Stock",
       "productCode": "27718",
@@ -3693,10 +3754,10 @@
   {
     "name": "Apple iPhone 14 Pro 128GB Deep Purple (Singapore)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/deep-purple/iphone-14-pro-deep-purple-228x228.webp",
-    "price": "170,000৳",
+    "price": "163,499৳",
     "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
     "additionalDetails": {
-      "cashDiscountPrice": "170,000৳",
+      "cashDiscountPrice": "163,499৳",
       "regularPrice": "201,849৳",
       "status": "In Stock",
       "productCode": "26479",
@@ -3855,9 +3916,10 @@
   {
     "name": "Apple iPhone 14 Pro 256GB Gold (Singapore)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/gold/iphone-14-pro-gold-228x228.webp",
-    "price": "N/A",
+    "price": "175,999৳",
     "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
     "additionalDetails": {
+      "cashDiscountPrice": "175,999৳",
       "regularPrice": "210,000৳",
       "status": "In Stock",
       "productCode": "26485",
@@ -3961,10 +4023,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 128GB Deep Purple (Singapore)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-228x228.webp",
-    "price": "185,471৳",
+    "price": "172৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
     "additionalDetails": {
-      "cashDiscountPrice": "185,471৳",
+      "cashDiscountPrice": "172৳",
       "regularPrice": "221,759৳",
       "status": "In Stock",
       "productCode": "26830",
@@ -4015,9 +4077,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 256GB Space Black (Singapore)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/space-black/iphone-14-pro-max-black-228x228.webp",
-    "price": "N/A",
+    "price": "185,699৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
     "additionalDetails": {
+      "cashDiscountPrice": "185,699৳",
       "regularPrice": "241,600৳",
       "status": "In Stock",
       "productCode": "26528",
@@ -4067,10 +4130,10 @@
   {
     "name": "Apple iPhone 14 Pro Max 256GB Deep Purple (Singapore)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro-max/deep-purple/iphone-14-pro-max-deep-purple-228x228.webp",
-    "price": "195,000৳",
+    "price": "185,699৳",
     "description": "Display: 6.7\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 256GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, eSIM Support",
     "additionalDetails": {
-      "cashDiscountPrice": "195,000৳",
+      "cashDiscountPrice": "185,699৳",
       "regularPrice": "229,350৳",
       "status": "In Stock",
       "productCode": "26530",
@@ -6800,10 +6863,12 @@
   {
     "name": "Samsung Galaxy A13 Smartphone (6/128GB)",
     "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/samsung/galaxy-a13/galaxy-a1307-228x228.webp",
-    "price": "N/A",
+    "price": "22,999৳",
     "description": "Display: 6.6\" 1080 x 2408 (FHD+)\nProcessor: Octa-core (4x2.0 GHz Cortex-A55 & 4x2.0 GHz Cortex-A55)\nCamera: 50MP + 5MP + 2MP + 2MP Rear, 8MP Front\nFeatures: 5000mAh Li-Ion Battery",
     "additionalDetails": {
-      "status": "Out Of Stock",
+      "cashDiscountPrice": "22,999৳",
+      "regularPrice": "26,399৳",
+      "status": "In Stock",
       "productCode": "26142",
       "brand": "Samsung",
       "keyFeatures": [
@@ -7877,57 +7942,6 @@
       "Body Material": "Glass front, plastic back, plastic frame",
       "Colors": "Black\nBlue\nRed",
       "Warranty": "01-year Official warranty (To claim please visit the nearest Samsung Service Center)"
-    }
-  },
-  {
-    "name": "Apple iPhone 14 Pro 128GB Deep Purple (Dual SIM)",
-    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/mobile/apple/iphone-14-pro/deep-purple/iphone-14-pro-deep-purple-01-228x228.webp",
-    "price": "N/A",
-    "description": "Display: 6.1\" Super Retina XDR Always-On display\nProcessor: A16 Bionic chip, Storage: 128GB\nCamera: 48MP + 12MP + 12MP Rear, 12MP Front\nFeatures: Dynamic Island, Face ID, Dual SIM",
-    "additionalDetails": {
-      "status": "Out Of Stock",
-      "productCode": "26482",
-      "brand": "Apple",
-      "keyFeatures": [
-        "Model: iPhone 14 Pro",
-        "Display: 6.1\" Super Retina XDR Always-On display",
-        "Processor: A16 Bionic chip, Storage: 128GB",
-        "Camera: 48MP + 12MP + 12MP Rear, 12MP Front",
-        "Features: Dynamic Island, Face ID, Dual SIM",
-        "View More Info"
-      ]
-    },
-    "specifications": {
-      "Size": "6.1‑inch",
-      "Type": "Built‑in rechargeable lithium‑ion battery",
-      "Resolution": "TrueDepth front camera (12MP camera)",
-      "Refresh Rate": "ProMotion technology with adaptive refresh rates up to 120Hz",
-      "Brightness": "1,000 nits max brightness (typical); 1,600 nits peak brightness (HDR); 2,000 nits peak brightness (outdoor)",
-      "Features": "ƒ/1.9 aperture\nAutofocus with Focus Pixels\nSix-element lens\nRetina Flash\nPhotonic Engine\nDeep Fusion\nSmart HDR 4\nPortrait mode with advanced bokeh and Depth Control\nPortrait Lighting with six effects (Natural, Studio, Contour, Stage, Stage Mono, High‑Key Mono)\nAnimoji and Memoji\nNight mode\nPhotographic Styles\nApple ProRAW\nWide colour capture for photos and Live Photos\nLens correction\nAuto image stabilisation\nBurst mode",
-      "Chipset": "A16 Bionic chip",
-      "CPU Type": "6‑core CPU with 2 performance and 4 efficiency cores\n16‑core Neural Engine",
-      "GPU": "5‑core GPU",
-      "RAM": "6GB",
-      "Internal Storage": "128GB",
-      "Card Slot": "N/A",
-      "Video Recording": "4K video recording at 24 fps, 25 fps, 30 fps or 60 fps\n1080p HD video recording at 25 fps, 30 fps or 60 fps\nCinematic mode up to 4K HDR at 30 fps\nHDR video recording with Dolby Vision up to 4K at 60 fps\nProRes video recording up to 1080p at 30 fps\nSlow-motion video support for 1080p at 240 fps\nTime-lapse video with stabilisation\nNight mode Time-lapse\nQuickTake video\nCinematic video stabilisation (4K, 1080p and 720p)",
-      "Speaker": "Built‑in stereo speaker",
-      "Audio Features": "Supported formats include AAC, MP3, Apple Lossless, FLAC, Dolby Digital, Dolby Digital Plus and Dolby Atmos\nSpatial Audio playback\nUser-configurable maximum volume limit",
-      "SIM": "Dual SIM",
-      "Wi-Fi": "5G (sub‑6 GHz) with 4x4 MIMO\nGigabit LTE with 4x4 MIMO and LAA\nWi‑Fi 6 (802.11ax) with 2x2 MIMO",
-      "Bluetooth": "Bluetooth 5.3",
-      "GPS": "Precision dual-frequency GPS (GPS, GLONASS, Galileo, QZSS and BeiDou)\nDigital compass\nWi-Fi\nMobile data\niBeacon micro-location",
-      "NFC": "NFC with reader mode",
-      "Audio Jack": "N/A",
-      "Operating System": "iOS 16",
-      "Sensors": "Face ID\nLiDAR Scanner\nBarometer\nHigh dynamic range gyro\nHigh-g accelerometer\nProximity sensor\nDual ambient light sensors",
-      "IP Rating": "Rated IP68 (maximum depth of 6 metres for up to 30 minutes) under IEC standard 60529",
-      "Other Features": "Face ID (Enabled by TrueDepth camera for facial recognition)\nApple Pay (Pay with your iPhone using Face ID in stores, within apps and on the web)\nSafety: Emergency SOS, Crash Detection",
-      "Fast Charging": "MagSafe wireless charging up to 15W\nQi wireless charging up to 7.5W\nCharging via USB to computer system or power adapter\nFast-charge capable\nUp to 50% charge in around 30 minutes11 with 20W adapter or higher (available separately)",
-      "Dimension": "Height: 147.5mm\nWidth: 71.5mm\nDepth: 7.85mm",
-      "Weight": "206g",
-      "Body Material": "Ceramic Shield front\nTextured matt glass back and\nstainless steel design",
-      "Colors": "Deep Purple"
     }
   }
 ]

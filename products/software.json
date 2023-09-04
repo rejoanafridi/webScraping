@@ -1,1 +1,2262 @@
-[]
+[
+  {
+    "name": "ESET NOD32 Antivirus (2021 Edition)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/antivirus/eset/nod32/nod32-6-228x228.jpg",
+    "price": "N/A",
+    "description": "Reliable protection without slowdowns\nMinimal power usage\nLight on computer resources\nUninterrupted gaming and videos",
+    "additionalDetails": {
+      "status": "In Stock",
+      "productCode": "12273",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: NOD32",
+        "Reliable protection without slowdowns",
+        "Minimal power usage",
+        "Light on computer resources",
+        "Uninterrupted gaming and videos",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Number of User": "1 User",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "ESET Internet Security One User (Only Key)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/eset/one-user/eset-internet-security-one-user-228x228.jpg",
+    "price": "N/A",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware",
+    "additionalDetails": {
+      "regularPrice": "750৳",
+      "status": "In Stock",
+      "productCode": "6522",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: Eset Internet Security One User",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ESET Mobile Security for Android 2021",
+    "imageUrl": "https://www.startech.com.bd/image/cache/data/EMS-3D-800x800-228x228.jpg",
+    "price": "N/A",
+    "description": "SMS/MMS Antispam\nRemote Lock\nProactive Anti-Theft",
+    "additionalDetails": {
+      "regularPrice": "600৳",
+      "status": "In Stock",
+      "productCode": "1745",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Mobile Security",
+        "SMS/MMS Antispam",
+        "Remote Lock",
+        "Proactive Anti-Theft",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ESET NOD32 Antivirus 3 User for 1 Year (2021 Edition)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/eset/nod32/esest-nod32-3-user-1-year-228x228.jpg",
+    "price": "N/A",
+    "description": "Reliable protection without slowdowns\nMinimal power usage\nLight on computer resources\nUninterrupted gaming and videos",
+    "additionalDetails": {
+      "status": "In Stock",
+      "productCode": "17757",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET NOD32",
+        "Reliable protection without slowdowns",
+        "Minimal power usage",
+        "Light on computer resources",
+        "Uninterrupted gaming and videos",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "WINDOWS\nMicrosoft Windows® 10, 8.1, 8, 7 with SP1 and latest KB updates installed\n\nMAC\nmacOS 10.15 (Catalina), macOS 10.14 (Mojave), macOS 10.13 (High Sierra), macOS 10.12.x (Sierra), OS X 10.11.x (El Capitan), OS X 10.10.x (Yosemite), OS X 10.9.x (Mavericks)\n\nANDROID\nAndroid 4.0 and higher * (*ESTV AndroidTV 7.0 and higher)\n\nLINUX\nDebian, RedHat, Ubuntu, OpenSuSe, Fedora, Mandriva and a majority of RPM and DEB distributions",
+      "Number of User": "3 User",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "ESET Internet Security Single User for 1 Year",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/antivirus/eset/internet-security/eset-internet-security-1-user1-year-228x228.jpg",
+    "price": "N/A",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware\nPersonal firewall",
+    "additionalDetails": {
+      "regularPrice": "1,099৳",
+      "status": "In Stock",
+      "productCode": "25989",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Internet Security Single User",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "Personal firewall",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "WINDOWS\nMicrosoft Windows® 10, 8.1, 8, 7 with SP1 and latest KB updates installed\n\nMAC\nmacOS 10.15 (Catalina), macOS 10.14 (Mojave), macOS 10.13 (High Sierra), macOS 10.12.x (Sierra), OS X 10.11.x (El Capitan), OS X 10.10.x (Yosemite), OS X 10.9.x (Mavericks)\n\nANDROID\nAndroid 4.0 and higher * (*ESTV AndroidTV 7.0 and higher)\n\nLINUX\nDebian, RedHat, Ubuntu, OpenSuSe, Fedora, Mandriva and a majority of RPM and DEB distributions",
+      "Number of User": "1 user",
+      "Duration": "01-Year"
+    }
+  },
+  {
+    "name": "ESET Cyber Security Pro Internet Security for Mac",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/eset/cyber-security/cyber-228x228.jpg",
+    "price": "950৳",
+    "description": "Removable Media Control\nPersonal Firewall\nAnti-Phishing",
+    "additionalDetails": {
+      "cashDiscountPrice": "950৳",
+      "regularPrice": "1,469৳",
+      "status": "In Stock",
+      "productCode": "1746",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Cyber Security Pro",
+        "Removable Media Control",
+        "Personal Firewall",
+        "Anti-Phishing",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ESET Internet Security 2 User for 1 Year",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/antivirus/eset/internet-security/eset-internet-security-1-user1-year-228x228.jpg",
+    "price": "N/A",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware\nPersonal firewall",
+    "additionalDetails": {
+      "regularPrice": "1,499৳",
+      "status": "In Stock",
+      "productCode": "25990",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Internet Security 2 User",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "Personal firewall",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "WINDOWS\nMicrosoft Windows® 10, 8.1, 8, 7 with SP1 and latest KB updates installed\n\nMAC\nmacOS 10.15 (Catalina), macOS 10.14 (Mojave), macOS 10.13 (High Sierra), macOS 10.12.x (Sierra), OS X 10.11.x (El Capitan), OS X 10.10.x (Yosemite), OS X 10.9.x (Mavericks)\n\nANDROID\nAndroid 4.0 and higher * (*ESTV AndroidTV 7.0 and higher)\n\nLINUX\nDebian, RedHat, Ubuntu, OpenSuSe, Fedora, Mandriva and a majority of RPM and DEB distributions",
+      "Number of User": "2 User",
+      "Duration": "01-Year"
+    }
+  },
+  {
+    "name": "ESET Internet Security Single User with 03 Years License",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/eset/one-user/eset-1-user-2021-228x228.jpg",
+    "price": "1,599৳",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware\nPersonal firewall",
+    "additionalDetails": {
+      "cashDiscountPrice": "1,599৳",
+      "regularPrice": "2,100৳",
+      "status": "In Stock",
+      "productCode": "17765",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Internet Security Single User",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "Personal firewall",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "WINDOWS\nMicrosoft Windows® 10, 8.1, 8, 7 with SP1 and latest KB updates installed\n\nMAC\nmacOS 10.15 (Catalina), macOS 10.14 (Mojave), macOS 10.13 (High Sierra), macOS 10.12.x (Sierra), OS X 10.11.x (El Capitan), OS X 10.10.x (Yosemite), OS X 10.9.x (Mavericks)\n\nANDROID\nAndroid 4.0 and higher * (*ESTV AndroidTV 7.0 and higher)\n\nLINUX\nDebian, RedHat, Ubuntu, OpenSuSe, Fedora, Mandriva and a majority of RPM and DEB distributions",
+      "Number of User": "1 user",
+      "Duration": "3 years"
+    }
+  },
+  {
+    "name": "ESET Internet Security 3 User for 1 Year",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/antivirus/eset/internet-security/eset-internet-security-1-user1-year-228x228.jpg",
+    "price": "N/A",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware\nPersonal firewall",
+    "additionalDetails": {
+      "regularPrice": "2,099৳",
+      "status": "In Stock",
+      "productCode": "25991",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Internet Security 3 User",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "Personal firewall",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "WINDOWS\nMicrosoft Windows® 10, 8.1, 8, 7 with SP1 and latest KB updates installed\n\nMAC\nmacOS 10.15 (Catalina), macOS 10.14 (Mojave), macOS 10.13 (High Sierra), macOS 10.12.x (Sierra), OS X 10.11.x (El Capitan), OS X 10.10.x (Yosemite), OS X 10.9.x (Mavericks)\n\nANDROID\nAndroid 4.0 and higher * (*ESTV AndroidTV 7.0 and higher)\n\nLINUX\nDebian, RedHat, Ubuntu, OpenSuSe, Fedora, Mandriva and a majority of RPM and DEB distributions",
+      "Number of User": "3 User",
+      "Duration": "01-Year"
+    }
+  },
+  {
+    "name": "ESET Internet Security 5 User 1 Year",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/eset/5-user/eset-5-user-2021-228x228.jpg",
+    "price": "N/A",
+    "description": "Powerful Antivirus\nAnti-Phishing\nAnti-Theft\nPersonal Firewall",
+    "additionalDetails": {
+      "status": "In Stock",
+      "productCode": "17762",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Internet Security 5 User",
+        "Powerful Antivirus",
+        "Anti-Phishing",
+        "Anti-Theft",
+        "Personal Firewall",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "WINDOWS\nMicrosoft Windows® 10, 8.1, 8, 7 with SP1 and latest KB updates installed\n\nMAC\nmacOS 10.15 (Catalina), macOS 10.14 (Mojave), macOS 10.13 (High Sierra), macOS 10.12.x (Sierra), OS X 10.11.x (El Capitan), OS X 10.10.x (Yosemite), OS X 10.9.x (Mavericks)\n\nANDROID\nAndroid 4.0 and higher * (*ESTV AndroidTV 7.0 and higher)\n\nLINUX\nDebian, RedHat, Ubuntu, OpenSuSe, Fedora, Mandriva and a majority of RPM and DEB distributions",
+      "Number of User": "5 User",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "ESET Smart Security Premium 2019 Edition ( One User )",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/antivirus/eset/smart-security-premium-2019-228x228.jpg",
+    "price": "N/A",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware",
+    "additionalDetails": {
+      "status": "In Stock",
+      "productCode": "10742",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Smart Security Premium 2019",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Microsoft 365 F1 (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/cloud-solution/microsoft-365-enterprise/microsoft-365-f1-228x228.jpg",
+    "price": "N/A",
+    "description": "Connect your workforce\nSocial and intranet\nMeetings and voice\nSecurity management",
+    "additionalDetails": {
+      "regularPrice": "3,295৳",
+      "status": "In Stock",
+      "productCode": "19208",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 F1",
+        "Connect your workforce",
+        "Social and intranet",
+        "Meetings and voice",
+        "Security management",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows: 1.6 gigahertz (GHz) or faster, 2-core\nmacOS: Intel processor",
+      "RAM": "Windows: 4GB RAM; 2 GB RAM (32-bit)\nmacOS: 4 GB RAM",
+      "Storage": "Windows: 4.0 GB of available disk space\nmacOS: 10 GB of available disk space. HFS+ hard disk format (also known as macOS Extended or APFS)",
+      "Operating System": "Windows: Windows 10 SAC, Windows 10 LTSB 2016, Windows 10 LTSB 2015, Windows 8.1, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012, or Windows Server 2008 R2. Please note Microsoft 365 Apps for enterprise will not be supported on Windows 10 LTSC 2019 at release. Microsoft 365 Apps for enterprise will not be supported on any Windows 10 LTSC/LTSB version or on Windows Server 2012 R2 or older after January 2020. Microsoft 365 Apps for enterprise will be supported on Windows Server 2016 through October 2025.\n\nmacOS: Office for Mac is supported on the three most recent versions of macOS. When a new version of macOS is released, the Office for Mac Operating System requirement becomes the then-current three most recent versions: the new version of macOS and the previous versions.",
+      "Others": "Windows OS: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update). Skype for Business requires DirectX 9 or later, 128 MB graphics memory, and 32-bits-per-pixel-capable format.\nmacOS: No graphics requirements.",
+      "License Type": "CSP",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "ESET Internet Security 3 User with 3 year License (2021 Edition)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/eset/3-user/eset-3-user-3-year-228x228.jpg",
+    "price": "N/A",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware",
+    "additionalDetails": {
+      "status": "In Stock",
+      "productCode": "17764",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Internet Security 3 User",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "WINDOWS\nMicrosoft Windows® 10, 8.1, 8, 7 with SP1 and latest KB updates installed\n\nMAC\nmacOS 10.15 (Catalina), macOS 10.14 (Mojave), macOS 10.13 (High Sierra), macOS 10.12.x (Sierra), OS X 10.11.x (El Capitan), OS X 10.10.x (Yosemite), OS X 10.9.x (Mavericks)\n\nANDROID\nAndroid 4.0 and higher * (*ESTV AndroidTV 7.0 and higher)\n\nLINUX\nDebian, RedHat, Ubuntu, OpenSuSe, Fedora, Mandriva and a majority of RPM and DEB distributions",
+      "Number of User": "3 user",
+      "Duration": "3 years"
+    }
+  },
+  {
+    "name": "ESET Home Office Security Pack New 1-year 5-user",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/eset/five/eset home office security-228x228.jpg",
+    "price": "N/A",
+    "description": "Low System Demands\nRemote Management\nMail Security",
+    "additionalDetails": {
+      "status": "In Stock",
+      "productCode": "2216",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Home Office Security Pack",
+        "Low System Demands",
+        "Remote Management",
+        "Mail Security",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Microsoft 365 Business Basic (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/microsoft/ms-office/office-365/Microsoft-365-Business-Basic-228x228.jpg",
+    "price": "N/A",
+    "description": "Web and mobile versions of Office apps\nEmail and calendaring\nFile storage and sharing\nSecurity and compliance",
+    "additionalDetails": {
+      "regularPrice": "4,662৳",
+      "status": "In Stock",
+      "productCode": "7708",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Business Basic",
+        "Web and mobile versions of Office apps",
+        "Email and calendaring",
+        "File storage and sharing",
+        "Security and compliance",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Windows Server 2022 - Device CAL",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/windows-server-2022-228x228.jpg",
+    "price": "N/A",
+    "description": "Unprecedented hyper-converged infrastructure\nHybrid capabilities with Azure\nAdvanced multilayer security\nFaster innovation for applications",
+    "additionalDetails": {
+      "regularPrice": "4,835৳",
+      "status": "In Stock",
+      "productCode": "12642",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2022",
+        "Unprecedented hyper-converged infrastructure",
+        "Hybrid capabilities with Azure",
+        "Advanced multilayer security",
+        "Faster innovation for applications",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Office 365 F3 (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/office-365-f3-228x228.jpg",
+    "price": "N/A",
+    "description": "Office web and mobile apps\nOne hub for teamwork with Microsoft Teams\nBusiness class-email\nFive layers of security and monitoring",
+    "additionalDetails": {
+      "regularPrice": "5,445৳",
+      "status": "In Stock",
+      "productCode": "19204",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Office 365 F3",
+        "Office web and mobile apps",
+        "One hub for teamwork with Microsoft Teams",
+        "Business class-email",
+        "Five layers of security and monitoring",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows: 1.6 gigahertz (GHz) or faster, 2-core\nmacOS: Intel processor",
+      "RAM": "Windows: 4GB RAM; 2 GB RAM (32-bit)\nmacOS: 4 GB RAM",
+      "Storage": "Windows: 4.0 GB of available disk space\nmacOS: 10 GB of available disk space. HFS+ hard disk format (also known as macOS Extended or APFS)",
+      "Operating System": "Windows: Windows 10 SAC, Windows 10 LTSB 2016, Windows 10 LTSB 2015, Windows 8.1, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012, or Windows Server 2008 R2. Please note Microsoft 365 Apps for enterprise will not be supported on Windows 10 LTSC 2019 at release. Microsoft 365 Apps for enterprise will not be supported on any Windows 10 LTSC/LTSB version or on Windows Server 2012 R2 or older after January 2020. Microsoft 365 Apps for enterprise will be supported on Windows Server 2016 through October 2025.\n\nmacOS: Office for Mac is supported on the three most recent versions of macOS. When a new version of macOS is released, the Office for Mac Operating System requirement becomes the then-current three most recent versions: the new version of macOS and the previous versions.",
+      "Others": "Windows OS: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update). Skype for Business requires DirectX 9 or later, 128 MB graphics memory, and 32-bits-per-pixel-capable format.\nmacOS: No graphics requirements.",
+      "License Type": "CSP",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "ESET Smart Security Premium 2019 Edition ( Three user )",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/antivirus/eset/smart-security-premium-2019-228x228.jpg",
+    "price": "N/A",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware",
+    "additionalDetails": {
+      "status": "In Stock",
+      "productCode": "10743",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Smart Security Premium 2019 ( Three user )",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Windows Server 2022 - User CAL",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/windows-server-license-2022-228x228.jpg",
+    "price": "N/A",
+    "description": "Unprecedented hyper-converged infrastructure\nHybrid capabilities with Azure\nAdvanced multilayer security\nFaster innovation for applications",
+    "additionalDetails": {
+      "regularPrice": "6,182৳",
+      "status": "In Stock",
+      "productCode": "12641",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2022",
+        "Unprecedented hyper-converged infrastructure",
+        "Hybrid capabilities with Azure",
+        "Advanced multilayer security",
+        "Faster innovation for applications",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Microsoft 365 Personal For 1 User (01 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/365-personal-228x228.jpg",
+    "price": "N/A",
+    "description": "Latest AI-powered apps\n1 TB of cloud storage\nAdvanced security\nFor PC, Mac, iOS, and Android",
+    "additionalDetails": {
+      "regularPrice": "6,490৳",
+      "status": "In Stock",
+      "productCode": "4017",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Personal",
+        "Latest AI-powered apps",
+        "1 TB of cloud storage",
+        "Advanced security",
+        "For PC, Mac, iOS, and Android",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "1.6 gigahertz (GHz) or faster, 2-core",
+      "RAM": "4 GB RAM\n2 GB RAM (32-bit)",
+      "Storage": "4.0 GB of available disk space",
+      "Operating System": "Windows 11, Windows 10, Windows 8.1",
+      "Others": "Display: 1280 x 768 screen resolution\nGraphics: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update).",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Adobe InCopy CC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/incopy/adobe-incopy-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Footnotes that span columns\nPlace Gun for adding borders to tables\nFootnote enhancements that respect text wrap\nColor swatch folders for swatch management",
+    "additionalDetails": {
+      "regularPrice": "9,251৳",
+      "status": "In Stock",
+      "productCode": "25157",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: InCopy CC",
+        "Footnotes that span columns",
+        "Place Gun for adding borders to tables",
+        "Footnote enhancements that respect text wrap",
+        "Color swatch folders for swatch management",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Microsoft 365 Family For 6 User (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/365-family-228x228.jpg",
+    "price": "N/A",
+    "description": "Microsoft Word \nMicrosoft Excel \nMicrosoft PowerPoint",
+    "additionalDetails": {
+      "regularPrice": "10,120৳",
+      "status": "In Stock",
+      "productCode": "4015",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Family",
+        "Microsoft Word",
+        "Microsoft Excel",
+        "Microsoft PowerPoint",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Microsoft Exchange Server 2019 Standard Device CAL",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/mail-server/microsoft/exchange-server-2019-standard-device-cal-228x228.jpg",
+    "price": "N/A",
+    "description": "Supports 1 Admin User/ 1 Server\nOpen Business Licensing\nLicensed for Home and Commercial Use\nRuns On Windows",
+    "additionalDetails": {
+      "regularPrice": "10,522৳",
+      "status": "In Stock",
+      "productCode": "19110",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Exchange Server 2019 Standard Device CAL",
+        "Supports 1 Admin User/ 1 Server",
+        "Open Business Licensing",
+        "Licensed for Home and Commercial Use",
+        "Runs On Windows",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "2.0 GHz or higher",
+      "RAM": "4 GB",
+      "Storage": "6 GB",
+      "Operating System": "Windows\nLinux\nDocker",
+      "License Type": "E-License",
+      "Number of User": "USERS SUPPORTED: 1 Admin User\nDEVICES SUPPORTED: 1 Server"
+    }
+  },
+  {
+    "name": "Microsoft 365 F3 (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/cloud-solution/microsoft-365-enterprise/microsoft-365-f3-228x228.jpg",
+    "price": "N/A",
+    "description": "Connect your workforce\nEmpower with devices\nProtect your organization\nWork management",
+    "additionalDetails": {
+      "regularPrice": "11,088৳",
+      "status": "In Stock",
+      "productCode": "19206",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 F3",
+        "Connect your workforce",
+        "Empower with devices",
+        "Protect your organization",
+        "Work management",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows: 1.6 gigahertz (GHz) or faster, 2-core\nmacOS: Intel processor",
+      "RAM": "Windows: 4GB RAM; 2 GB RAM (32-bit)\nmacOS: 4 GB RAM",
+      "Storage": "Windows: 4.0 GB of available disk space\nmacOS: 10 GB of available disk space. HFS+ hard disk format (also known as macOS Extended or APFS)",
+      "Operating System": "Windows: Windows 10 SAC, Windows 10 LTSB 2016, Windows 10 LTSB 2015, Windows 8.1, Windows 7 Service Pack 1, Windows Server 2016, Windows Server 2012 R2, Windows Server 2012, or Windows Server 2008 R2. Please note Microsoft 365 Apps for enterprise will not be supported on Windows 10 LTSC 2019 at release. Microsoft 365 Apps for enterprise will not be supported on any Windows 10 LTSC/LTSB version or on Windows Server 2012 R2 or older after January 2020. Microsoft 365 Apps for enterprise will be supported on Windows Server 2016 through October 2025.\n\nmacOS: Office for Mac is supported on the three most recent versions of macOS. When a new version of macOS is released, the Office for Mac Operating System requirement becomes the then-current three most recent versions: the new version of macOS and the previous versions.",
+      "Others": "Windows OS: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update). Skype for Business requires DirectX 9 or later, 128 MB graphics memory, and 32-bits-per-pixel-capable format.\nmacOS: No graphics requirements.",
+      "License Type": "CSP",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Microsoft 365 Apps for Business (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/microsoft/ms-office/office-365/365-228x228.png",
+    "price": "N/A",
+    "description": "Word\nExcel\nPowerPoint\nOutlook",
+    "additionalDetails": {
+      "regularPrice": "12,832৳",
+      "status": "In Stock",
+      "productCode": "7706",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Apps for business",
+        "Word",
+        "Excel",
+        "PowerPoint",
+        "Outlook",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Microsoft Exchange Server 2019 Standard User CAL",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/mail-server/microsoft/exchange-server-2019-standard-user-cal-228x228.jpg",
+    "price": "N/A",
+    "description": "Supports 1 Admin User/ 1 Server\nOpen Business Licensing\nLicensed for Home and Commercial Use\nRuns On Windows",
+    "additionalDetails": {
+      "regularPrice": "13,607৳",
+      "status": "In Stock",
+      "productCode": "19109",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Exchange Server 2019 Standard User CAL",
+        "Supports 1 Admin User/ 1 Server",
+        "Open Business Licensing",
+        "Licensed for Home and Commercial Use",
+        "Runs On Windows",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "2.0 GHz or higher",
+      "RAM": "4 GB",
+      "Storage": "6 GB",
+      "Operating System": "Windows\nLinux\nDocker",
+      "License Type": "E-License",
+      "Number of User": "USERS SUPPORTED: 1 Admin User\nDEVICES SUPPORTED: 1 Server"
+    }
+  },
+  {
+    "name": "Microsoft 365 Business Standard (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/cloud-solution/microsoft-365-business/microsoft-365-business-standard-228x228.jpeg",
+    "price": "N/A",
+    "description": "Teamwork and communication\nWeb and mobile versions of Office apps\nTools to build and manage your business\nDesktop versions of Office apps for PC and Mac",
+    "additionalDetails": {
+      "regularPrice": "15,461৳",
+      "status": "In Stock",
+      "productCode": "19140",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Business Standard",
+        "Teamwork and communication",
+        "Web and mobile versions of Office apps",
+        "Tools to build and manage your business",
+        "Desktop versions of Office apps for PC and Mac",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "PC: 1 gigahertz (GHz) or faster x86- or x64-bit processor with SSE2\nMac: Intel processor\nAndroid: Android KitKat 4.4 or later version and have an ARM-based or Intel x86 processor.\niOS: N/A",
+      "RAM": "PC: 1 GB RAM (32-bit); 2 GB RAM (64-bit)\nOSX: 4 GB RAM\nAndroid: 1 GB\niOS: N/A",
+      "Storage": "PC: 3 GB of available disk space\nOSX: 6 GB HFS+ hard disk format\nAndroid: N/A\niOS: N/A",
+      "Operating System": "PC: Windows 7 Service Pack 1, Windows 8.1, Windows 10, Windows 10 Server, Windows Server 2012 R2, Windows Server 2008 R2, or Windows Server 2012\nOSX: macOS\nAndroid: OS version: KitKat (4.4.X) or above\niOS: Office for iPad and iPhone requires iOS 10.0 or later. Office for iPad Pro™ requires iOS 10.0 or later.",
+      "Others": "Display:\nPC: 1024 x 768 resolution\nOSX: 1280 x 800 resolution\nAndroid: N/A\niOS: N/A",
+      "License Type": "CSP",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Office 365 Enterprise E1 (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/office-365-enterprise-e1-228x228.jpg",
+    "price": "N/A",
+    "description": "Email, file storage, and sharing\nOffice on the web\nMeetings and IM\nWork management",
+    "additionalDetails": {
+      "regularPrice": "15,462৳",
+      "status": "In Stock",
+      "productCode": "19200",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Office 365 Enterprise E1",
+        "Email, file storage, and sharing",
+        "Office on the web",
+        "Meetings and IM",
+        "Work management",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows OS: 1.6 GHz or faster, 2-core. 2 GHz or greater recommended for Skype for Business\nmacOS: Intel processor",
+      "RAM": "Windows OS: 4 GB RAM; 2 GB RAM (32-bit)\nmacOS: 4 GB RAM",
+      "Storage": "Windows OS: 4 GB of available disk space\nmacOS: 10 GB of available disk space; HFS+ hard disk format (also known as macOS Extended) or APFS Updates may require additional storage over time.",
+      "Operating System": "Windows OS: Windows 10 SAC, Windows 8.1, Windows Server 2019 or Windows Server 2016. Please note Microsoft 365 Apps for enterprise will be supported on Windows Server 2019 or Windows Server 2016 through October 2025.\nmacOS: One of the three most recent versions of macOS. When a new version of macOS is released, the macOS requirement becomes one of the then-current three most recent versions: the new version of macOS and the previous two versions.",
+      "Others": "Windows OS: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update). Skype for Business requires DirectX 9 or later, 128 MB graphics memory, and 32-bits-per-pixel-capable format.\nmacOS: No graphics requirements.",
+      "License Type": "CSP",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Microsoft 365 Apps for Enterprise (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/microsoft/ms-office/office-365/apps-for-enterprise-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Built for teamwork, Work together across apps\nStay connected and work from anywhere\nHarness the power of AI\nEnsure compatibility and protect your data",
+    "additionalDetails": {
+      "regularPrice": "16,588৳",
+      "status": "In Stock",
+      "productCode": "19141",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Apps for Enterprise",
+        "Built for teamwork, Work together across apps",
+        "Stay connected and work from anywhere",
+        "Harness the power of AI",
+        "Ensure compatibility and protect your data",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "CSP",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Microsoft Windows Server Standard 2022 - 2 Core License Pack (CSP Perpetual)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/microsoft-windows-server-standard-2022-01-228x228.webp",
+    "price": "N/A",
+    "description": "2 Core License\nPerpetual CSP\nSecured-core server\nAzure Arc-enabled Windows Servers",
+    "additionalDetails": {
+      "regularPrice": "18,013৳",
+      "status": "In Stock",
+      "productCode": "25684",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2022",
+        "2 Core License",
+        "Perpetual CSP",
+        "Secured-core server",
+        "Azure Arc-enabled Windows Servers",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Microsoft Windows Server 2022 Remote Desktop Services - 1 Device CAL (CSP Perpetual)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/server-system/windows-remote-desktop-server-cal-2022/windows-remote-desktop-server-cal-2022-228x228.webp",
+    "price": "N/A",
+    "description": "Securely connect remote users\nGet access from managed or unmanaged devices\nConnect to session-based or virtual-machine-based desktops\nUse datacenter apps within corporate networks or from the internet",
+    "additionalDetails": {
+      "regularPrice": "19,492৳",
+      "status": "In Stock",
+      "productCode": "25613",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2022 Remote Desktop Services",
+        "Securely connect remote users",
+        "Get access from managed or unmanaged devices",
+        "Connect to session-based or virtual-machine-based desktops",
+        "Use datacenter apps within corporate networks or from the internet",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Microsoft Windows Server 2022 Remote Desktop Services - 1 User CAL (CSP Perpetual)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/server-system/windows-remote-desktop-server-cal-2022/windows-remote-desktop-server-cal-2022-228x228.webp",
+    "price": "N/A",
+    "description": "Securely connect remote users\nGet access from managed or unmanaged devices\nConnect to session-based or virtual-machine-based desktops\nUse datacenter apps within corporate networks or from the internet",
+    "additionalDetails": {
+      "regularPrice": "19,492৳",
+      "status": "In Stock",
+      "productCode": "25615",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2022 Remote Desktop Services",
+        "Securely connect remote users",
+        "Get access from managed or unmanaged devices",
+        "Connect to session-based or virtual-machine-based desktops",
+        "Use datacenter apps within corporate networks or from the internet",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Microsoft Windows 10 Professional 64bit Eng INTL 1PK DSP OEI DVD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Soft/windows/win 10 pro-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Processor: 1GHz or faster\nRAM: 2 GB for 64-bit\nHDD space: Up to 20 GB available\nLicence Type : Perpetual (Life Time)",
+    "additionalDetails": {
+      "regularPrice": "20,350৳",
+      "status": "In Stock",
+      "productCode": "4013",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: WIN Pro 10 64bit 1PK OEI",
+        "Processor: 1GHz or faster",
+        "RAM: 2 GB for 64-bit",
+        "HDD space: Up to 20 GB available",
+        "Licence Type : Perpetual (Life Time)",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "1 GHz processor or faster",
+      "RAM": "2 GB for 64-bit",
+      "Storage": "Up to 20 GB available hard disk space",
+      "Others": "Graphics card: DirectX 9 graphics processor with WDDM driver \nDisplay: 800 x 600 screen resolution or higher",
+      "License Type": "Retail Box"
+    }
+  },
+  {
+    "name": "Microsoft Windows 11 Professional 64 Bit ENG Intl 1PK DSP OEI DVD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/operating-system/windows-11-pro/windows-11-pro-02-228x228.jpg",
+    "price": "N/A",
+    "description": "Processor: 1 gigahertz (GHz) or faster with 2 or more cores\nMemory: 4 GB RAM, Storage: 64 GB or larger storage\nTrusted Platform Module (TPM) version: 2.0\nLicense Type: Perpetual (Life Time)",
+    "additionalDetails": {
+      "regularPrice": "20,900৳",
+      "status": "In Stock",
+      "productCode": "21044",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows 11 Professional",
+        "Processor: 1 gigahertz (GHz) or faster with 2 or more cores",
+        "Memory: 4 GB RAM, Storage: 64 GB or larger storage",
+        "Trusted Platform Module (TPM) version: 2.0",
+        "License Type: Perpetual (Life Time)",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "1 gigahertz (GHz) or faster with 2 or more cores on a compatible 64-bit processor or System on a Chip (SoC)",
+      "RAM": "4 GB RAM",
+      "Storage": "64 GB or larger storage device",
+      "Others": "TPM: Trusted Platform Module (TPM) version 2.0.\nGraphics card: DirectX 12 compatible graphics / WDDM 2.x\nDisplay Resolution: >9\" with HD Resolution (720p)",
+      "License Type": "Retail Box"
+    }
+  },
+  {
+    "name": "Windows GGWA - Windows 11 Professional - Legalization GetGenuine (CSP Perpetual)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/windows-11-professiona-01-228x228.webp",
+    "price": "N/A",
+    "description": "Required Processor: 1 GHz or faster\nRAM: 1GB RAM or Higher\nHDD Space: Up to 20GB\nLicense type: CSP, License term: perpetual product",
+    "additionalDetails": {
+      "regularPrice": "23,958৳",
+      "status": "In Stock",
+      "productCode": "25687",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows 11 Professional",
+        "Required Processor: 1 GHz or faster",
+        "RAM: 1GB RAM or Higher",
+        "HDD Space: Up to 20GB",
+        "License type: CSP, License term: perpetual product",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "1 GHz or faster compatible processor",
+      "RAM": "1 GB RAM for 32-bit systems; 4 GB RAM for 64-bit systems",
+      "Storage": "Up to 20GB available hard disk space",
+      "Others": "Trusted Platform Module (TPM) version 2.0.\nScreen >9 inches with HD resolution (720p) 8 bits per color channel.\nInternet access (fees may apply)\nDirectX 12 GPU with WDDM 2.0 driver",
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Office Home and Business 2021 English APAC EM Medialess",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/home-and-business-2021-228x228.jpg",
+    "price": "N/A",
+    "description": "Classic 2021 versions of Word, Excel, PowerPoint, and Outlook\nCompatible with Windows 11, Windows 10, or macOS\nOne-time purchase for 1 PC or Mac\nWorks with Microsoft Teams",
+    "additionalDetails": {
+      "regularPrice": "26,950৳",
+      "status": "In Stock",
+      "productCode": "9983",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Office Home and Business 2021",
+        "Classic 2021 versions of Word, Excel, PowerPoint, and Outlook",
+        "Compatible with Windows 11, Windows 10, or macOS",
+        "One-time purchase for 1 PC or Mac",
+        "Works with Microsoft Teams",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows 11 or Windows 10 with 1.6 GHz, 2-core processor/recent macOS",
+      "RAM": "4 GB (64bit), 2 GB (32bit) RAM for PC; 4 GB RAM for Mac",
+      "Storage": "4 GB available disk space for PC, 10 GB for Mac",
+      "Operating System": "Windows 11 or Windows 10 for PC; Mac OS for Mac",
+      "Others": "Display: 1024 x 768 resolution for PC, 1280 x 800 for Mac\nGraphics: DirectX 10 graphics card for graphics hardware acceleration for PC",
+      "License Type": "OEM",
+      "Number of User": "1 person"
+    }
+  },
+  {
+    "name": "Adobe Acrobat Standard DC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/adobe-acrobat/adobe-acrobat-dc-228x228.webp",
+    "price": "N/A",
+    "description": "The most trusted PDF solution\nCreate, edit, sign, and track documents from anywhere, anytime\nConvert Pdf to Microsoft Office 365 Formats\nE-Signatures & Track Responses in Real-Time)",
+    "additionalDetails": {
+      "regularPrice": "28,628৳",
+      "status": "In Stock",
+      "productCode": "25126",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Acrobat Standard DC",
+        "The most trusted PDF solution",
+        "Create, edit, sign, and track documents from anywhere, anytime",
+        "Convert Pdf to Microsoft Office 365 Formats",
+        "E-Signatures & Track Responses in Real-Time)",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "Windows Only",
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Microsoft 365 Business Premium (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/cloud-solution/microsoft-365-business/365-business-premium-228x228.jpg",
+    "price": "N/A",
+    "description": "Teamwork and communication\nWeb and mobile versions of Office apps\nAdvanced threat protection\nPC and mobile device management",
+    "additionalDetails": {
+      "regularPrice": "29,909৳",
+      "status": "In Stock",
+      "productCode": "7707",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Business Premium",
+        "Teamwork and communication",
+        "Web and mobile versions of Office apps",
+        "Advanced threat protection",
+        "PC and mobile device management",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Office 365 Enterprise E3 (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/365-enterprise-e3-228x228.jpg",
+    "price": "N/A",
+    "description": "All features of Microsoft 365 Apps for enterprise and Office 365 E1\nEmail, file storage, and sharing\nOffice on the web\nSecurity and compliance",
+    "additionalDetails": {
+      "regularPrice": "35,558৳",
+      "status": "In Stock",
+      "productCode": "19202",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Office 365 Enterprise E3",
+        "All features of Microsoft 365 Apps for enterprise and Office 365 E1",
+        "Email, file storage, and sharing",
+        "Office on the web",
+        "Security and compliance",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows OS: 1.6 GHz or faster, 2-core. 2 GHz or greater recommended for Skype for Business\nmacOS: Intel processor",
+      "RAM": "Windows OS: 4 GB RAM; 2 GB RAM (32-bit)\nmacOS: 4 GB RAM",
+      "Storage": "Windows OS: 4 GB of available disk space\nmacOS: 10 GB of available disk space; HFS+ hard disk format (also known as macOS Extended) or APFS Updates may require additional storage over time.",
+      "Operating System": "Windows OS: Windows 10 SAC, Windows 8.1, Windows Server 2019 or Windows Server 2016. Please note Microsoft 365 Apps for enterprise will be supported on Windows Server 2019 or Windows Server 2016 through October 2025.\nmacOS: One of the three most recent versions of macOS. When a new version of macOS is released, the macOS requirement becomes one of the then-current three most recent versions: the new version of macOS and the previous two versions.",
+      "Others": "Windows OS: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update). Skype for Business requires DirectX 9 or later, 128 MB graphics memory, and 32-bits-per-pixel-capable format.\nmacOS: No graphics requirements.",
+      "License Type": "CSP",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Adobe Fresco CC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/fresco/adobe-fresco-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Use vector and raster brushes on the same canvas\nCloud documents automatically syncs to the cloud\nEasily isolate parts of a layer and turn selections into masks\nAnimate your drawings with Motion tools",
+    "additionalDetails": {
+      "regularPrice": "40,365৳",
+      "status": "In Stock",
+      "productCode": "25149",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Fresco CC",
+        "Use vector and raster brushes on the same canvas",
+        "Cloud documents automatically syncs to the cloud",
+        "Easily isolate parts of a layer and turn selections into masks",
+        "Animate your drawings with Motion tools",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe Acrobat Pro DC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Adobe/adobe-acrobat-pro-dc-01-228x228.webp",
+    "price": "N/A",
+    "description": "Software Type: Illustration\nLicense Type: E-License\nConvert Pdf to Microsoft Office 365 Formats\nE-Signatures & Track Responses in Real-Time)",
+    "additionalDetails": {
+      "regularPrice": "40,689৳",
+      "status": "In Stock",
+      "productCode": "24436",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Adobe Acrobat pro-DC",
+        "Software Type: Illustration",
+        "License Type: E-License",
+        "Convert Pdf to Microsoft Office 365 Formats",
+        "E-Signatures & Track Responses in Real-Time)",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Adobe XD CC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/adobe-xd/adobe-xd-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Unlimited prototypes\nUnlimited design specs\nAdobe Fonts Portfolio (full font library)\n100GB of cloud storage",
+    "additionalDetails": {
+      "regularPrice": "46,409৳",
+      "status": "In Stock",
+      "productCode": "25147",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: XD CC",
+        "Unlimited prototypes",
+        "Unlimited design specs",
+        "Adobe Fonts Portfolio (full font library)",
+        "100GB of cloud storage",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Microsoft 365 Enterprise E3 (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/cloud-solution/microsoft-365-enterprise/enterprise-e3-228x228.jpg",
+    "price": "N/A",
+    "description": "Email and calendars\nFile storage and sharing\nHub for teamwork",
+    "additionalDetails": {
+      "regularPrice": "50,182৳",
+      "status": "In Stock",
+      "productCode": "17979",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Enterprise E3",
+        "Email and calendars",
+        "File storage and sharing",
+        "Hub for teamwork",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows OS: 1.6 GHz or faster, 2-core. 2 GHz or greater recommended for Skype for Business\nmacOS: Intel processor",
+      "RAM": "Windows OS: 4 GB RAM; 2 GB RAM (32-bit)\nmacOS: 4 GB RAM",
+      "Storage": "Windows OS: 4 GB of available disk space\nmacOS: 10 GB of available disk space; HFS+ hard disk format (also known as macOS Extended) or APFS Updates may require additional storage over time.",
+      "Operating System": "Windows OS: Windows 10 SAC, Windows 8.1, Windows Server 2019 or Windows Server 2016. Please note Microsoft 365 Apps for enterprise will be supported on Windows Server 2019 or Windows Server 2016 through October 2025.\nmacOS: One of the three most recent versions of macOS. When a new version of macOS is released, the macOS requirement becomes one of the then-current three most recent versions: the new version of macOS and the previous two versions.",
+      "Others": "Windows OS: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update). Skype for Business requires DirectX 9 or later, 128 MB graphics memory, and 32-bits-per-pixel-capable format.\nmacOS: No graphics requirements.",
+      "License Type": "CSP",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Office 365 Enterprise E5 (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/enterprise-e5-228x228.jpg",
+    "price": "N/A",
+    "description": "All the features of Office 365 E3\nAdvanced security\nAnalytics\nVoice capabilities",
+    "additionalDetails": {
+      "regularPrice": "51,645৳",
+      "status": "In Stock",
+      "productCode": "19203",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Office 365 Enterprise E5",
+        "All the features of Office 365 E3",
+        "Advanced security",
+        "Analytics",
+        "Voice capabilities",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows OS: 1.6 GHz or faster, 2-core. 2 GHz or greater recommended for Skype for Business\nmacOS: Intel processor",
+      "RAM": "Windows OS: 4 GB RAM; 2 GB RAM (32-bit)\nmacOS: 4 GB RAM",
+      "Storage": "Windows OS: 4 GB of available disk space\nmacOS: 10 GB of available disk space; HFS+ hard disk format (also known as macOS Extended) or APFS Updates may require additional storage over time.",
+      "Operating System": "Windows OS: Windows 10 SAC, Windows 8.1, Windows Server 2019 or Windows Server 2016. Please note Microsoft 365 Apps for enterprise will be supported on Windows Server 2019 or Windows Server 2016 through October 2025.\nmacOS: One of the three most recent versions of macOS. When a new version of macOS is released, the macOS requirement becomes one of the then-current three most recent versions: the new version of macOS and the previous two versions.",
+      "Others": "Windows OS: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update). Skype for Business requires DirectX 9 or later, 128 MB graphics memory, and 32-bits-per-pixel-capable format.\nmacOS: No graphics requirements.",
+      "License Type": "CSP",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Office LTSC Standard 2021",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/office-standard-open-licence-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Microsoft Office Standard 2021 - License - 1 PC - Open License - Win - Single Language\nActive User: 1\nLanguage: Single Language\nDivision Name: Office Standard",
+    "additionalDetails": {
+      "regularPrice": "60,500৳",
+      "status": "In Stock",
+      "productCode": "12613",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Office LTSC Standard 2021",
+        "Microsoft Office Standard 2021 - License - 1 PC - Open License - Win - Single Language",
+        "Active User: 1",
+        "Language: Single Language",
+        "Division Name: Office Standard",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "OLP"
+    }
+  },
+  {
+    "name": "Adobe Photoshop CC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/photoshop/adobe-photoshop-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Easy editing with automation and AI\nStep-by-step guidance for editing and creating\nFun ways to make and share creations, effects, prints, and gifts\nCreate a stunning social posts",
+    "additionalDetails": {
+      "regularPrice": "63,004৳",
+      "status": "In Stock",
+      "productCode": "5180",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Photoshop CC",
+        "Easy editing with automation and AI",
+        "Step-by-step guidance for editing and creating",
+        "Fun ways to make and share creations, effects, prints, and gifts",
+        "Create a stunning social posts",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Adobe Premiere Pro CC - Pro for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/premier-pro/adobe-premiere-pro-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Color Correction\nMotion Graphics Templates\nEdit video and audio, design motion graphics\nAdd visual effects with industry-leading",
+    "additionalDetails": {
+      "regularPrice": "63,004৳",
+      "status": "In Stock",
+      "productCode": "5204",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Premiere Pro CC",
+        "Color Correction",
+        "Motion Graphics Templates",
+        "Edit video and audio, design motion graphics",
+        "Add visual effects with industry-leading",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Adobe Dreamweaver CC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/dreamweaver/adobe-dreamweaver-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Fast, flexible coding\nSet up to site up in fewer steps\nSeamless Live View editing\nMulti-monitor support for Windows",
+    "additionalDetails": {
+      "regularPrice": "63,008৳",
+      "status": "In Stock",
+      "productCode": "25140",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Dreamweaver CC",
+        "Fast, flexible coding",
+        "Set up to site up in fewer steps",
+        "Seamless Live View editing",
+        "Multi-monitor support for Windows",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe Lightroom CC - Pro for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/lightroom/adobe-photoshop-lightroom-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Organize, edit, and share your shots from anywhere\nApply filters in a click with premium presets for every style\nMake basic edits to brightness, contrast, and more\nGet down to the last detail",
+    "additionalDetails": {
+      "regularPrice": "63,008৳",
+      "status": "In Stock",
+      "productCode": "25141",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Lightroom CC",
+        "Organize, edit, and share your shots from anywhere",
+        "Apply filters in a click with premium presets for every style",
+        "Make basic edits to brightness, contrast, and more",
+        "Get down to the last detail",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe After Effects CC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/after-effects/adobe-after-effects-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Animate a logo or character. Even navigate and design in a 3D space\nSpin graphics, twirl titles, and capture eyeballs\nRemove an object from a clip. Start a fire or make it rain\nSet text and graphics in motion",
+    "additionalDetails": {
+      "regularPrice": "63,008৳",
+      "status": "In Stock",
+      "productCode": "25142",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: After Effects CC",
+        "Animate a logo or character. Even navigate and design in a 3D space",
+        "Spin graphics, twirl titles, and capture eyeballs",
+        "Remove an object from a clip. Start a fire or make it rain",
+        "Set text and graphics in motion",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe InDesign CC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/indesign/adobe-indesign-cc-228x228.webp",
+    "price": "N/A",
+    "description": "For graphic design, photography, video, UI/UX, and social media\nCreate digital magazines, eBooks, and interactive online documents\nStreamline your process with tools built for working in teams\nModern graphics support",
+    "additionalDetails": {
+      "regularPrice": "63,008৳",
+      "status": "In Stock",
+      "productCode": "25143",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: InDesign CC",
+        "For graphic design, photography, video, UI/UX, and social media",
+        "Create digital magazines, eBooks, and interactive online documents",
+        "Streamline your process with tools built for working in teams",
+        "Modern graphics support",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe Audition CC - Pro for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/audition/adobe-audition-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Create, mix, and design sound effects\nConvert to any audio file type you need\nShare your work anywhere\nCompress your audio files",
+    "additionalDetails": {
+      "regularPrice": "63,008৳",
+      "status": "In Stock",
+      "productCode": "25145",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Audition CC",
+        "Create, mix, and design sound effects",
+        "Convert to any audio file type you need",
+        "Share your work anywhere",
+        "Compress your audio files",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe Dimension for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/dimension/adobe-dimension-228x228.webp",
+    "price": "N/A",
+    "description": "Create real-life images in real time\nDrag and drop a vector graphic or image onto a 3D model\nCreate high-quality images and 3D interactive content\nBookmark and render different perspectives",
+    "additionalDetails": {
+      "regularPrice": "63,008৳",
+      "status": "In Stock",
+      "productCode": "25150",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Dimension",
+        "Create real-life images in real time",
+        "Drag and drop a vector graphic or image onto a 3D model",
+        "Create high-quality images and 3D interactive content",
+        "Bookmark and render different perspectives",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe Animate CC - Pro for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/animate/adobe-animate-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Design interactive animations for games, TV shows, and the web\nBring cartoons and banner ads to life\nCreate animated doodles and avatars\nAdd action to eLearning content and infographics",
+    "additionalDetails": {
+      "regularPrice": "63,008৳",
+      "status": "In Stock",
+      "productCode": "25155",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Animate CC",
+        "Design interactive animations for games, TV shows, and the web",
+        "Bring cartoons and banner ads to life",
+        "Create animated doodles and avatars",
+        "Add action to eLearning content and infographics",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe Illustrator CC for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/illustrator/adobe-illustrator-cc-228x228.webp",
+    "price": "N/A",
+    "description": "Create sophisticated images, logos, type, packaging, and more\nDesign incredible infographics\nCombine shapes to make a logo\nMake textured 3D text",
+    "additionalDetails": {
+      "regularPrice": "63,004৳",
+      "status": "In Stock",
+      "productCode": "5182",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Illustrator CC",
+        "Create sophisticated images, logos, type, packaging, and more",
+        "Design incredible infographics",
+        "Combine shapes to make a logo",
+        "Make textured 3D text",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Adobe Acrobat Sign for Business",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/acrobat-sign/adobe-acrobat-sign (1)-228x228.webp",
+    "price": "N/A",
+    "description": "Electronic Signatures\nTracking and management\nOffice Integration\nPowerful PDF tools",
+    "additionalDetails": {
+      "regularPrice": "63,030৳",
+      "status": "In Stock",
+      "productCode": "25680",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Adobe Acrobat Sign",
+        "Electronic Signatures",
+        "Tracking and management",
+        "Office Integration",
+        "Powerful PDF tools",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe FrameMaker for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/framemaker/adobe-framemaker-228x228.webp",
+    "price": "N/A",
+    "description": "Scalable and powerful authoring\nStyle and publish best-in-class PDFs\nIntegrate with Adobe Experience Manager\nSchedule publishing tasks faster with automated workflows",
+    "additionalDetails": {
+      "regularPrice": "64,862৳",
+      "status": "In Stock",
+      "productCode": "25154",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: FrameMaker",
+        "Scalable and powerful authoring",
+        "Style and publish best-in-class PDFs",
+        "Integrate with Adobe Experience Manager",
+        "Schedule publishing tasks faster with automated workflows",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Microsoft 365 Enterprise E5 (1 Year Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/cloud-solution/microsoft-365-enterprise/enterprise-e5-228x228.jpg",
+    "price": "N/A",
+    "description": "Microsoft 365 Apps\nMeetings and voice\nEmail and calendars\nThreat protection",
+    "additionalDetails": {
+      "regularPrice": "79,453৳",
+      "status": "In Stock",
+      "productCode": "19199",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft 365 Enterprise E5",
+        "Microsoft 365 Apps",
+        "Meetings and voice",
+        "Email and calendars",
+        "Threat protection",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows OS: 1.6 GHz or faster, 2-core. 2 GHz or greater recommended for Skype for Business\nmacOS: Intel processor",
+      "RAM": "Windows OS: 4 GB RAM; 2 GB RAM (32-bit)\nmacOS: 4 GB RAM",
+      "Storage": "Windows OS: 4 GB of available disk space\nmacOS: 10 GB of available disk space; HFS+ hard disk format (also known as macOS Extended) or APFS Updates may require additional storage over time.",
+      "Operating System": "Windows OS: Windows 10 SAC, Windows 8.1, Windows Server 2019 or Windows Server 2016. Please note Microsoft 365 Apps for enterprise will be supported on Windows Server 2019 or Windows Server 2016 through October 2025.\nmacOS: One of the three most recent versions of macOS. When a new version of macOS is released, the macOS requirement becomes one of the then-current three most recent versions: the new version of macOS and the previous two versions.",
+      "Others": "Windows OS: Graphics hardware acceleration requires DirectX 9 or later, with WDDM 2.0 or higher for Windows 10 (or WDDM 1.3 or higher for Windows 10 Fall Creators Update). Skype for Business requires DirectX 9 or later, 128 MB graphics memory, and 32-bits-per-pixel-capable format.\nmacOS: No graphics requirements.",
+      "License Type": "CSP",
+      "Number of User": "1 user",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Visual Studio Professional 2022",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/studio-professional-2022/studio-professional-2022-228x228.webp",
+    "price": "N/A",
+    "description": "64-Bit Ide\nAdvanced Suite of Tools\nBuilt-In Integrations\nAi-Powered Code Completions",
+    "additionalDetails": {
+      "regularPrice": "67,500৳",
+      "status": "In Stock",
+      "productCode": "30879",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Studio Professional 2022",
+        "64-Bit Ide",
+        "Advanced Suite of Tools",
+        "Built-In Integrations",
+        "Ai-Powered Code Completions",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "ARM64 or x64 processor; Quad-core or better recommended",
+      "RAM": "Minimum of 4 GB of RAM. recommend 16 GB RAM for typical professional solutions.",
+      "Storage": "Minimum of 850 MB up to 210 GB of available space, depending on features installed; typical installations require 20-50 GB of free space.",
+      "Operating System": "Windows 11 minimum supported OS version or higher",
+      "Others": "64-bit"
+    }
+  },
+  {
+    "name": "Office LTSC Professional Plus 2021",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/office-professional-plus-228x228.jpg",
+    "price": "N/A",
+    "description": "Stay connected and work from anywhere\nHarness the power of AI\nEnsure compatibility\nBuilt for teamwork",
+    "additionalDetails": {
+      "regularPrice": "82,500৳",
+      "status": "In Stock",
+      "productCode": "12626",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Office LTSC Professional Plus 2021",
+        "Stay connected and work from anywhere",
+        "Harness the power of AI",
+        "Ensure compatibility",
+        "Built for teamwork",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "OLP"
+    }
+  },
+  {
+    "name": "Autodesk AutoCAD LT 2023 Commercial New Single-user ELD - Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/autocad-lt/autocad-lt-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Design, draft, and document with precise 2D geometry\nComprehensive set of editing, design, & annotation tools\nIntuitive and customizable interface\nCollaborate across teams and devices",
+    "additionalDetails": {
+      "regularPrice": "85,767৳",
+      "status": "In Stock",
+      "productCode": "19988",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: AutoCAD LT 2023",
+        "Design, draft, and document with precise 2D geometry",
+        "Comprehensive set of editing, design, & annotation tools",
+        "Intuitive and customizable interface",
+        "Collaborate across teams and devices",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Basic: 2.5–2.9 GHz processor\nRecommended: 3+ GHz processor",
+      "RAM": "Basic: 8 GB\nRecommended: 16 GB",
+      "Storage": "7.0 GB",
+      "Operating System": "64-bit Microsoft Windows 8.1 and Windows 10.",
+      "Others": "MS-Mouse compliant\n.NET Framework Version 4.8",
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Windows Server 2022 Datacenter - 2 Core (CSP Perpetual)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/windows-server-data-center-2022-228x228.jpg",
+    "price": "N/A",
+    "description": "Unprecedented hyper-converged infrastructure\nHybrid capabilities with Azure\nAdvanced multilayer security\nFaster innovation for applications",
+    "additionalDetails": {
+      "regularPrice": "104,500৳",
+      "status": "In Stock",
+      "productCode": "25691",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2022 Datacenter",
+        "Unprecedented hyper-converged infrastructure",
+        "Hybrid capabilities with Azure",
+        "Advanced multilayer security",
+        "Faster innovation for applications",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Microsoft Exchange Server 2019 Standard",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/mail-server/microsoft/exchange-server-2019-standard-228x228.jpg",
+    "price": "N/A",
+    "description": "Supports 1 Admin User/ 1 Server\nOpen Business Licensing\nLicensed for Home and Commercial Use\nRuns On Windows",
+    "additionalDetails": {
+      "regularPrice": "109,395৳",
+      "status": "In Stock",
+      "productCode": "19112",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Exchange Server 2019 Standard",
+        "Supports 1 Admin User/ 1 Server",
+        "Open Business Licensing",
+        "Licensed for Home and Commercial Use",
+        "Runs On Windows",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "2.0 GHz or higher",
+      "RAM": "4 GB",
+      "Storage": "6 GB",
+      "Operating System": "Windows\nLinux\nDocker",
+      "License Type": "E-License",
+      "Number of User": "USERS SUPPORTED: 1 Admin User\nDEVICES SUPPORTED: 1 Server"
+    }
+  },
+  {
+    "name": "Microsoft SQL Server 2022 Standard (CSP Perpetual)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/sql-server-2022-standard-01-228x228.webp",
+    "price": "N/A",
+    "description": "Manage both structured and unstructured data\nBreak down data silos\nAI across all your data\nIntelligent database capabilities",
+    "additionalDetails": {
+      "regularPrice": "132,660৳",
+      "status": "In Stock",
+      "productCode": "12650",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft SQL Server 2022 Standard",
+        "Manage both structured and unstructured data",
+        "Break down data silos",
+        "AI across all your data",
+        "Intelligent database capabilities",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Windows Server 2022 Standard - 16 Core License Pack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/windows-server-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Unprecedented hyper-converged infrastructure\nHybrid capabilities with Azure\nAdvanced multilayer security\nFaster innovation for applications",
+    "additionalDetails": {
+      "regularPrice": "143,715৳",
+      "status": "In Stock",
+      "productCode": "12640",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2022",
+        "Unprecedented hyper-converged infrastructure",
+        "Hybrid capabilities with Azure",
+        "Advanced multilayer security",
+        "Faster innovation for applications",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Adobe Creative Cloud for Teams All Apps",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/creative-cloud/adobe-creative-cloud-all-apps-228x228.webp",
+    "price": "N/A",
+    "description": "20+ Creative Cloud apps and services\n1TB of cloud storage\nTools for teamwork\nAdvanced 24/7 tech support",
+    "additionalDetails": {
+      "regularPrice": "148,275৳",
+      "status": "In Stock",
+      "productCode": "25139",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Creative Cloud for Teams All Apps",
+        "20+ Creative Cloud apps and services",
+        "1TB of cloud storage",
+        "Tools for teamwork",
+        "Advanced 24/7 tech support",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Adobe Substance 3D Collection for Teams",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/adobe/substance-3d/substance-3d-collection-for-teams-228x228.webp",
+    "price": "N/A",
+    "description": "Create 3D models on desktop and in VR with Substance 3D Modeler\nDesign parametric 3D assets with Substance 3D Designer\nSubstance 3D Stager is your own virtual studio\n100 3D assets per month per user",
+    "additionalDetails": {
+      "regularPrice": "201,861৳",
+      "status": "In Stock",
+      "productCode": "25159",
+      "brand": "Adobe",
+      "keyFeatures": [
+        "Model: Substance 3D Collection",
+        "Create 3D models on desktop and in VR with Substance 3D Modeler",
+        "Design parametric 3D assets with Substance 3D Designer",
+        "Substance 3D Stager is your own virtual studio",
+        "100 3D assets per month per user",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Autodesk InfraWorks 2023 Commercial New Single-user ELD - Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/infraworks/infraworks-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Work in a real-world context\nCreate accurate, visually rich conceptual designs\nCommunicate ideas with stakeholders\nExplore and visualize design options",
+    "additionalDetails": {
+      "regularPrice": "264,000৳",
+      "status": "In Stock",
+      "productCode": "25132",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: InfraWorks 2023",
+        "Work in a real-world context",
+        "Create accurate, visually rich conceptual designs",
+        "Communicate ideas with stakeholders",
+        "Explore and visualize design options",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Dual-core Intel Core 2 or equivalent AMD processor (Quad-core Intel Core i7, 6-core Intel Xeon, or better processor highly recommended); to use the ray traced rendering functionality, CPU must support SSE 4.1",
+      "RAM": "8 GB RAM minimum (16+ GB recommended)",
+      "Storage": "16 GB",
+      "Operating System": "Microsoft Windows 10 64-bit Enterprise or Pro, Microsoft Windows 11 64-bit",
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Autodesk 3ds Max 2023 Commercial New Single-user ELD - Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/3ds-max/3ds-max-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Create massive worlds and high-quality designs\nDeliver photorealistic 3D designs\nBoost productivity with automation\nUse a rich and flexible toolset",
+    "additionalDetails": {
+      "regularPrice": "300,971৳",
+      "status": "In Stock",
+      "productCode": "25128",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: 3ds Max 2023",
+        "Create massive worlds and high-quality designs",
+        "Deliver photorealistic 3D designs",
+        "Boost productivity with automation",
+        "Use a rich and flexible toolset",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "64-bit Intel or AMD multi-core processor with SSE4.2 instruction set",
+      "RAM": "4 GB of RAM minimum (8 GB or more recommended)",
+      "Storage": "9 GB of free disk space for install",
+      "Operating System": "64-bit Microsoft Windows 11 and Windows 10. See Autodesk's Product Support Lifecycle for support information.",
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Autodesk Maya 2023 Commercial New Single-user ELD - Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/maya/maya-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Breathe life into 3D models\nAccelerate workflows\nDeliver stunning visuals\nScale for complexity",
+    "additionalDetails": {
+      "regularPrice": "300,971৳",
+      "status": "In Stock",
+      "productCode": "25129",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: Maya 2023",
+        "Breathe life into 3D models",
+        "Accelerate workflows",
+        "Deliver stunning visuals",
+        "Scale for complexity",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "64-bit Intel or AMD multi-core processor with SSE4.2 instruction set\nApple Mac models with M series chip are supported under Rosetta 2 mode",
+      "RAM": "8 GB of RAM (16 GB or more recommended)",
+      "Storage": "7 GB of free disk space for install",
+      "Operating System": "Microsoft Windows 11, 10\nApple macOS 12.x, 11.x, 10.15.x, 10.14.x\nLinux Red Hat Enterprise 8.5, 7.6-7.9 WS\nLinux CentOS 8.5, 7.6-7.9\nRocky Linux 8.5\nNvidia Guide for Virtualization with GRID & VMWare",
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "AutoCAD - including specialized toolsets AD Commercial New Single-user ELD Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/autocad/autocad-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Includes specialized industry toolsets\nAccelerate your designs in 2D or 3D\nCollaborate across teams and devices\nEnsure fidelity and compatibility",
+    "additionalDetails": {
+      "regularPrice": "314,265৳",
+      "status": "In Stock",
+      "productCode": "8163",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: AutoCAD 2023",
+        "Includes specialized industry toolsets",
+        "Accelerate your designs in 2D or 3D",
+        "Collaborate across teams and devices",
+        "Ensure fidelity and compatibility",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Basic: 2.5–2.9 GHz processor (base) ARM Processors are not supported.\nRecommended: 3+ GHz processor (base), 4+ GHz (turbo)",
+      "RAM": "Basic: 8 GB\nRecommended: 16 GB",
+      "Storage": "10.0 GB (suggested SSD)",
+      "Operating System": "64-bit Microsoft Windows 11 and Windows 10 version 1809 or above.",
+      "Others": "Graphics Card:\nBasic: 1 GB GPU with 29 GB/s Bandwidth and DirectX 11 compliant\nRecommended: 4 GB GPU with 106 GB/s Bandwidth and DirectX 12 compliant\n\nConventional Displays:\n1920 x 1080 with True Color\nHigh Resolution & 4K Displays:\nResolutions up to 3840 x 2160 (with capable display card)",
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 Year"
+    }
+  },
+  {
+    "name": "Autodesk Media & Entertainment Collection Single-user ELD - Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/media-entertainment/media-entertainment-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Complex simulations, effects, and rendering\nCreate complex effects\nScalable simulation\nAccess to creative tools",
+    "additionalDetails": {
+      "regularPrice": "419,425৳",
+      "status": "In Stock",
+      "productCode": "25136",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: Media & Entertainment Collection",
+        "Complex simulations, effects, and rendering",
+        "Create complex effects",
+        "Scalable simulation",
+        "Access to creative tools",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Dual-core Intel Core 2 or equivalent AMD processor (Quad-core Intel Core i7, 6-core Intel Xeon, or better processor highly recommended); to use the ray traced rendering functionality, CPU must support SSE 4.1",
+      "RAM": "8 GB RAM minimum (16+ GB recommended)",
+      "Storage": "16 GB",
+      "Operating System": "Microsoft Windows 10 64-bit Enterprise or Pro, Microsoft Windows 11 64-bit",
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Autodesk Civil 3D 2023 Commercial New Single-user ELD - Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/civil-3d/civil-3d-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Accelerate civil design efficiencies\nStreamline construction documentation\nUse your investment in BIM\nDesign better civil infrastructure",
+    "additionalDetails": {
+      "regularPrice": "431,508৳",
+      "status": "In Stock",
+      "productCode": "25130",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: Civil 3D 2023",
+        "Accelerate civil design efficiencies",
+        "Streamline construction documentation",
+        "Use your investment in BIM",
+        "Design better civil infrastructure",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Autodesk Product Design & Manufacturing Collection Single-user ELD - Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/product-design-manufacturing/product-design-manufacturing-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Improve speed and accuracy of quotations\nCreate an uninterrupted flow of data\nJump into production with ease\nDeliver and install without surprises",
+    "additionalDetails": {
+      "regularPrice": "506,451৳",
+      "status": "In Stock",
+      "productCode": "25137",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: Product Design & Manufacturing Collection",
+        "Improve speed and accuracy of quotations",
+        "Create an uninterrupted flow of data",
+        "Jump into production with ease",
+        "Deliver and install without surprises",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Dual-core Intel Core 2 or equivalent AMD processor (Quad-core Intel Core i7, 6-core Intel Xeon, or better processor highly recommended); to use the ray traced rendering functionality, CPU must support SSE 4.1",
+      "RAM": "8 GB RAM minimum (16+ GB recommended)",
+      "Storage": "16 GB",
+      "Operating System": "Microsoft Windows 10 64-bit Enterprise or Pro, Microsoft Windows 11 64-bit",
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Microsoft SQL Server 2022 Standard 2 Core License Pack (CSP Perpetual)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/sql-server-2022-standard-2-core-01-228x228.png",
+    "price": "N/A",
+    "description": "Supports 1 Admin User/ 1 Server\nOpen Business Licensing\n2 Core License License\nRuns On Windows",
+    "additionalDetails": {
+      "regularPrice": "530,200৳",
+      "status": "In Stock",
+      "productCode": "26294",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: SQL Server 2022 Standard",
+        "Supports 1 Admin User/ 1 Server",
+        "Open Business Licensing",
+        "2 Core License License",
+        "Runs On Windows",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "2.0 GHz or higher",
+      "RAM": "4 GB",
+      "Storage": "6 GB",
+      "Operating System": "Windows\nLinux\nDocker",
+      "License Type": "E-License",
+      "Number of User": "USERS SUPPORTED: 1 Admin User\nDEVICES SUPPORTED: 1 Server"
+    }
+  },
+  {
+    "name": "Autodesk Architecture Engineering & Construction Collection Single-user ELD - Annual Subscription",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/autodesk/architecture-engineering-construction/architecture-engineering-construction-2023-228x228.webp",
+    "price": "N/A",
+    "description": "Create high-quality, high-performing building and infrastructure designs\nOptimize projects with integrated analysis, generative design\nImprove operational efficiency\nDeliver more sustainable projects",
+    "additionalDetails": {
+      "regularPrice": "552,382৳",
+      "status": "In Stock",
+      "productCode": "25134",
+      "brand": "Autodesk",
+      "keyFeatures": [
+        "Model: Architecture Engineering & Construction Collection",
+        "Create high-quality, high-performing building and infrastructure designs",
+        "Optimize projects with integrated analysis, generative design",
+        "Improve operational efficiency",
+        "Deliver more sustainable projects",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Dual-core Intel Core 2 or equivalent AMD processor (Quad-core Intel Core i7, 6-core Intel Xeon, or better processor highly recommended); to use the ray traced rendering functionality, CPU must support SSE 4.1",
+      "RAM": "8 GB RAM minimum (16+ GB recommended)",
+      "Storage": "16 GB",
+      "Operating System": "Microsoft Windows 10 64-bit Enterprise or Pro, Microsoft Windows 11 64-bit",
+      "License Type": "E-License",
+      "Number of User": "1",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Microsoft Exchange Server 2019 Enterprise",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/mail-server/microsoft/exchange-server-2019-enterprise-228x228.jpg",
+    "price": "N/A",
+    "description": "Supports 1 Admin User/ 1 Server\nOpen Business Licensing\nLicensed for Home and Commercial Use\nRuns On Windows",
+    "additionalDetails": {
+      "regularPrice": "585,200৳",
+      "status": "In Stock",
+      "productCode": "19114",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Exchange Server 2019 Enterprise",
+        "Supports 1 Admin User/ 1 Server",
+        "Open Business Licensing",
+        "Licensed for Home and Commercial Use",
+        "Runs On Windows",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "2.0 GHz or higher",
+      "RAM": "4 GB",
+      "Storage": "6 GB",
+      "Operating System": "Windows\nLinux\nDocker",
+      "License Type": "E-License",
+      "Number of User": "USERS SUPPORTED: 1 Admin User\nDEVICES SUPPORTED: 1 Server"
+    }
+  },
+  {
+    "name": "Windows Server 2022 Datacenter - 16 Core License Pack",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/windows-server-data-center-2022-228x228.jpg",
+    "price": "N/A",
+    "description": "Unprecedented hyper-converged infrastructure\nHybrid capabilities with Azure\nAdvanced multilayer security\nFaster innovation for applications",
+    "additionalDetails": {
+      "regularPrice": "827,420৳",
+      "status": "In Stock",
+      "productCode": "12648",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2022 Datacenter",
+        "Unprecedented hyper-converged infrastructure",
+        "Hybrid capabilities with Azure",
+        "Advanced multilayer security",
+        "Faster innovation for applications",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License"
+    }
+  },
+  {
+    "name": "Microsoft SQL Server 2022 Enterprise 2 Core License Pack (CSP Perpetual)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/sql-server-2022-enterprise-2-core-01-228x228.webp",
+    "price": "N/A",
+    "description": "Supports 1 Admin User/ 1 Server\n2 Core License License\nOpen Business Licensing\nOS Family: Linux, Windows",
+    "additionalDetails": {
+      "regularPrice": "1,979,450৳",
+      "status": "In Stock",
+      "productCode": "26296",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: SQL Server 2022 Enterprise 2 Core",
+        "Supports 1 Admin User/ 1 Server",
+        "2 Core License License",
+        "Open Business Licensing",
+        "OS Family: Linux, Windows",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "2.0 GHz or higher",
+      "RAM": "4 GB",
+      "Storage": "6 GB",
+      "Operating System": "Windows\nLinux",
+      "License Type": "E-License",
+      "Number of User": "USERS SUPPORTED: 1 Admin User\nDEVICES SUPPORTED: 1 Server"
+    }
+  },
+  {
+    "name": "Eset Endpoint Security E-License (Volume 05 to As per Customer Requirement)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Soft/Eset/ESET_Endpoint_Protection_Advanced_2-3d-multi-230x230-228x228.png",
+    "price": "N/A",
+    "description": "Anti-malware protection \nAdvanced memory scanner \nRansomware Protection \nServer Protection",
+    "additionalDetails": {
+      "status": "Call for Price",
+      "productCode": "4102",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Endpoint Protection Advance",
+        "Anti-malware protection",
+        "Advanced memory scanner",
+        "Ransomware Protection",
+        "Server Protection",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Eset Xopero Backup and Recovery Software",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Soft/Eset/xopero/xopera-p-228x228.JPG",
+    "price": "N/A",
+    "description": "Server Backup & Restore\nEndpoint data protection\nEasy to install",
+    "additionalDetails": {
+      "status": "Call for Price",
+      "productCode": "6537",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: Eset Xopero Backup and Recovery",
+        "Server Backup & Restore",
+        "Endpoint data protection",
+        "Easy to install",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "VMware vSphere 6 Essentials Plus Kit for 3 hosts (Max 2 processors per host)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/vmware/vmware-plus-228x228.jpg",
+    "price": "N/A",
+    "description": "Brand : Vmwar\nProduct Type : Full Version\nEdition : Essentials Plus",
+    "additionalDetails": {
+      "status": "Call for Price",
+      "productCode": "8162",
+      "brand": "Vmware",
+      "keyFeatures": [
+        "Model: VMware vSphere 6",
+        "Brand : Vmwar",
+        "Product Type : Full Version",
+        "Edition : Essentials Plus",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Bijoy Bayanno 2020 Bangla Software",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/bijoy/bayanno-2020/bayanno-2020-228x228.webp",
+    "price": "N/A",
+    "description": "Software Type: Bangla Typing\nFont Converter, Spell Checker\nMany Keyboard Layouts\nOperating System: Windows",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "30832",
+      "brand": "Non-Brand",
+      "keyFeatures": [
+        "Model: Bijoy Bayanno 2020",
+        "Software Type: Bangla Typing",
+        "Font Converter, Spell Checker",
+        "Many Keyboard Layouts",
+        "Operating System: Windows",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Bijoy Ekattor For Mac Bangla Software",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/bijoy/ekattor/ekattor-for-mac-228x228.webp",
+    "price": "N/A",
+    "description": "Software Type: Bangla Typing\nFont Converter, Spell Checker\nMany Keyboard Layouts\nCompatible Devices: MacBook Air, MacBook Pro, iMac, iMac Pro, and Mac Mini",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "30833",
+      "brand": "Non-Brand",
+      "keyFeatures": [
+        "Model: Bijoy Ekattor For Mac",
+        "Software Type: Bangla Typing",
+        "Font Converter, Spell Checker",
+        "Many Keyboard Layouts",
+        "Compatible Devices: MacBook Air, MacBook Pro, iMac, iMac Pro, and Mac Mini",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "Hakintosh, Mac Mini, Mac Book Air, Mac Book, Mac Book Pro, iMac and Mac Pro"
+    }
+  },
+  {
+    "name": "Red Hat Enterprise Linux Server Standard (Annual Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/operating-system/redhat/red-hat-enterprise-linux-server/red-hat-enterprise-linux-server-228x228.jpg",
+    "price": "N/A",
+    "description": "Easy-to-administer, Simple-to-control\nEnterprise application support\nWeb and phone support channels\nUnlimited support cases",
+    "additionalDetails": {
+      "status": "Call for Price",
+      "productCode": "8164",
+      "brand": "Red Hat",
+      "keyFeatures": [
+        "MPN: RH00004",
+        "Model: Red Hat Enterprise Linux Server",
+        "Easy-to-administer, Simple-to-control",
+        "Enterprise application support",
+        "Web and phone support channels",
+        "Unlimited support cases",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Red Hat Enterprise Linux Server Premium (Annual Subscription)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/operating-system/redhat/red-hat-enterprise-linux-server/red-hat-enterprise-linux-server-228x228.jpg",
+    "price": "N/A",
+    "description": "Easy-to-administer, Simple-to-control\n24x7 for severity 1 and 2 cases\nWeb and phone support channels\nUnlimited support cases",
+    "additionalDetails": {
+      "status": "Call for Price",
+      "productCode": "19139",
+      "brand": "Red Hat",
+      "keyFeatures": [
+        "MPN: RH00003",
+        "Model: Red Hat Enterprise Linux Server",
+        "Easy-to-administer, Simple-to-control",
+        "24x7 for severity 1 and 2 cases",
+        "Web and phone support channels",
+        "Unlimited support cases",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "License Type": "E-License",
+      "Duration": "1 year"
+    }
+  },
+  {
+    "name": "Eset Endpoint Encryption (Volume 05 to As per Customer Requirement)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/antivirus/eset/endpoint-encryption/endpoint-encryption-228x228.jpg",
+    "price": "N/A",
+    "description": "Full Disk Encryption Encrypt\nRemovable Media Encryption\nFile & Folder Encryption\nManage Devices anywhere",
+    "additionalDetails": {
+      "status": "Call for Price",
+      "productCode": "20987",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: Endpoint Encryption",
+        "Full Disk Encryption Encrypt",
+        "Removable Media Encryption",
+        "File & Folder Encryption",
+        "Manage Devices anywhere",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ESET Internet Security 3 User",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/eset/3-user/3-user-001-228x228.jpg",
+    "price": "N/A",
+    "description": "Award-winning antivirus\nSecures your financial transactions\nPrevents malware",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "8075",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Internet Security 3 User",
+        "Award-winning antivirus",
+        "Secures your financial transactions",
+        "Prevents malware",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ESET Multi-Device Security Pack for 3 User",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Soft/Eset/ESET Multi-Device Security Pack-3-228x228.jpg",
+    "price": "N/A",
+    "description": "Powerful Antivirus\nAnti-Phishing\nAnti-Theft\nPersonal Firewall",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "4046",
+      "brand": "Eset",
+      "keyFeatures": [
+        "Model: ESET Multi-Device Security Pack for 3 User",
+        "Powerful Antivirus",
+        "Anti-Phishing",
+        "Anti-Theft",
+        "Personal Firewall",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Microsoft Windows Server 2019 Standard OEI DVD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/window/windows-server-2019-228x228.jpg",
+    "price": "N/A",
+    "description": "16 cores\nOEI\nDVD\n64-bit",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "15794",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Windows Server 2019 Standard",
+        "16 cores",
+        "OEI",
+        "DVD",
+        "64-bit",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "1.4 GHz 64-bit processor \nCompatible with x64 instruction set \nSupports NX and DEP \nSupports CMPXCHG16b, LAHF/SAHF, and PrefetchW \nSupports Second Level Address Translation (EPT or NPT)",
+      "RAM": "512 MB (2 GB for Server with Desktop Experience installation option)\nECC (Error Correcting Code) type or similar technology",
+      "Storage": "32 GB",
+      "Others": "Graphics device and monitor capable of Super VGA (1024 x 768) or higher-resolution",
+      "License Type": "Retail Box"
+    }
+  },
+  {
+    "name": "Microsoft Office Home and Business 2016 for Mac",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/microsoft-office2016-for-mac-228x228.jpg",
+    "price": "N/A",
+    "description": "Outlook, Office\nOneDrive\nOffice Online",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "4975",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "Model: Microsoft Office Home and Business 2016 for Mac",
+        "Outlook, Office",
+        "OneDrive",
+        "Office Online",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Microsoft Office Home and Business 2019",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/software/ms-office/office-home-business-2019-english-228x228.jpg",
+    "price": "N/A",
+    "description": "Classic 2019 versions of Word, Excel, PowerPoint, and Outlook\nCompatible with Windows 11, Windows 10, or macOS\nOne-time purchase for 1 PC or Mac\nWorks with Microsoft Teams",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "24349",
+      "brand": "Microsoft",
+      "keyFeatures": [
+        "MPN: T5D-03249",
+        "Model: Office Home and Business 2019",
+        "Classic 2019 versions of Word, Excel, PowerPoint, and Outlook",
+        "Compatible with Windows 11, Windows 10, or macOS",
+        "One-time purchase for 1 PC or Mac",
+        "Works with Microsoft Teams",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor": "Windows 11 or Windows 10 with 1.6 GHz, 2-core processor/recent macOS",
+      "RAM": "4 GB (64bit), 2 GB (32bit) RAM for PC; 4 GB RAM for Mac",
+      "Storage": "4 GB available disk space for PC, 10 GB for Mac",
+      "Operating System": "Windows 11 or Windows 10 for PC; Mac OS for Mac",
+      "Others": "Display: 1024 x 768 resolution for PC, 1280 x 800 for Mac\nGraphics: DirectX 10 graphics card for graphics hardware acceleration for PC",
+      "License Type": "OEM",
+      "Number of User": "1 person"
+    }
+  }
+]

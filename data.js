@@ -160,7 +160,7 @@ async function scrapeWebsite(url, totalPages, category) {
 
     // Save all product data to a JSON file
     fs.writeFileSync(
-      `./starTech/${category}.json`,
+      `./products/${category}.json`,
       JSON.stringify(allProductsData, null, 2),
     );
 
@@ -177,7 +177,7 @@ async function scrapeProductData(productItem, browser) {
 const categories = [
   'component',
   'laptop-notebook',
-  'desktop',
+  'desktops',
   'monitor',
   'ups-ips',
   'mobile-phone',
@@ -198,7 +198,7 @@ const categories = [
 for (let type = 0; type < categories.length; type++) {
   const category = categories[type];
   const websiteUrl = `https://www.startech.com.bd/${category}?limit=50`;
-  const totalPages = 2; // Change this to the desired number of total pages
+  const totalPages = 10; // Change this to the desired number of total pages
   scrapeWebsite(websiteUrl, totalPages, category)
     .then((data) => {
       console.log(
