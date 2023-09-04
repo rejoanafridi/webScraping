@@ -16063,5 +16063,1169 @@
       ]
     },
     "specifications": {}
+  },
+  {
+    "name": "SmartX SX-528 WiFi Fingerprint Smart Door Lock",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/smart lock/smartx-wifi-fingerprint-door-lock/smartx-wifi-fingerprint-door-lock-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Water-resistant\n6 Unlock Options\n5-IN-1 Versatile Lock\nOTP & Physical Keys",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "20869",
+      "brand": "SmartX",
+      "keyFeatures": [
+        "Model: SX-528",
+        "Water-resistant",
+        "6 Unlock Options",
+        "5-IN-1 Versatile Lock",
+        "OTP & Physical Keys",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Hikvision DS-2CD2543G0-IS 4MP Built-in Audio IP-Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/ip-camera/hikvision/ds-2cd2543g0-is-4mp/ds-2cd2543g0-is-4mp-228x228.jpg",
+    "price": "N/A",
+    "description": "Image Sensor: 1/3\" Progressive Scan CMOS\nShutter Speed: 1/3 s to 1/100,000 s\nWide Dynamic Range: 120dB\nLens Type: 2.8mm",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "17009",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-2CD2543G0-IS 4MP",
+        "Image Sensor: 1/3\" Progressive Scan CMOS",
+        "Shutter Speed: 1/3 s to 1/100,000 s",
+        "Wide Dynamic Range: 120dB",
+        "Lens Type: 2.8mm",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Image Sensor": "1/3\" Progressive Scan CMOS",
+      "Effective Pixels": "4MP",
+      "IR Distance": "Up to 10 m",
+      "Type": "2.8mm",
+      "Aperture": "F1.6",
+      "Angle of View": "horizontal FOV: 98°, vertical FOV: 55°, diagonal FOV: 114°",
+      "Dimension": "Ø120 mm × 67.4 mm",
+      "Weight": "400 g",
+      "Power": "12 VDC ± 25%, PoE (802.3af, class 3)",
+      "Interface": "1 RJ45 10M/100M self-adaptive Ethernet port\nØ5.5 mm coaxial power plug"
+    }
+  },
+  {
+    "name": "Hikvision DS-7608NI-Q1/8P 8-Channel 1U 8 PoE 4K NVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/nvr/hikvision/ds-7608ni-q1-8p/ds-7608ni-q1-8p-01-228x228.webp",
+    "price": "N/A",
+    "description": "Up To 8-Ch IP Camera Inputs\nH.265+/ H.265/ H.264+/ H.264 Video Formats\nUp To 1-Ch @ 8MP Or 5-Ch @ 1080P Decoding Capacity\nUp To 80 Mbps Incoming Bandwidth",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "25941",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-7608NI-Q1/8P",
+        "Up To 8-Ch IP Camera Inputs",
+        "H.265+/ H.265/ H.264+/ H.264 Video Formats",
+        "Up To 1-Ch @ 8MP Or 5-Ch @ 1080P Decoding Capacity",
+        "Up To 80 Mbps Incoming Bandwidth",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "IP Camera Input": "8-ch",
+      "Interface": "2 × USB 2.0",
+      "Resolution": "8 MP/ 6 MP/ 5 MP/ 4 MP/ 3 MP/ 1080p/ UXGA / 720p/ VGA/ 4CIF/ DCIF/ 2CIF/ CIF /QCIF",
+      "Decoding Capacity": "Up to 1-ch@8 MP/3-ch@4 MP/6-ch@1080p",
+      "Compression": "Audio Compression: G.711ulaw/G.711alaw/G.722/G.726",
+      "Ethernet Port": "10/100 Mbps self-adaptive Ethernet interface",
+      "PoE": "Interface : 8, RJ-45",
+      "HDD Mode": "upto 8 TB",
+      "USB": "Front panel: 1 × USB 2.0; Rear panel: 1 × USB 2.0",
+      "Power Supply": "12 VDC, 1.5 A",
+      "Power Consumption": "≤ 10 W",
+      "Dimensions": "320 × 240 × 48 mm",
+      "Net Weight": "≤ 1 kg",
+      "Manufacturing Warranty": "1 year"
+    }
+  },
+  {
+    "name": "HIKVISION DS-7216HGHI-F2 16-CH Turbo HD 720P DVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/DVR/Hikvision/HIKVISION DS-7216HGHI-F2-228x228.jpg",
+    "price": "N/A",
+    "description": "Interface: 1 HDMI,1 VGA\nResolution :  1920Ã—1080P \n2 SATA interfaces",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "3991",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: HIKVISION DS-7216HGHI-F2 16-CH",
+        "Interface: 1 HDMI,1 VGA",
+        "Resolution :  1920Ã—1080P",
+        "2 SATA interfaces",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "HIKVISION DS-7216HQHI-K1 16 Channel Turbo HD 1080P DVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/dvr/hikvision/7216/turbo-hd-228x228.jpg",
+    "price": "N/A",
+    "description": "Encoding ability up to 1080p @ 15 fps\nUp to 4MP lite resolution for recording\n5 signals input adaptively \nUp to 24 network cameras can be connected",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16922",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-7216HQHI-K1",
+        "Encoding ability up to 1080p @ 15 fps",
+        "Up to 4MP lite resolution for recording",
+        "5 signals input adaptively",
+        "Up to 24 network cameras can be connected",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Hikvision DS-7616NI-K2 4K resolution 16 channel IP Network Video Recorder (NVR)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/nvr/hikvision/ds-7616ni-k2/ds-7616ni-k2-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Third-party network cameras supported\nSupports up to 16 IP cameras\nRecording up to 8 MP resolution\n4-ch network cameras connected",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "11376",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: Hikvision DS-7616NI-K2",
+        "Third-party network cameras supported",
+        "Supports up to 16 IP cameras",
+        "Recording up to 8 MP resolution",
+        "4-ch network cameras connected",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "IP Camera Input": "IP video input: 16-ch",
+      "Two-Way Talk": "Two-way audio input:\t1-ch, RCA (2.0 Vp-p, 1kΩ)",
+      "Decoding Capacity": "Capability:\t8-ch@1080P\nLive view / Playback:\t8MP/6MP/5MP/3MP/1080p/UXGA/720p/VGA/4CIF/DCIF/2CIF/CIF/QCIF",
+      "Resolution": "4K (3840 x 2160) resolution",
+      "Record Rate": "Up to 8 Megapixels resolution recording",
+      "Video Detection": "Yes",
+      "Alarm Input": "Yes",
+      "Sync Playback": "16-ch",
+      "Search Mode": "Yes",
+      "Playback Function": "Yes",
+      "Backup Mode": "Yes",
+      "Third Party Support": "Third-party network cameras supported",
+      "Interface": "Network Interface: 1RJ-45 10/100/1000Mbps self-adaptive Ethernet interface\nUSB Interface:\tFront panel: 1 × USB 2.0\n                                Rear panel: 1 × USB 3.0",
+      "PoE": "≤ 15 W",
+      "Network Function": "Remote connection:\t128\nIncoming bandwidth:\t160Mbps\nOutgoing bandwidth:\t160Mbps\nThird-party network cameras supported\n4-ch network cameras can be connected with 40M/60M/80M incoming bandwidth",
+      "Internal HDD": "SATA: 2 SATA interfaces for 2 HDDs\nCapacity: Up to 6TB capacity for each HDD",
+      "USB": "Front panel: 1 × USB 2.0\nRear panel: 1 × USB 3.0",
+      "Power Supply": "100 to 200 VAC",
+      "Power Consumption": "Consumption(without hard disk and POE):\t≤ 15 W",
+      "Dimensions": "385 × 315× 52 mm (15.2\" 12.4\" 2.0\")",
+      "Net Weight": "≤ 3 kg (6.6 lb) (without HDD)"
+    }
+  },
+  {
+    "name": "HIKVISION DS-7216HQHI-K2 16 Channel Turbo HD 1080P DVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/dvr/hikvision/7216/turbo-hd-228x228.jpg",
+    "price": "N/A",
+    "description": "HDMI output at up to 4K (3840 Ã— 2160) resolution\nUp to 4MP lite resolution for recording\nUp to 24 network cameras can be connected\n2 SATA interface",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16924",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-7216HQHI-K2",
+        "HDMI output at up to 4K (3840 Ã— 2160) resolution",
+        "Up to 4MP lite resolution for recording",
+        "Up to 24 network cameras can be connected",
+        "2 SATA interface",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ZKTeco MB160 Fingerprint Reader Face Recognition System",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/security-camera/access-control/zkteco/mb160/mb160-1-228x228.jpg",
+    "price": "N/A",
+    "description": "1.200 Faces, 1.500 Fingerprints, 100.000 Records and 2.000 Cards\nMulti-languages\nCommunication: TCP/IP, USB-Host\nHigh veri\u001fcation speed",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "11092",
+      "brand": "ZKTeco",
+      "keyFeatures": [
+        "Model: ZKTeco MB160",
+        "1.200 Faces, 1.500 Fingerprints, 100.000 Records and 2.000 Cards",
+        "Multi-languages",
+        "Communication: TCP/IP, USB-Host",
+        "High veri\u001fcation speed",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Fingerprint Capacity": "2000",
+      "Face Capacity": "1500",
+      "ID Card Capacity": "2000",
+      "Record Capacity": "100000",
+      "Display": "2.8-inch TFT Screen",
+      "Communication": "TCP/IP, USB-Host, Wi-Fi (Optional)",
+      "Standard Functions": "SMS, DTS, Scheduled-bell, Self-Service Query, Automatic Status Switch, T9 Input, Photo ID, Camera, Multi-verification, 12V Output, RS232 Printer (Optional Cable)",
+      "Interface": "3rd Party Electric Lock, Exit Button, Alarm",
+      "Others": "Verification Speed : ≤ 1Sec.\nOperating Temp. : 0°c - 45°c\nOperating Humidity : 20% - 80%",
+      "Dimension": "167.5 x 148.8 x 32.2 mm (Length*Width*Thickness)",
+      "Power Supply": "DC 12V 1.5A",
+      "Warranty": "01 year warranty"
+    }
+  },
+  {
+    "name": "ZKTeco MB2000 Multi-biometric Time Attendance Terminal and Access Control with Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/access-control/zkteco/mb2000/mb2000-228x228.jpg",
+    "price": "N/A",
+    "description": "Capacity: Face 2,000; ID Card 3,000; Finger 2,000\nLog Capacity 100,000\n4.3\" TFT Touch Screen Display \nBuilt in battery, up to 4 hours",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "18278",
+      "brand": "ZKTeco",
+      "keyFeatures": [
+        "Model: MB2000",
+        "Capacity: Face 2,000; ID Card 3,000; Finger 2,000",
+        "Log Capacity 100,000",
+        "4.3\" TFT Touch Screen Display",
+        "Built in battery, up to 4 hours",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ZKTeco TF1700 Fingerprint Access Control and Time Attendance Terminal",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/access-control/zkteco/tf1700/tf1700-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Fingerprint Capacity 3,000\nID Card Capacity 10,000\nLog Capacity 50,000\nIP65 waterproof housing",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "18268",
+      "brand": "ZKTeco",
+      "keyFeatures": [
+        "Model: TF1700",
+        "Fingerprint Capacity 3,000",
+        "ID Card Capacity 10,000",
+        "Log Capacity 50,000",
+        "IP65 waterproof housing",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ZKTeco IN05-A Fingerprint Recognition WiFi Time Attendance & Access Terminal with Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/access-control/zkteco/in05-a/in05-a-001-228x228.jpg",
+    "price": "N/A",
+    "description": "Fingerprint Capacity 3,000\nID Card Capacity 10,000\nLog Capacity 1,00,000\nWi-Fi, TCP/IP,RS232/485",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "18271",
+      "brand": "ZKTeco",
+      "keyFeatures": [
+        "Model: IN05-A",
+        "Fingerprint Capacity 3,000",
+        "ID Card Capacity 10,000",
+        "Log Capacity 1,00,000",
+        "Wi-Fi, TCP/IP,RS232/485",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Dahua NVR4208-8P-4KS2 8 Channel 1U Network Video Recorder (NVR)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/nvr/dahua/nvr4208-8p-4ks2/nvr4208-8p-4ks2-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Smart H.265+/H.265/Smart H.264+/H.264\nMax 200Mbps Incoming Bandwidth\nUp to 8MP Resolution\nUp to 2ch@4K/8ch@1080P decoding",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "14528",
+      "brand": "Dahua",
+      "keyFeatures": [
+        "Model: NVR4208-8P-4KS2",
+        "Smart H.265+/H.265/Smart H.264+/H.264",
+        "Max 200Mbps Incoming Bandwidth",
+        "Up to 8MP Resolution",
+        "Up to 2ch@4K/8ch@1080P decoding",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Main Processor": "Quad-core embedded processor",
+      "Operating System": "Embedded LINUX",
+      "IP Camera Input": "8 Channel",
+      "Two-Way Talk": "1 Channel Input, 1 Channel Output, RCA",
+      "Interface": "1 RJ-45 Port (10/100/1000Mbps)",
+      "Resolution": "8Mp/ 6Mp/ 5MP/ 4MP/ 3MP/ 1080P/ 1.3MP/ 720P etc.",
+      "Decoding Capacity": "2ch@4K 30fps, 8ch@1080P 30fps",
+      "Multi-Screen Display": "1/4/8/9",
+      "OSD": "Camera title, Time, Camera lock, Motion detection, Recording",
+      "Compression": "Smart H.265+/H.265/Smart H.264+/H.264",
+      "Record Rate": "200Mbps",
+      "Bit Rate": "16Kbps ~ 20Mbps Per Channel",
+      "Record Mode": "Manual, Schedule (Regular, Continuous), MD (Video detection: Motion Detection, Tampering, Video Loss), Stop",
+      "Record Interval": "1 ~ 120 min (default: 60 min), Pre-record:\n1 ~ 30 sec, Post-record: 10 ~ 300 sec",
+      "Trigger Event": "Recording, PTZ, Tour, Video Push, Email, Snapshot, Buzzer and Screen Tips",
+      "Video Detection": "Motion Detection, MD Zones: 396 (22 × 18),\nVideo Loss and Tampering",
+      "Alarm Input": "4 Channel",
+      "Relay Output": "1-Channel relay output,1-Channel 12V control",
+      "Sync Playback": "1/4/9",
+      "Search Mode": "Time /Date, MD and Exact Search (accurate to second), Smart search",
+      "Playback Function": "Play, Pause, Stop, Rewind, Fast play, Slow Play, Next File, Previous File, Next Camera, Previous Camera, Full Screen, Backup Selection, Digital Zoom",
+      "Backup Mode": "USB Device/Network",
+      "Third Party Support": "Arecont Vision, Airlive, AXIS, Canon, Dynacolor, JVC, LG, Panasonic, Pelco, PSIA, Samsung, Sanyo, Sony, Watchnet and more",
+      "Ethernet Port": "1 Independent 1000Mbps Ethernet Port",
+      "PoE": "8 ports (IEEE802.3at/af)",
+      "Network Function": "HTTP, HTTPS, TCP/IP, IPv4/IPv6, UPnP, RTSP, UDP, SMTP, NTP, DHCP, DNS, IP Filter, DDNS, FTP, SNMP, IP Search (Support IP camera, DVR, NVS, etc.)",
+      "Maximum User Access": "128 users",
+      "Smart Phone": "iPhone, iPad, Android",
+      "Interoperability": "ONVIF 2.4, SDK, CGI",
+      "Internal HDD": "2 SATA III Ports, Up to 6 TB capacity for each HDD",
+      "HDD Mode": "Single",
+      "eSATA": "N/A",
+      "USB": "2 ports (1 USB2.0, 1 USB3.0)",
+      "RS232": "N/A",
+      "RS485": "N/A",
+      "Power Supply": "AC100V ~ 240V, 50 ~ 60 Hz",
+      "Power Consumption": "NVR: < 9.6W(without HDD)\nPoE: Max 25.5w for single port, 130w in total",
+      "Operational Conditions": "-10°C ~ +55°C (+14°F ~ +131°F), 86 ~ 106kpa",
+      "Storage Conditions": "-20°C ~ +70°C (-4°F ~ +158°F), 0 ~ 90% RH",
+      "Dimensions": "1U, 375mm×327.5mm×53mm (14.8\" x 12.9\" x2.1\")",
+      "Net Weight": "2.6kg (5.7 lb) (without HDD)",
+      "Gross Weight": "4kg(8.8 lb)(without HDD)",
+      "Manufacturing Warranty": "01-year warranty"
+    }
+  },
+  {
+    "name": "Hikvision DS-2CD2935FWD-IS 3MP High Resolutions Fish-Eye IP Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/ip-camera/hikvision/ds-2cd2935fwd-is-3mp/ds-2cd2935fwd-is-3mp-228x228.jpg",
+    "price": "N/A",
+    "description": "Image Sensor: 1/2.8\" Progressive Scan CMOS\nShutter Speed: 1/3 s to 1/100,000 s\nWide Dynamic Range: 120dB\nLens Type: 1.16 mm",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "17008",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-2CD2935FWD-IS 3MP",
+        "Image Sensor: 1/2.8\" Progressive Scan CMOS",
+        "Shutter Speed: 1/3 s to 1/100,000 s",
+        "Wide Dynamic Range: 120dB",
+        "Lens Type: 1.16 mm",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Image Sensor": "1/2.8\" Progressive Scan CMOS",
+      "Effective Pixels": "3MP",
+      "IR Distance": "Up to 8 m",
+      "Type": "1.16mm",
+      "Aperture": "F2.2",
+      "Angle of View": "horizontal field of view: 180°, vertical field of view: 180°",
+      "Dimension": "Φ 119.9 × 41.2 mm",
+      "Weight": "600 g",
+      "Power": "DC 12V ± 25%, 0.4 A, 4.8 W,PoE (802.3af, 36V to 57 V, class 3), 0.4 A to 0.7 A, 6.4 W",
+      "Interface": "1 RJ45 10M/100M self-adaptive Ethernet port\nØ5.5 mm coaxial power plug"
+    }
+  },
+  {
+    "name": "ZKTeco MULTIBIO 700 Fingerprint Time Attendance Terminal",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Access Control/ZKTeco/Multibio700-1-1-228x228.png",
+    "price": "N/A",
+    "description": "Face Capacity-1,500 (1:N)\nFingerprint Capacity-2,000\nID Card Capacity(optional)- 10,000\nLog Capacity-100,000",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "5222",
+      "brand": "ZKTeco",
+      "keyFeatures": [
+        "Model: ZKTeco MULTIBIO 700",
+        "Face Capacity-1,500 (1:N)",
+        "Fingerprint Capacity-2,000",
+        "ID Card Capacity(optional)- 10,000",
+        "Log Capacity-100,000",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ZKTeco uFace602 Face Reader Biometric Attendance Machine",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/access-control/zkteco/uface602-1-228x228.jpg",
+    "price": "N/A",
+    "description": "4.3-inch color display\nFace Capacity 3000\nCard Capacity 10000\nFingerprint Capacity 4000",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "11279",
+      "brand": "ZKTeco",
+      "keyFeatures": [
+        "Model: ZKTeco uFace602",
+        "4.3-inch color display",
+        "Face Capacity 3000",
+        "Card Capacity 10000",
+        "Fingerprint Capacity 4000",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Fingerprint Capacity": "4000",
+      "Face Capacity": "3000",
+      "ID Card Capacity": "10000",
+      "Display": "4.3 Inch",
+      "Warranty": "01 year warranty"
+    }
+  },
+  {
+    "name": "HIKVISION DS-7232HGHI-K2 32-CH Turbo HD 720P DVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/dvr/hikvision/7216/ds-7216-228x228.jpg",
+    "price": "N/A",
+    "description": "Up to 18 network cameras can be connected\nH.265 pro+ compression technology\nResolution :  1920Ã—1080P \n2 SATA interfaces",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16916",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-7232HGHI-K2",
+        "Up to 18 network cameras can be connected",
+        "H.265 pro+ compression technology",
+        "Resolution :  1920Ã—1080P",
+        "2 SATA interfaces",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Dahua NVR4416-4KS2 16 Channel 1.5U Network Video Recorder (NVR)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/nvr/dahua/nvr4416-4ks2/nvr4416-4ks2-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Smart H.265+/H.265/Smart H.264+/H.264\nMax 200Mbps Incoming Bandwidth\nUp to 8MP Resolution \nUp to 2ch@4K/8ch@1080P decoding",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "14530",
+      "brand": "Dahua",
+      "keyFeatures": [
+        "Model: NVR4416-4KS2",
+        "Smart H.265+/H.265/Smart H.264+/H.264",
+        "Max 200Mbps Incoming Bandwidth",
+        "Up to 8MP Resolution",
+        "Up to 2ch@4K/8ch@1080P decoding",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Main Processor": "Quad-core embedded processor",
+      "Operating System": "Embedded LINUX",
+      "IP Camera Input": "16 Channel",
+      "Two-Way Talk": "1 Channel Input, 1 Channel Output, RCA",
+      "Interface": "2 RJ-45 Ports",
+      "Resolution": "8Mp/ 6Mp/ 5MP/ 4MP/ 3MP/ 1080P/ 1.3MP/ 720P etc.",
+      "Decoding Capacity": "2ch@4K 30fps, 8ch@1080P 30fps",
+      "Multi-Screen Display": "1/4/8/9/16/25/36",
+      "OSD": "Camera title, Time, Camera lock, Motion detection, Recording",
+      "Compression": "Smart H.265+/H.265/Smart H.264+/H.264",
+      "Record Rate": "200Mbps",
+      "Bit Rate": "16Kbps ~ 20Mbps Per Channel",
+      "Record Mode": "Manual, Schedule (Regular, Continuous), MD (Video detection: Motion Detection, Tampering, Video Loss), Stop",
+      "Record Interval": "1 ~ 120 min (default: 60 min), Pre-record:\n1 ~ 30 sec, Post-record: 10 ~ 300 sec",
+      "Trigger Event": "Recording, PTZ, Tour, Video Push, Email, Snapshot, Buzzer and Screen Tips",
+      "Video Detection": "Motion Detection, MD Zones: 396 (22 × 18),\nVideo Loss and Tampering",
+      "Alarm Input": "16 Channel",
+      "Relay Output": "4 Channel",
+      "Sync Playback": "1/4/9/16",
+      "Search Mode": "Time /Date, MD and Exact Search\n(accurate to second), Smart search",
+      "Playback Function": "Play, Pause, Stop, Rewind, Fast play, Slow Play,\nNext File, Previous File, Next Camera, Previous Camera, Full Screen, Backup Selection, Digital Zoom",
+      "Backup Mode": "USB Device/Network",
+      "Third Party Support": "Arecont Vision, Airlive, AXIS, Canon, Dynacolor, JVC, LG, Panasonic, Pelco, PSIA, Samsung, Sanyo, Sony, Watchnet and more",
+      "PoE": "N/A",
+      "Network Function": "HTTP, HTTPS, TCP/IP, IPv4/IPv6, UPnP, RTSP, UDP, SMTP, NTP, DNS, IP Filter, PPPoE, DDNS, FTP, SNMP, IP Search (Support Dahua IP camera, DVR, NVS, etc.), Easy4ip",
+      "Maximum User Access": "128 users",
+      "Smart Phone": "iPhone, iPad, Android",
+      "Interoperability": "ONVIF 2.4, SDK, CGI",
+      "Internal HDD": "4 SATA III Ports, Up to 6 TB capacity for each HDD",
+      "HDD Mode": "Single",
+      "USB": "2 ports(1 USB2.0, 1 USB3.0)",
+      "RS232": "1 Port, for PC Communication and Keyboard",
+      "RS485": "1 Port, for PTZ Control",
+      "Power Supply": "AC100V ~ 240V, 50 ~ 60 Hz",
+      "Power Consumption": "< 11.7W(without HDD)",
+      "Operational Conditions": "-10°C ~ +55°C (+14°F ~ +131°F), 86 ~ 106kpa",
+      "Storage Conditions": "-20°C ~ +70°C (-4°F ~ +158°F), 0 ~ 90% RH",
+      "Dimensions": "1.5U, 440mm×411.1mm×76mm\n(17.3\" x 16.2\" x 3.0\")",
+      "Manufacturing Warranty": "01-year warranty"
+    }
+  },
+  {
+    "name": "Dahua DH-SD49225-HC-LA 2MP 25x Starlight IR PTZ HDCVI Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/cc-camera/dahua/dh-sd49225i-hc/dh-sd49225i-hc-228x228.jpg",
+    "price": "N/A",
+    "description": "1/2.8\" 2Megapixel STARVIS CMOS\nPowerful 25x optical zoom\n120dB true WDR, 3D DNR\nIR distance up to 100m",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "20182",
+      "brand": "Dahua",
+      "keyFeatures": [
+        "Model: DH-SD49225-HC-LA",
+        "1/2.8\" 2Megapixel STARVIS CMOS",
+        "Powerful 25x optical zoom",
+        "120dB true WDR, 3D DNR",
+        "IR distance up to 100m",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Casing": "Metal",
+      "Dimensions": "295.4 mm × Φ160.0 mm (11.63\" × Φ6.30\")",
+      "Weight": "3Kg",
+      "Operating Conditions": "-40°C ~ 70°C (-40°F ~ +158°F) / Less than 90% RH",
+      "Power Supply": "DC 12V/3A",
+      "Power Consumption": "13W, 22W (IR on, Heater on)",
+      "Image Sensor": "1/2.8\" STARVIS CMOS",
+      "Effective Pixels": "2MP",
+      "Scanning System": "Progressive",
+      "Electronic Shutter Speed": "1/3 s–1/100000 s",
+      "Minimum Illumination": "Color: 0.005 Lux@F1.6\nB/W: 0.0005 Lux@F1.6\n0 Lux@F1.6 (IR on)",
+      "S/N Ratio": "120 dB",
+      "IR Distance": "Distance up to 100m (328ft)",
+      "IR On/Off Control": "Auto/Manual",
+      "IR LEDs": "6",
+      "Focal Length": "4.8mm~120mm",
+      "Max Aperture": "F1.6–F3.5",
+      "Angle of View": "H: 58.5°–2.8°;\nV: 33.2°–1.5°;\nD: 67.5°–3.2°",
+      "Focus Control": "Auto/Semi-Auto/Manual",
+      "Close Focus Distance": "0.1 m–1.5 m (0.33 ft–4.92 ft)",
+      "Resolution": "1080P (1920 × 1080); 720P (1280 × 720);\nD1 (704 × 576/704 × 480)",
+      "Frame Rate": "1080P (25/30 fps), 720P (25/30/50/60 fps)",
+      "Day/Night": "Auto(ICR) / Color / B/W",
+      "BLC Mode": "Support",
+      "Gain Control": "Auto / Manual",
+      "Noise Reduction": "Ultra DNR (2D/3D)",
+      "Audio Interface": "1 channel in",
+      "Video Interface": "1",
+      "Features": "Optical Zoom: 25x\nDigital Zoom: 16x\nFlip: 180°\nPrivacy Masking: Up to 24 areas\nWhite Balance: Auto, ATW, Indoor, Outdoor, Manual\nPTZ-\nPan/Tilt Range- Pan: 0° ~ 360° endless; Tilt: -15° ~ 90°,auto flip 180°\nManual Control Speed- Pan: 0.1° ~200° /s; Tilt: 0.1° ~120° /s\nPreset Speed- Pan: 240° /s; Tilt: 200° /s\nPresets- 300\nPTZ Mode: 5 Pattern, 8 Tour, Auto Pan ,Auto Scan\nSpeed Setup: Human-oriented focal Length/ speed adaptation\nPower up Action: Auto restore to previous PTZ and lens status after\npower failure\nIdle Motion: Activate Preset/ Scan/ Tour/ Pattern if there is no\ncommand in the specified period\nProtocol: DH-SD, Pelco-P/D (Auto recognition)",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "name": "Orvibo C1 Smart WiFi Door Lock",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/door-lock/orvibo/orvibo-c1/orvibo-c1-228x228.jpg",
+    "price": "N/A",
+    "description": "Supports Fingerprint, Card, Password, Authorized Code/OTP, and Spare Keys\nSupport Door Thickness: 35mm~120mm\nUser: Supports 25 users\nWireless Connection: Wi-Fi",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "20300",
+      "brand": "Orvibo",
+      "keyFeatures": [
+        "Model: Orvibo C1",
+        "Supports Fingerprint, Card, Password, Authorized Code/OTP, and Spare Keys",
+        "Support Door Thickness: 35mm~120mm",
+        "User: Supports 25 users",
+        "Wireless Connection: Wi-Fi",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ZKTeco MultiBio 800 Multi-Bio Time Attendance Terminal with Adapter",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Access Control/ZKTeco/ZKTeco MultiBio 800-228x228.jpg",
+    "price": "N/A",
+    "description": "Face 400 \nFingerprint Capacity 1000 Templates  \nID Card Capacity 1000 or Mifare card  \nLog Capacity 1,00,000",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "4537",
+      "brand": "ZKTeco",
+      "keyFeatures": [
+        "Model: ZKTeco MultiBio 800",
+        "Face 400",
+        "Fingerprint Capacity 1000 Templates",
+        "ID Card Capacity 1000 or Mifare card",
+        "Log Capacity 1,00,000",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "ZKTeco G3 Multi-Biometric Fingerprint Time Attendance & Access Control",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/access-control/zkteco/g3-access/g3-access-228x228.jpg",
+    "price": "N/A",
+    "description": "Performance With Dry, Wet and Rough Fingers\nSimple Management & Scalability\nModern Design & Interactive UI\nMultiple Verification Modes",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "18272",
+      "brand": "ZKTeco",
+      "keyFeatures": [
+        "Model: G3",
+        "Performance With Dry, Wet and Rough Fingers",
+        "Simple Management & Scalability",
+        "Modern Design & Interactive UI",
+        "Multiple Verification Modes",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "name": "DAHUA XVR5232AN-S2 32 Channel Digital Video Recorder",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/XVR/Dahua/xvr5232an-s2/xvr5232an-s2-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Embedded processor, H.264+/H.264 dual-stream video compression\nSupport HDCVI/AHD/TVI/CVBS/IP video inputs, Support 2 SATA HDD, up to 16TB\nMax 32 channels IP camera inputs; Max 128Mbps Incoming Bandwidth\nThe long transmission distance over coax cable",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "21512",
+      "brand": "Dahua",
+      "keyFeatures": [
+        "Model: XVR5232AN-S2",
+        "Embedded processor, H.264+/H.264 dual-stream video compression",
+        "Support HDCVI/AHD/TVI/CVBS/IP video inputs, Support 2 SATA HDD, up to 16TB",
+        "Max 32 channels IP camera inputs; Max 128Mbps Incoming Bandwidth",
+        "The long transmission distance over coax cable",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Main Processor": "Embedded Processor",
+      "Operating System": "Embedded LINUX",
+      "IP Camera Input": "32 Channel, each channel up to 5MP",
+      "Two-Way Talk": "Reuse audio in/out, RCA",
+      "Interface": "1 RJ-45 Port (1000M)",
+      "Resolution": "4M-N, 1080P, 1080N, 720P, 960H, D1, HD1, BCIF, CIF, QCIF",
+      "Multi-Screen Display": "1/4/8/9/16/25/36",
+      "OSD": "Camera title, Time, Video loss, Camera lock, Motion\ndetection, Recording",
+      "Compression": "H.264+/H.264",
+      "Record Rate": "Main stream: 4M-N/1080P(1~15fps); 1080N/720P/960H/\nD1/HD1/BCIF/CIF/QCIF (1~25/30fps)\nSub steram: D1/CIF/QCIF(1~15fps)",
+      "Bit Rate": "1Kbps ~ 6144Kbps Per Channel",
+      "Record Mode": "Manual, Schedule (Regular, Continuous), MD (Video\ndetection: Motion Detection, Video Loss, Tampering),\nAlarm, Stop",
+      "Record Interval": "1 ~ 60 min (default: 60 min), Pre-record: 1 ~ 30 sec, Postrecord: 10 ~ 300 sec",
+      "Trigger Event": "Recording, PTZ, Tour, Video Push, Email, FTP, Snapshot, Buzzer\nand Screen Tips",
+      "Video Detection": "Motion Detection, MD Zones: 396 (22 × 18), Video Loss,\nTampering and Diagnosis",
+      "Alarm Input": "N/A",
+      "Relay Output": "N/A",
+      "Search Mode": "Time /Date, Alarm, MD, and Exact Search (accurate to second)",
+      "Playback Function": "Play, Pause, Stop, Rewind, Fast play, Slow Play, Next File,\nPrevious File, Next Camera, Previous Camera, Full Screen,\nRepeat, Shuffle, Backup Selection, Digital Zoom",
+      "Backup Mode": "USB Device/Network",
+      "Network Function": "HTTP, TCP/IP, IPv4/IPv6, UPnP, RTSP, UDP, SMTP, NTP, DHCP,\nDNS, IP Filter, PPPoE,DDNS, FTP, Alarm Server, P2P,IP Search\n(Support Dahua IP camera, DVR, NVS, etc.)",
+      "Smart Phone": "iPhone, iPad, Android",
+      "Interoperability": "ONVIF 2.42, CGI Conformant",
+      "Internal HDD": "2 SATA Port, up to 8TB capacity",
+      "eSATA": "N/A",
+      "USB": "1 USB 2.0 , 1 USB 3.0",
+      "RS232": "N/A",
+      "RS485": "1 Port, for PTZ Control",
+      "Power Supply": "DC12V/5A",
+      "Power Consumption": "<20W (Without HDD)",
+      "Operational Conditions": "-10°C ~ +55°C (+14°F ~ +131°F), 0~ 90% RH",
+      "Storage Conditions": "-20°C ~ +70°C (-4°F ~ +158°F) , 0~ 90% RH",
+      "Dimensions": "1U, 375mm×287mm×53mm (14.8\" x 11.3\" x 2.1\")",
+      "Net Weight": "2.35kg (5.2 lb) (without HDD)",
+      "Gross Weight": "3.2kg (7.05lb)"
+    }
+  },
+  {
+    "name": "Hikvision DS-7732NI-E4 32 channel IP Network Video Recorder (NVR)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/nvr/hikvision/ds-7732ni-e4/ds-7732ni-e4-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Third-party network cameras supported\nUp to 6 Megapixels resolution\nIP video input: 16-ch\nUp to 4 SATA interfaces",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "11380",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: Hikvision DS-7732NI-E4",
+        "Third-party network cameras supported",
+        "Up to 6 Megapixels resolution",
+        "IP video input: 16-ch",
+        "Up to 4 SATA interfaces",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "IP Camera Input": "IP video input: 16-ch",
+      "Two-Way Talk": "Two-way audio:  1-ch, RCA (2.0 Vp-p, 1kΩ)",
+      "Resolution": "Recording Resolution: Up to 6MP\\\nSynchronous Playback: Up to 16-ch synchronous playback at 4CIF resolution",
+      "Record Rate": "Up to 6MP",
+      "Video Detection": "IP Video Input: 16-ch (8-ch@720P, 6-ch@1080P)",
+      "Alarm Input": "Alarm Input/Output: Alarm in / out 16 / 4 (optionally can be expanded to 16 / 8)\nAlarm Input/Output: Alarm in / out 16 / 4 (optionally can be expanded to 16 / 8)",
+      "Sync Playback": "Up to 16-ch synchronous playback at 4CIF resolution",
+      "Search Mode": "Yes",
+      "Playback Function": "Yes",
+      "Backup Mode": "Yes",
+      "Third Party Support": "Third-party network cameras supported",
+      "Interface": "Network Interface: 1 RJ-45 10 /100 /1000 Mbps self-adaptive Ethernet interface\nPoE Switch (Built In): (-16P) 16 independent 100 Mbps PoE network interfaces\nPower over Ethernet: (-16P) 16 independent 100 Mbps PoE network interfaces\\\nSerial Interface: RS-232 and RS-485",
+      "Ethernet Port": "Network Interface\t1 RJ-45 10 /100 /1000 Mbps self-adaptive Ethernet interface\nPower over Ethernet\t(-16P) 16 independent 100 Mbps PoE network interfaces",
+      "PoE": "PoE Switch (Built In)\t(-16P) 16 independent 100 Mbps PoE network interfaces\nPower Consumption\t≤ 20W (without hard disk, DVD-R/W or PoE)\nPower over Ethernet\t(-16P) 16 independent 100 Mbps PoE network interfaces",
+      "Network Function": "1 RJ-45 10 /100 /1000 Mbps self-adaptive Ethernet interface\n(-16P) 16 independent 100 Mbps PoE network interfaces\n(-16P) 16 independent 100 Mbps PoE network interfaces",
+      "Internal HDD": "Max 16TB 4 SATA interfaces for 2 HDDs + 1 DVD-R/W (default), or 4HDDs (8TB with DVD R/W + 2HDD)",
+      "USB": "2 × USB 2.0 + 1 × USB 3.0",
+      "RS232": "Yes",
+      "RS485": "Yes",
+      "Power Supply": "Max. Power 200W Power supply 100 ~ 240 VAC",
+      "Power Consumption": "≤ 20W (without hard disk, DVD-R/W or PoE)",
+      "Operational Conditions": "-10ºC ~ + 55ºC (14ºF ~ 131ºF) Working humidity 10 % ~ 90 %",
+      "Storage Conditions": "Max 16TB 4 SATA interfaces for 2 HDDs + 1 DVD-R/W (default), or 4HDDs (8TB with DVD R/W + 2HDD)",
+      "Dimensions": "445 × 390 ×70 mm ( 17.5\"× 15.3\" × 2.8\")",
+      "Net Weight": "≤ 4 Kg (without hard disk)"
+    }
+  },
+  {
+    "name": "Deli 4121 Fingerprint & Digital Safe Box / Locker / Vault",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/security/digital-safe/4121/4121-001-228x228.jpg",
+    "price": "N/A",
+    "description": "PIN Code + Fingerprint + Main Key\nEmergency Key + Main Key, Alarm Function\nSize: H460 x W380 x D320mm\nWeight: 24kg, Color: Golden",
+    "additionalDetails": {
+      "regularPrice": "30,000৳",
+      "status": "In Stock",
+      "productCode": "14900",
+      "brand": "Deli",
+      "keyFeatures": [
+        "Model: 4121",
+        "PIN Code + Fingerprint + Main Key",
+        "Emergency Key + Main Key, Alarm Function",
+        "Size: H460 x W380 x D320mm",
+        "Weight: 24kg, Color: Golden",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Hikvision DS-2AE4223TI-D HD1080P Turbo IR PTZ Dome Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/PTZ Camera/Hikvision/Hikvision DS-2AE4223TI-D-228x228.jpg",
+    "price": "N/A",
+    "description": "1/2.8'' Progressive Scan CMOS\n23X Optical Zoom\nUp to 100m IR distance",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "6269",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: Hikvision DS-2AE4223TI-D",
+        "1/2.8'' Progressive Scan CMOS",
+        "23X Optical Zoom",
+        "Up to 100m IR distance",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Hikvision DS-2AE4225TI-D 2MP HD1080P Turbo IR PTZ Dome Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/PTZ Camera/Hikvision/Hikvision DS-2AE4223TI-D-228x228.jpg",
+    "price": "N/A",
+    "description": "1/2.8'' Progressive Scan CMOS\n25X Optical Zoom\nUp to 100m IR distance",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16998",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-2AE4225TI-D",
+        "1/2.8'' Progressive Scan CMOS",
+        "25X Optical Zoom",
+        "Up to 100m IR distance",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Pan/Tilt/Rotation": "Pan Range 360° endless\nTilt Range -15° to 90° (auto flip\nRotation speed can be adjusted automatically according to zoom multiples",
+      "Image Sensor": "1/2.8\" progressive scan CMOS",
+      "Electronic Shutter Speed": "PAL: 1/1 s to 1/10,000 s\nNTSC: 1/1 s to 1/10,000 s",
+      "Minimum Illumination": "Color: 0.005 Lux @(F1.6, AGC ON)\nB/W: 0.001 Lux @(F1.6, AGC ON)\n0 lux with IR",
+      "S/N Ratio": "≥ 120 dB",
+      "IR Distance": "Up to 100 m IR distance",
+      "Focal Length": "4.8 mm to 120 mm, 25× Optical",
+      "Max Aperture": "F 1.6 to F 3.5",
+      "Angle of View": "57.6° to 2.5° (wide-tele)",
+      "Resolution": "1920 × 1080",
+      "Frame Rate": "50Hz: 25fps @(1920 × 1080)\n60Hz: 30fps @(1920 × 1080)",
+      "Video Output": "Switchable TVI/AHD/CVI/CVBS video output, (NTSC or PAL composite, BNC)",
+      "Day/Night": "IR cut filter",
+      "BLC Mode": "Yes",
+      "Noise Reduction": "3D DNR",
+      "Warranty": "1 year"
+    }
+  },
+  {
+    "name": "Deli 4122 Fingerprint & Digital Safe Box / Locker / Vault",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/security/digital-safe/4122/4122-1-228x228.jpg",
+    "price": "N/A",
+    "description": "PIN Code + Fingerprint + Main Key\nEmergency Key + Main Key, Alarm Function\nSize: H610 x W380 x D360mm\nWeight: 32kg, Color: Golden",
+    "additionalDetails": {
+      "regularPrice": "33,500৳",
+      "status": "In Stock",
+      "productCode": "14901",
+      "brand": "Deli",
+      "keyFeatures": [
+        "Model: 4122",
+        "PIN Code + Fingerprint + Main Key",
+        "Emergency Key + Main Key, Alarm Function",
+        "Size: H610 x W380 x D360mm",
+        "Weight: 32kg, Color: Golden",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Deli 4042 Digital Safe Box / Locker / Vault",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/security/digital-safe/4042/4042-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Key + Handle, 8 / 4mm\nPIN Code + Handle, Alarm Function\nSize: H450 x W380 x D340 mm\nWeight: 47kg, Color: Gray /Black",
+    "additionalDetails": {
+      "regularPrice": "36,000৳",
+      "status": "In Stock",
+      "productCode": "14897",
+      "brand": "Deli",
+      "keyFeatures": [
+        "Model: 4042",
+        "Key + Handle, 8 / 4mm",
+        "PIN Code + Handle, Alarm Function",
+        "Size: H450 x W380 x D340 mm",
+        "Weight: 47kg, Color: Gray /Black",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "HIKVISION DS-7332HQHI-K4 Pro-Series 32-ch 1080p 1.5U H.265 DVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/dvr/hikvision/ds-7332hqhi-k4/ds-7332hqhi-k4-228x228.jpg",
+    "price": "N/A",
+    "description": "H.265 pro+ compression technology\nUp to 1080p @ 15 fps\nUp to 48 network cameras\n4 channels and 4 HDDs 1.5U DVR",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "12931",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: HIKVISION DS-7332HQHI-K4",
+        "H.265 pro+ compression technology",
+        "Up to 1080p @ 15 fps",
+        "Up to 48 network cameras",
+        "4 channels and 4 HDDs 1.5U DVR",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Hikvision DS-7316HQHI-K4 16-ch 1080p 1.5U H.265 DVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/dvr/hikvision/ds-7316hqhi-k4/ds-7316hqhi-k4-01-228x228.webp",
+    "price": "N/A",
+    "description": "Compression: H.265 Pro+/H.265 Pro/H.265/H.264+/H.264\nEncoding ability: up to 1080p @ 15 fps\nCamera can be connected: Up to 24 network\n16 channels and 4 HDDs 1.5U DVR",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "28240",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-7316HQHI-K4",
+        "Compression: H.265 Pro+/H.265 Pro/H.265/H.264+/H.264",
+        "Encoding ability: up to 1080p @ 15 fps",
+        "Camera can be connected: Up to 24 network",
+        "16 channels and 4 HDDs 1.5U DVR",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "IP Camera Input": "8-ch (up to 24-ch) Up to 6 MP resolution Support H.265+/H.265/H.264+/H.264 IP cameras",
+      "Compression": "H.265 Pro+/H.265 Pro/H.265/H.264+/H.264",
+      "Resolution": "When 1080p Lite mode is not enabled: 4 MP lite/3 MP/1080p/720p/VGA/WD1/4CIF/CIF; When 1080p Lite mode is enabled: 4 MP lite/3 MP/1080p lite/720p lite/VGA/WD1/4CIF/CIF",
+      "Record Rate": "Main stream: When 1080p Lite mode is not enabled: For 4 MP stream access: 4 MP lite@15fps; 1080p lite/720p/WD1/4CIF/VGA/CIF@25fps (P)/30fps (N) For 3 MP stream access: 3 MP/1080p/720p/VGA/WD1/4CIF/CIF@15fps For 1080p stream access: 1080p/720p@15fps; VGA/WD1/4CIF/CIF@25fps (P)/30fps (N) For 720p stream access: 720p/VGA/WD1/4CIF/CIF@25fps (P)/30fps (N) When 1080p Lite mode enabled: 4 MP lite/3 MP@15fps; 1080p lite/720p lite/VGA/WD1/4CIF/CIF@25fps (P)/ 30fps (N) Sub-stream: WD1/4CIF@12fps; CIF@25fps (P)/30fps (N)\nSub-stream:\nFor 1080p and 720p stream access: CIF/QVGA@15 fps\nFor SD stream access: CIF/QVGA@25 fps (P)/30 fps (N)",
+      "Bit Rate": "32 Kbps to 6 Mbps",
+      "Alarm Input": "16/4",
+      "Interface": "1, RJ45 10M/100M/1000M self-adaptive Ethernet interface",
+      "Network Function": "TCP/IP, PPPoE, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, NFS, iSCSI, UPnP™, HTTPS, ONVIF, SNMP",
+      "Internal HDD": "4 SATA interfaces",
+      "eSATA": "Yes",
+      "Power Supply": "100 to 240 VAC, 50 to 60 Hz, 1.5 A",
+      "Power Consumption": "Consumption (without HDD) ≤ 30 W ≤ 40 W ≤ 55 W",
+      "Dimensions": "445 × 390 × 70 mm (17.5 × 15.4 × 2.8 inch)",
+      "Net Weight": "(without HDD) ≤ 5 kg (11.0 lb)",
+      "Manufacturing Warranty": "1 year"
+    }
+  },
+  {
+    "name": "Hikvision DS-2DE5225W-AE3(T5) 2 MP 25X DarkFighter IP Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/cc camera/ds-2de5225w-ae3/ds-2de5225w-ae3-02-228x228.webp",
+    "price": "N/A",
+    "description": "1/2.8\" Progressive Scan CMOS\n25× optical zoom and 16× digital zoom\nEfficient H.265+/H.265 compression technology\nExcellent low-light performance with DarkFighter technology",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "28252",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model:  DS-2DE5225W-AE3",
+        "1/2.8\" Progressive Scan CMOS",
+        "25× optical zoom and 16× digital zoom",
+        "Efficient H.265+/H.265 compression technology",
+        "Excellent low-light performance with DarkFighter technology",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions": "Embedded：Ø 245mm×239mm（Ø 9.6\" × 9.4\"） Indoor：Ø 183mm×246mm（Ø 7.2\" × 9.7\"）",
+      "Weight": "Approx. 3.0 kg (6.61 lb.)",
+      "Power Supply": "24 VAC, Max. 20 W; PoE (802.3at)",
+      "Image Sensor": "1/2.8″ Progressive Scan CMOS",
+      "Effective Pixels": "2 MP",
+      "Electronic Shutter Speed": "1 s to 1/30,000 s \nSlow Shutter : Yes",
+      "Minimum Illumination": "1/2.8″ Progressive Scan CMOS",
+      "Focal Length": "4.8 mm to 120 mm",
+      "Focus Control": "Auto, semi-auto, manual",
+      "Resolution": "1920 × 1080",
+      "Audio Interface": "1 input (line in), max. input amplitude: 2-2.4 vpp, input impedance: 1 KΩ ± 10%; 1 output (line out), line level, output impedance: 600 Ω",
+      "Warranty": "01 year warranty"
+    }
+  },
+  {
+    "name": "Hikvision DS-2AE5223TI-A HD1080P Turbo IR PTZ Dome Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/PTZ Camera/Hikvision/Hikvision DS-2AE5223TI-A-228x228.jpg",
+    "price": "N/A",
+    "description": "2MP CMOS Image Sensor\n1/3â€™â€™ high performance CMOS\n3D intelligent positioning function",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "6271",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: Hikvision DS-2AE5223TI-A",
+        "2MP CMOS Image Sensor",
+        "1/3â€™â€™ high performance CMOS",
+        "3D intelligent positioning function",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Hikvision DS-2DE5225IW-AE 2MP Network 265+ Comprasion IR PTZ Dome Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/cc-camera/hikvision/ds-2de5225iw-ae-2mp/ds-2de5225iw-ae-2mp-228x228.jpg",
+    "price": "N/A",
+    "description": "1/2.8'' Progressive Scan CMOS\n25x Optical Zoom\nUp to 150m IR Distance\n120dB WDR Technology",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "17014",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-2DE5225IW-AE 2MP",
+        "1/2.8'' Progressive Scan CMOS",
+        "25x Optical Zoom",
+        "Up to 150m IR Distance",
+        "120dB WDR Technology",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Dimensions": "Φ 208 mm × 345 mm",
+      "Weight": "3.3Kg",
+      "Pan/Tilt/Rotation": "Movement Range (Pan): 360° endless\nMovement Range (Tilt): From -15° to 90° (auto-flip)\nTilt Speed: Configurable, from 0.1°/s to 80°/s,Preset Speed: 80°/s",
+      "Operating Conditions": "-30°C to 65°C (-22°F to 149°F)",
+      "Power Supply": "24 VAC and Hi-PoE,Max.: 30 W (Max. 10 W for IR)",
+      "Image Sensor": "1/2.8\" progressive scan CMOS",
+      "Electronic Shutter Speed": "50Hz: 1/1 s to 1/30,000 s,60Hz: 1/1 s to 1/30,000 s",
+      "Minimum Illumination": "Color: 0.005 Lux @(F1.6, AGC ON),B/W: 0.001Lux @(F1.6, AGC ON),0 Lux with IR",
+      "IR Distance": "150 m",
+      "Focal Length": "4.8 mm to 120 mm",
+      "Max Aperture": "F1.6 to F3.5",
+      "Angle of View": "Horizontal field of view: 57.6° to 2.5° (Wide-Tele)\nVertical field of view: 34.4° to 1.4° (Wide-Tele)\nDiagonal field of view: 64.5° to 2.9° (Wide-Tele)",
+      "Resolution": "1920 × 1080",
+      "Frame Rate": "50Hz: 25fps",
+      "Video Output": "32 Kbps to 16384 Kbps",
+      "Day/Night": "IR Cut Filter",
+      "Audio Interface": "Alarm Output: 1-ch alarm output\nAlarm Input: 2-ch alarm input\nAudio Input: 1-ch audio input, 2 to 2.4 V[p-p], 1 KΩ ± 10%\nAudio Output: 1-ch audio output, line level, impedance: 600 Ω",
+      "Video Interface": "Network Interface: 1 RJ45 10 M/100 M Ethernet, Hi-PoE",
+      "Features": "Basic Event Detection:\nMotion Detection, Video Tampering Detection, Exception\n\nSmart Detection:\nIntrusion Detection, Line Crossing Detection, Region Entrance Detection, Region Exiting Detection, Object Removal Detection, Unattended Baggage Detection, Audio Exception Detection\n\nSmart Record:\nANR (Automatic Network Replenishment), Dual-VCA\n\nROI:\nMain stream, sub-stream, and third stream respectively support four fixed areas.",
+      "Warranty": "1 Year"
+    }
+  },
+  {
+    "name": "Deli 4116 Fingerprint & Digital Safe Box / Locker / Vault",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/security/digital-safe/4116/4116-1-228x228.jpg",
+    "price": "N/A",
+    "description": "PIN Code + Handle, 10/6mm\nFingerprint + Handle, Alarm Function\nSize: H550 x W410 x D360mm\nWeight: 72kg, Color: Black",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "14896",
+      "brand": "Deli",
+      "keyFeatures": [
+        "Model: 4116",
+        "PIN Code + Handle, 10/6mm",
+        "Fingerprint + Handle, Alarm Function",
+        "Size: H550 x W410 x D360mm",
+        "Weight: 72kg, Color: Black",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "LevelOne KVM-0831 8-Port PS/2-USB VGA KVM Switch (v.4)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/KVM Switch/levelone/0831/0831-228x228.jpg",
+    "price": "N/A",
+    "description": "Control and manage 8 computers or up to 120 computers via daisy chain function\nProvides auto-scanning features\nSupports resolutions up to 1920 x 1440\nBuilt-in IP module slot for KVM-over-IP capability",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "12387",
+      "brand": "LevelOne",
+      "keyFeatures": [
+        "Model: LevelOne KVM-0831",
+        "Control and manage 8 computers or up to 120 computers via daisy chain function",
+        "Provides auto-scanning features",
+        "Supports resolutions up to 1920 x 1440",
+        "Built-in IP module slot for KVM-over-IP capability",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Uniview NVR308-64R 64 Channel 4K 8 HDDs RAID NVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/nvr/uniview/nvr308-64r/nvr308-64r-01-228x228.webp",
+    "price": "N/A",
+    "description": "Inputs: 64 Channel\nIncoming Bandwidth: 320Mbps\nUp to 12 Megapixels resolution recording \n8 SATA HDDs up to 8TB for each HDD",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "26167",
+      "brand": "Uniview",
+      "keyFeatures": [
+        "Model: NVR308-64R",
+        "Inputs: 64 Channel",
+        "Incoming Bandwidth: 320Mbps",
+        "Up to 12 Megapixels resolution recording",
+        "8 SATA HDDs up to 8TB for each HDD",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating System": "Linux system",
+      "IP Camera Input": "64 Channel",
+      "Two-Way Talk": "1-ch, RCA",
+      "Interface": "2 RJ45",
+      "Resolution": "12MP/8MP/6MP/5MP/4MP/3MP/1080p/960p/720p/D1/2CIF/CIF",
+      "Decoding Capacity": "3 x 12MP@25, 4 x 4K@30, 8 x 4MP@30, 16 x 1080P@30, 32 x 960P@25, 36 x 720P@30, 64 x D1",
+      "Video Detection": "Intrusion Detection, Cross Line Detection, Enter Area, Leave Area, Defocus Detection, Scene Change Detection, Auto Tracking, Object Left Behind, Object Removed, Vehicle Control, Behavior Search, Vehicle Search, People Flow Counting, Crowd Density Monitoring",
+      "Alarm Input": "16 Channel",
+      "Relay Output": "4 Channel",
+      "Sync Playback": "64 Channel",
+      "Third Party Support": "ONVIF conformance: Profile S, Profile G, Profile C, Profile Q, Profile A, Profile T",
+      "Ethernet Port": "2 RJ45 10M/100M/1000M self-adaptive Ethernet Interfaces",
+      "Maximum User Access": "Remote Users: 128",
+      "Internal HDD": "8 SATA interfaces",
+      "HDD Mode": "Up to 8TB for each HDD",
+      "eSATA": "1 eSATA interface",
+      "USB": "Rear panel: 2 x USB2.0, 1 x USB3.0",
+      "Power Supply": "100 ~ 240 VAC",
+      "Power Consumption": "≤ 20 W (without HDD)",
+      "Operational Conditions": "-10°C ~ + 55°C ( +14°F ~ +131°F ), Humidity ≤ 90% RH(non-condensing)",
+      "Dimensions": "442mm ×531mm×86mm  (17.4\" × 19.9\"×3.4\")",
+      "Net Weight": "≤ 5.13 Kg (11.31 lb )",
+      "Manufacturing Warranty": "2 Year Warranty"
+    }
+  },
+  {
+    "name": "Hikvision DS-2DE5220I-AE HD1080P Defog IR PTZ Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/PTZ Camera/Hikvision/Hikvision DS-2DE5220I-AE-228x228.jpg",
+    "price": "N/A",
+    "description": "2 Megapixel High Resolution\n4.7 mm to 94 mm, 20x Optical Zoom\nIR Range 150 Meters (~490 Feet)",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "6274",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: Hikvision DS-2DE5220I-AE",
+        "2 Megapixel High Resolution",
+        "4.7 mm to 94 mm, 20x Optical Zoom",
+        "IR Range 150 Meters (~490 Feet)",
+        "View More Info"
+      ]
+    },
+    "specifications": {}
+  },
+  {
+    "name": "Hikvision DS-9664NI-I16 3U 4K 64 channel NVR",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/nvr/hikvision/ds-9664ni-i16-3u-4k-64-ch/hikvision-ds-9664ni-i16-3u-4k-64-channel-nvr-228x228.jpg",
+    "price": "N/A",
+    "description": "Up to 64-ch 12 MP IP cameras can be connected\nNew logical and visualized GUI design\n16 HDD UP TO 6TB Each HDD\nUp to 320 Mbps incoming bandwidth",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "22194",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-9664NI-I16",
+        "Up to 64-ch 12 MP IP cameras can be connected",
+        "New logical and visualized GUI design",
+        "16 HDD UP TO 6TB Each HDD",
+        "Up to 320 Mbps incoming bandwidth",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "IP Camera Input": "Up to 64-ch 12 MP IP cameras can be connected",
+      "Two-Way Talk": "1-ch, RCA (2.0 Vp-p, 1 k Ω)",
+      "Interface": "2, RJ-45 10/100/1000 Mbps self-adaptive Ethernet interface",
+      "Decoding Capacity": "2-ch @ 12 MP (20fps) / 4-ch @ 8 MP (25fps) / 8-ch @ 4MP (30fps) / 16-ch @ 1080p (30fps)",
+      "Resolution": "CVBS output (Optional) : 1-ch, BNC (1.0 Vp-p, 75 Ω), resolution: PAL: 704 × 576, NTSC: 704 × 480\nVGA1 /HDMI1 output resolution : HDMI1: 4K (3840 × 2160)/60Hz, 4K (3840 × 2160)/30Hz, 2K (2560 × 1440)/60Hz, 1920 × 1080p/60Hz, 1600 × 1200/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz VGA1: 2K (2560 × 1440)/60Hz, 1920 × 1080p/60Hz, 1600 × 1200/60Hz, 1280 × 1024/60Hz, 1280 ×\nVGA2 /HDMI2 output resolution : 1920 × 1080p/60Hz, 1280 × 1024/60Hz, 1280 × 720/60Hz, 1024 × 768/60Hz",
+      "Record Rate": "128 Mbps",
+      "Alarm Input": "Yes",
+      "Sync Playback": "Yes ( 8-ch )",
+      "Playback Function": "12 MP/8 MP/6 MP/5 MP/4 MP/3 MP/1080p/UXGA/720p/VGA/4CIF/DCIF /2CIF/CIF/QCIF",
+      "Third Party Support": "YesH.265+/H.265/H.264/H.264+/MPEG4",
+      "Ethernet Port": "2",
+      "Network Function": "TCP/IP, DHCP, Hik-Connect, DNS, DDNS, NTP, SADP, SMTP, NFS, iSCSI, UPnP, HTTPS",
+      "HDD Mode": "16 SATA interfaces for 8HDDs\nUp to 10TB capacity for each HDD",
+      "eSATA": "1 eSATA interface",
+      "USB": "Front panel: 2 × USB 2.0; Rear panel: 1 × USB 3.0",
+      "RS232": "Yes",
+      "RS485": "Yes",
+      "Power Supply": "100 to 240 VAC, 50 to 60 Hz",
+      "Power Consumption": "Max. Power : 200 W\nConsumption (without HDD) : ≤ 30 W",
+      "Dimensions": "445 × 470 ×90 mm (17.5\"× 18.5\" × 3.5\")",
+      "Net Weight": "Weight (without HDD) : ≤ 8 kg (17.6 lb)"
+    }
+  },
+  {
+    "name": "Hikvision DS-2CE76D0T-LPFS 2MP Dual Light Audio Fixed Turret Camera",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/cc-camera/hikvision/ds-2ce76d0t-lpfs/ds-2ce76d0t-lpfs-01-228x228.webp",
+    "price": "N/A",
+    "description": "High-quality imaging with 2 MP, 1920 × 1080 resolution\n2.8 mm, 3.6 mm fixed focal lens\nUp to 20 m IR distance for bright night imaging\nHigh-quality audio with audio over coaxial cable, built-in mic",
+    "additionalDetails": {
+      "regularPrice": "2,000৳",
+      "status": "In Stock",
+      "productCode": "27876",
+      "brand": "Hikvision",
+      "keyFeatures": [
+        "Model: DS-2CE76D0T-LPFS",
+        "High-quality imaging with 2 MP, 1920 × 1080 resolution",
+        "2.8 mm, 3.6 mm fixed focal lens",
+        "Up to 20 m IR distance for bright night imaging",
+        "High-quality audio with audio over coaxial cable, built-in mic",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Operating Conditions": "-40°C to 60°C (-40°F to140°F), Humidity: 90% or less (non-condensing)",
+      "Power Supply": "12 VDC ± 25%",
+      "Image Sensor": "2 MP CMOS",
+      "Electronic Shutter Speed": "PAL: 1/25 s to 1/50,000 s;NTSC: 1/30 s to 1/50,000 s",
+      "Minimum Illumination": "0.01 Lux @ (F1.2, AGC ON), 0 Lux with IR",
+      "IR Distance": "Up to 20 m IR distance for bright night imaging",
+      "Lens Type": "2.8 mm, 3.6 mm fixed focal lens",
+      "Mount Type": "M12",
+      "Focal Length": "2.8 mm, horizontal FOV: 101°, vertical FOV: 56°, diagonal FOV: 118°\n3.6 mm, horizontal FOV: 78°, vertical FOV: 42°, diagonal FOV: 92°",
+      "Max Aperture": "F1.2",
+      "Resolution": "1920 × 1080",
+      "Day/Night": "ICR",
+      "Video Interface": "Switchable TVI/AHD/CVI/CVBS",
+      "Warranty": "01 year warranty"
+    }
   }
 ]

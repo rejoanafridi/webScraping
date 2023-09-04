@@ -2782,44 +2782,14 @@
     "price": "N/A",
     "description": "Display: 10.9-inch (2360x1640) LEDâ€‘backlit Multiâ€‘Touch Liquid Retina display\nProcessor: Apple M1 chip\nCapacity: 64GB\nSupports Apple Pencil",
     "additionalDetails": {
-      "status": "Out Of Stock",
-      "productCode": "22423",
-      "brand": "Apple",
-      "keyFeatures": [
-        "MPN: MM6R3ZP/A",
-        "Model: iPad Air",
-        "Display: 10.9-inch (2360x1640) LEDâ€‘backlit Multiâ€‘Touch Liquid Retina display",
-        "Processor: Apple M1 chip",
-        "Capacity: 64GB",
-        "Supports Apple Pencil",
-        "View More Info"
-      ]
+      "cashDiscountPrice": "N/A",
+      "regularPrice": "N/A",
+      "status": "N/A",
+      "productCode": "N/A",
+      "brand": "N/A",
+      "keyFeatures": []
     },
-    "specifications": {
-      "Display Type": "Liquid Retina display\nWide colour display (P3)\nTrue Tone display\nFingerprint-resistant oleophobic coating\nFully laminated display\nAnti-reflective coating\n1.8% reflectivity\n500 nits brightness",
-      "Size": "10.9-inch (diagonal) LED‑backlit Multi‑Touch display with IPS technology",
-      "Resolution": "2360x1640‑pixel resolution at 264 pixels per inch (ppi)",
-      "Processor": "Apple M1 chip\n8-core CPU\n8-core graphics\nApple Neural Engine",
-      "RAM": "8GB RAM",
-      "Storage": "64GB",
-      "Connectivity": "Wi-Fi + Cellular",
-      "Operating System": "iPadOS 15",
-      "Audio": "Stereo speakers",
-      "Dimensions": "247.6 x 178.5 x 6.1 mm",
-      "Weight": "462g",
-      "SIM": "Nano‑SIM (supports Apple SIM)\neSIM",
-      "Rear": "12MP Wide camera, ƒ/1.8 aperture\nDigital zoom up to 5x\nFive-element lens\nAutofocus with Focus Pixels\nPanorama (up to 63MP)\nSmart HDR 3\nWide colour capture for photos and Live Photos\nPhoto geotagging\nAuto image stabilisation\nBurst mode\nImage formats captured: HEIF and JPEG",
-      "Front": "12MP Ultra Wide front camera, 122° field of view\nƒ/2.4 aperture\nSmart HDR 3\n1080p HD video recording at 25 fps, 30 fps or 60 fps\nTime-lapse video with stabilisation\nExtended dynamic range for video up to 30 fps\nCinematic video stabilisation (1080p and 720p)\nWide colour capture for photos and Live Photos\nLens correction\nRetina Flash\nAuto image stabilisation\nBurst mode",
-      "Video": "4K video recording at 24 fps, 25 fps, 30 fps or 60 fps\n1080p HD video recording at 25 fps, 30 fps or 60 fps\n720p HD video recording at 30 fps\nSlow-motion video support for 1080p at 120 fps or 240 fps\nTime-lapse video with stabilisation\nExtended dynamic range for video up to 30 fps\nCinematic video stabilisation (4K, 1080p and 720p)\nContinuous autofocus video\nPlayback zoom\nVideo formats captured: HEVC and H.264",
-      "Type": "Built‐in rechargeable lithium‑polymer battery\nUp to 9 hours of surfing the web using a mobile data network\nCharging via power adapter or USB‑C to computer system",
-      "Capacity": "28.6‐watt-hour",
-      "Bluetooth": "Bluetooth 5.0 technology",
-      "GPS": "Digital compass\nWi‑Fi\niBeacon micro‑location\nBuilt‑in GPS/GNSS\nMobile data",
-      "Sensors": "Touch ID\nThree‐axis gyro\nAccelerometer\nBarometer\nAmbient light sensor",
-      "USB": "USB-C",
-      "WLAN": "802.11ax Wi-Fi 6; simultaneous dual band (2.4GHz and 5GHz); HT80 with MIMO\nModel A2589:\n5G NR (Bands n1, n2, n3, n5, n7, n8, n12, n20, n25, n28, n29, n30, n38, n40, n41, n48, n66, n71, n77, n78, n79)4\nFDD-LTE (Bands 1, 2, 3, 4, 5, 7, 8, 11, 12, 13, 14, 17, 18, 19, 20, 21, 25, 26, 28, 29, 30, 32 66, 71)\nTD-LTE (Bands 34, 38, 39, 40, 41, 42, 46, 48)\nUMTS/HSPA/HSPA+/DC‑HSDPA (850, 900, 1700/2100, 1900, 2100 MHz)\nData only\nWi-Fi calling\neSIM",
-      "Warranty": "01 Year International Warranty."
-    }
+    "specifications": {}
   },
   {
     "name": "Apple iPad Air 5th Gen 10.9-inch 64GB Wi-Fi + Cellular Blue (MM6U3ZP/A)",
