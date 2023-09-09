@@ -2,8 +2,7 @@ const fs = require('fs');
 const path = require('path');
 
 // Directory containing the JSON files to be merged
-const directory = path.resolve(__dirname, './products');
-
+const directory = path.resolve(__dirname, './filter');
 
 // Create an empty array to store the merged data
 const mergedData = [];
@@ -26,7 +25,7 @@ fs.readdirSync(directory).forEach((file) => {
 });
 
 // Write the merged data to a single JSON file
-const mergedFilePath = './merged_data.json'; // Change to your desired output file path
+const mergedFilePath = './filter/allComponents.json'; // Change to your desired output file path
 fs.writeFileSync(mergedFilePath, JSON.stringify(mergedData, null, 2));
 
 console.log('JSON files merged successfully.');
