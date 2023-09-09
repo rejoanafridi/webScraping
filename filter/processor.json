@@ -1,0 +1,3379 @@
+[
+  {
+    "name": "AMD Athlon 200GE AM4 Socket Desktop Processor with Radeon Vega 3 Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/Athlon/athlon-228x228.jpg",
+    "price": "N/A",
+    "description": "Base Clock Speed 3.2GHz\nPackage AM4\nPCI Express PCIe 3.0",
+    "additionalDetails": {
+      "regularPrice": "7,800৳",
+      "status": "In Stock",
+      "productCode": "9458",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Athlon 200GE",
+        "Base Clock Speed 3.2GHz",
+        "Package AM4",
+        "PCI Express PCIe 3.0",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.2GHz",
+      "Cache": "Total L1 Cache 192KB\nTotal L2 Cache 1MB\nTotal L3 Cache 4MB",
+      "Cores": "CPU Cores 2\nGPU Cores 3\nCompute Cores: 5 (2 CPU + 3 GPU)",
+      "Threads": "4",
+      "Default TDP": "35W",
+      "Maximum Speed": "2667MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "1000 MHz",
+      "Core Count": "3",
+      "Manufacturing Warranty": "3 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 10th Gen Core i3 10100F Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-228x228.jpg",
+    "price": "N/A",
+    "description": "Socket  Supported FCLGA1200\nSpeed 3.60 up to 4.30 GHz\nCores- 4 & Threads- 8\n6M Intel Smart  Cache",
+    "additionalDetails": {
+      "regularPrice": "9,020৳",
+      "status": "In Stock",
+      "productCode": "14955",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Core i3 10100F",
+        "Socket  Supported FCLGA1200",
+        "Speed 3.60 up to 4.30 GHz",
+        "Cores- 4 & Threads- 8",
+        "6M Intel Smart  Cache",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.60 GHz",
+      "Maximum Turbo Frequency": "4.30 GHz",
+      "Cache": "6 MB SmartCache",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "41.6 GB/s",
+      "Type": "DDR4-2666",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "NO",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 4100 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-4100/amd-ryzen-3-4100-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.8GHz; Up to 4.0GHz\nL1 Cache: 256KB; L2 Cache: 2MB; L3 Cache: 4MB\n4 Cores & 8 Threads \nCPU Socket: AM4",
+    "additionalDetails": {
+      "regularPrice": "11,330৳",
+      "status": "In Stock",
+      "productCode": "22855",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 4100",
+        "Clock Speed: 3.8GHz; Up to 4.0GHz",
+        "L1 Cache: 256KB; L2 Cache: 2MB; L3 Cache: 4MB",
+        "4 Cores & 8 Threads",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.8GHz",
+      "Maximum Turbo Frequency": "4.0GHz",
+      "Cache": "L1 Cache: 256KB\nL2 Cache: 2MB\nL3 Cache: 4MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65W",
+      "cTDP": "46-65W",
+      "Supported Technologies": "AMD SenseMI Technology \nAMD Ryzen Master Utility\nEnmotus FuzeDrive for AMD Ryzen\nRadeon Software\nRadeon FreeSync Technology\nAMD StoreMI Technology\nAMD \"Zen 2\" Core Architecture\nAMD Ryzen VR-Ready Premium",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel Core i3-12100F 12th Gen Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100f/i3-12100f-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.30 GHz Up to 4.30 GHz\nCache: 12MB, Socket: LGA 1700\nCPU Cores: 4, CPU Threads: 8\nMax Memory Size: 128 GB",
+    "additionalDetails": {
+      "regularPrice": "12,320৳",
+      "status": "In Stock",
+      "productCode": "20998",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i3-12100F 12th Gen",
+        "Clock Speed: 3.30 GHz Up to 4.30 GHz",
+        "Cache: 12MB, Socket: LGA 1700",
+        "CPU Cores: 4, CPU Threads: 8",
+        "Max Memory Size: 128 GB",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.30 GHz",
+      "Maximum Turbo Frequency": "4.30 GHz",
+      "Cache": "12 MB Intel Smart Cache",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "58 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "76.8 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5500 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/amd-ryzen-5-5500/amd-ryzen-5-5500-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.6GHz; Up to 4.2GHz\nL2 Cache: 3MB, L3 Cache: 16MB\nCores: 6, Threads: 12\nUp to 3200MHz DDR4",
+    "additionalDetails": {
+      "regularPrice": "12,650৳",
+      "status": "In Stock",
+      "productCode": "22330",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 5500",
+        "Speed: 3.6GHz; Up to 4.2GHz",
+        "L2 Cache: 3MB, L3 Cache: 16MB",
+        "Cores: 6, Threads: 12",
+        "Up to 3200MHz DDR4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.6GHz",
+      "Maximum Turbo Frequency": "Up to 4.2GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 16MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 3200G Processor with Radeon RX Vega 8 Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-3200g/ryzen-3-3200g-3-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.6 GHz up to 4.0 GHz\nCores-4 & Threads-4\nMemory Speed: Up to 2933MHz\nRadeon Vega 8 Graphics",
+    "additionalDetails": {
+      "regularPrice": "12,500৳",
+      "status": "In Stock",
+      "productCode": "10295",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 3200G",
+        "Speed: 3.6 GHz up to 4.0 GHz",
+        "Cores-4 & Threads-4",
+        "Memory Speed: Up to 2933MHz",
+        "Radeon Vega 8 Graphics",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1250 MHz",
+      "Maximum Turbo Frequency": "4.0GHz",
+      "Cache": "Total L2 Cache: 2MB\nTotal L3 Cache: 4MB",
+      "Cores": "4",
+      "Threads": "4",
+      "Default TDP": "65W",
+      "Maximum Speed": "2933MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon RX Vega 8 Graphics",
+      "Core Count": "8",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)."
+    }
+  },
+  {
+    "name": "AMD RYZEN 5 3500 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3500/ryzen-3500-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.6GHz up to 4.1GHz\nCache (L2+L3): 16 MB\nCores-6 & Threads-6\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "regularPrice": "13,150৳",
+      "status": "In Stock",
+      "productCode": "11601",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: RYZEN 5 3500",
+        "Speed: 3.6GHz up to 4.1GHz",
+        "Cache (L2+L3): 16 MB",
+        "Cores-6 & Threads-6",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.6 GHz",
+      "Maximum Turbo Frequency": "4.1 GHz",
+      "Cache": "Cache (L2+L3): 16 MB",
+      "Cores": "6",
+      "Threads": "6",
+      "Default TDP": "65W",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD RYZEN 5 3500X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3500/ryzen-3500-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.6GHz up to 4.1GHz\nCache (L2+L3): 35 MB\nCores-6 & Threads-6\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "regularPrice": "13,500৳",
+      "status": "In Stock",
+      "productCode": "11641",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: RYZEN 5 3500X",
+        "Speed: 3.6GHz up to 4.1GHz",
+        "Cache (L2+L3): 35 MB",
+        "Cores-6 & Threads-6",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.6 GHz",
+      "Maximum Turbo Frequency": "4.1 GHz",
+      "Cache": "Cache L2 Cache: 3 MB\nCache L3: 32 MB",
+      "Cores": "6",
+      "Threads": "6",
+      "Default TDP": "65W",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 10th Gen Core i5-10400F Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i5-10400/i5-10400-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed:2.90 GHz up to 4.30 GHz\nCores-6 & Threads-12\n12 MB SmartCache\nMemory Types: DDR4-2666",
+    "additionalDetails": {
+      "regularPrice": "13,200৳",
+      "status": "In Stock",
+      "productCode": "13121",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Core i5-10400F",
+        "Clock Speed:2.90 GHz up to 4.30 GHz",
+        "Cores-6 & Threads-12",
+        "12 MB SmartCache",
+        "Memory Types: DDR4-2666",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2.90 GHz",
+      "Maximum Turbo Frequency": "4.30 GHz",
+      "Cache": "12 MB SmartCache",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "2666",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 Years Warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 10th Gen Core i3 10100 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10100/i3-10100-228x228.jpg",
+    "price": "N/A",
+    "description": "Socket  Supported FCLGA1200\nSpeed 3.60 up to 4.30 GHz\nCores- 4 & Threads- 8\n6M Cache",
+    "additionalDetails": {
+      "regularPrice": "13,750৳",
+      "status": "In Stock",
+      "productCode": "13306",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Core i3 10100",
+        "Socket  Supported FCLGA1200",
+        "Speed 3.60 up to 4.30 GHz",
+        "Cores- 4 & Threads- 8",
+        "6M Cache",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Maximum Turbo Frequency": "4.30 GHz",
+      "Cache": "6 MB SmartCache",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "41.6 GB/s",
+      "Type": "DDR4-2666",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 630",
+      "Max Dynamic Frequency": "1.10 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "Max Resolution (HDMI 1.4): 4096 x 2160 @30Hz\nMax Resolution (DP): 4096 x 2304 @60Hz\nMax Resolution (eDP - Integrated Flat Panel): 4096 x 2304 @60Hz",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 Pro 4650G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-pro-4650g/ryzen-5-pro-4650g-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.7GHz up to 4.2GHz\nCache: L2: 3MB, L3: 8MB\nCores-6 & Threads-12\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "regularPrice": "14,080৳",
+      "status": "In Stock",
+      "productCode": "16873",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 Pro 4650G",
+        "Speed: 3.7GHz up to 4.2GHz",
+        "Cache: L2: 3MB, L3: 8MB",
+        "Cores-6 & Threads-12",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1900 MHz",
+      "Maximum Turbo Frequency": "4.2GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 8MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "AMD PRO technologies\nDisplay Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel Core i3 10105 10th Gen Comet Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i3-10105/core-i3-10105-001-228x228.jpg",
+    "price": "N/A",
+    "description": "Socket Supported FCLGA1200\nSpeed 3.70 GHz up to 4.40 GHz\nCores- 4 & Threads- 8, 6M Cache\nIntel UHD Graphics 630",
+    "additionalDetails": {
+      "regularPrice": "14,080৳",
+      "status": "In Stock",
+      "productCode": "19089",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Core i3 10105",
+        "Socket Supported FCLGA1200",
+        "Speed 3.70 GHz up to 4.40 GHz",
+        "Cores- 4 & Threads- 8, 6M Cache",
+        "Intel UHD Graphics 630",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.70 GHz",
+      "Maximum Turbo Frequency": "4.40 GHz",
+      "Cache": "6 MB Smart Cache",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "2666MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 630",
+      "Max Dynamic Frequency": "Graphics Max Dynamic Frequency 1.10 GHz",
+      "Max Video Memory": "Graphics Video Max Memory 64 GB",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160@30Hz\nMax Resolution (DP): 4096 x 2304@60Hz\nMax Resolution (eDP - Integrated Flat Panel): 4096 x 2304@60Hz",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 4500 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-5-4500/amd-ryzen-5-4500-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.6GHz; Up to 4.1GHz\nL1 Cache: 384KB; L2 Cache: 3MB; L3 Cache: 8MB\n6 Cores & 12 Threads \nCPU Socket: AM4",
+    "additionalDetails": {
+      "regularPrice": "13,886৳",
+      "status": "In Stock",
+      "productCode": "22854",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 4500",
+        "Clock Speed: 3.6GHz; Up to 4.1GHz",
+        "L1 Cache: 384KB; L2 Cache: 3MB; L3 Cache: 8MB",
+        "6 Cores & 12 Threads",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.6GHz",
+      "Maximum Turbo Frequency": "4.1GHz",
+      "Cache": "Total L1 Cache: 384KB\nTotal L2 Cache: 3MB\nTotal L3 Cache: 16MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes\nAMD StoreMI Technology\nAMD \"Zen 2\" Core Architecture\nAMD Ryzen VR-Ready Premium",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600G Processor with Radeon Graphics (Chinese Edition)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600g/ryzen-5-5600g-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.9GHz up to 4.4GHz\nCache: L2: 3MB, L3: 16MB\nCores-6 & Threads-12\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "regularPrice": "14,110৳",
+      "status": "In Stock",
+      "productCode": "27569",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 5600G",
+        "Speed: 3.9GHz up to 4.4GHz",
+        "Cache: L2: 3MB, L3: 16MB",
+        "Cores-6 & Threads-12",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1900 MHz",
+      "Maximum Turbo Frequency": "4.4GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 16MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel Core i3-12100 12th Gen Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i3-12100/i3-12100-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.30 GHz Up to 4.30 GHz\nCache: 12MB, Socket: LGA 1700\nCPU Cores: 4, CPU Threads: 8\nGraphic: Intel UHD Graphics 730",
+    "additionalDetails": {
+      "regularPrice": "14,430৳",
+      "status": "In Stock",
+      "productCode": "20997",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i3-12100 12th Gen",
+        "Clock Speed: 3.30 GHz Up to 4.30 GHz",
+        "Cache: 12MB, Socket: LGA 1700",
+        "CPU Cores: 4, CPU Threads: 8",
+        "Graphic: Intel UHD Graphics 730",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "4.30 GHz",
+      "Cache": "12 MB Intel Smart Cache",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "60 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "76.8 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 730",
+      "Max Dynamic Frequency": "1.40 GHz",
+      "Max Resolution": "Max Resolution (HDMI)‡: 4096 x 2160 @ 60Hz\nMax Resolution (DP)‡: 7680 x 4320 @ 60Hz\nMax Resolution (eDP - Integrated Flat Panel)‡: 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 3600 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-3600x/ryzen-5-3600-228x228.jpg",
+    "price": "13,500৳",
+    "description": "Speed: 3.6GHz up to 4.2GHz\nCache: L2: 3MB, L3: 32MB\nCores-6 & Threads-12\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "cashDiscountPrice": "13,500৳",
+      "regularPrice": "14,500৳",
+      "status": "In Stock",
+      "productCode": "10171",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 3600",
+        "Speed: 3.6GHz up to 4.2GHz",
+        "Cache: L2: 3MB, L3: 32MB",
+        "Cores-6 & Threads-12",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.6GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 32MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Max Dynamic Frequency": "4.2GHz",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i3-13100F Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i3-13100/core-i3-13100-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.40 GHz up to 4.50 GHz\nCores: 4, Threads: 8\nCache: 12 MB\nSocket: LGA 1700",
+    "additionalDetails": {
+      "regularPrice": "14,850৳",
+      "status": "In Stock",
+      "productCode": "26701",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i3-13100F",
+        "Clock Speed: 3.40 GHz up to 4.50 GHz",
+        "Cores: 4, Threads: 8",
+        "Cache: 12 MB",
+        "Socket: LGA 1700",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.40 GHz",
+      "Maximum Turbo Frequency": "4.50 GHz",
+      "Cache": "12 MB Intel Smart Cache",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "58 W",
+      "cTDP": "89 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "76.8 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "3 years"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600g/ryzen-5-5600g-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.9GHz up to 4.4GHz\nCache: L2: 3MB, L3: 16MB\nCores-6 & Threads-12\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "regularPrice": "15,190৳",
+      "status": "In Stock",
+      "productCode": "16891",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 5600G",
+        "Speed: 3.9GHz up to 4.4GHz",
+        "Cache: L2: 3MB, L3: 16MB",
+        "Cores-6 & Threads-12",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1900 MHz",
+      "Maximum Turbo Frequency": "4.4GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 16MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.5GHz up to 4.4GHz\nCache: L2: 3MB, L3: 32MB; Cores-6 & Threads-12\nMemory Speed: DDR4 Up to 3200MHz\nAMD ZEN 3 Architecture",
+    "additionalDetails": {
+      "regularPrice": "15,520৳",
+      "status": "In Stock",
+      "productCode": "23200",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 5600",
+        "Speed: 3.5GHz up to 4.4GHz",
+        "Cache: L2: 3MB, L3: 32MB; Cores-6 & Threads-12",
+        "Memory Speed: DDR4 Up to 3200MHz",
+        "AMD ZEN 3 Architecture",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.5GHz",
+      "Maximum Turbo Frequency": "Up to 4.4GHz",
+      "Cache": "Total L1 Cache: 384KB\nTotal L2 Cache: 3MB\nTotal L3 Cache: 32MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "cTDP": "65W",
+      "Supported Technologies": "AMD \"Zen 3\" Core Architecture\nAMD StoreMI Technology\nAMD Ryzen Master Utility\nAMD Ryzen VR-Ready Premium",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 11th Gen Core i5-11400F Rocket Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-11400f/core-i5-11400f-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 2.60 GHz Up to 4.40 GHz\nCache: 12 MB, Socket: LGA 1200\nCPU Cores: 6, CPU Threads: 12\nMax RAM Size: 128 GB",
+    "additionalDetails": {
+      "regularPrice": "15,500৳",
+      "status": "In Stock",
+      "productCode": "16792",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5-11400F",
+        "Clock Speed: 2.60 GHz Up to 4.40 GHz",
+        "Cache: 12 MB, Socket: LGA 1200",
+        "CPU Cores: 6, CPU Threads: 12",
+        "Max RAM Size: 128 GB",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2.60 GHz",
+      "Maximum Turbo Frequency": "4.40 GHz",
+      "Cache": "12MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "3 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 1600X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-1600x/amd-ryzen-5-1600x-processor-02-228x228.jpg",
+    "price": "10,999৳",
+    "description": "Speed: 3.6GHz up to 4.0GHz\nL1 Cache: 576KB, L2 Cache: 3MB, L3 Cache: 16MB\nCores: 6, Threads: 12\nUp to 2667MHz DDR4",
+    "additionalDetails": {
+      "cashDiscountPrice": "10,999৳",
+      "regularPrice": "13,000৳",
+      "status": "In Stock",
+      "productCode": "19744",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 1600X",
+        "Speed: 3.6GHz up to 4.0GHz",
+        "L1 Cache: 576KB, L2 Cache: 3MB, L3 Cache: 16MB",
+        "Cores: 6, Threads: 12",
+        "Up to 2667MHz DDR4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.6GHz",
+      "Maximum Turbo Frequency": "Up to 4.0GHz",
+      "Cache": "Total L1 Cache: 576KB\nTotal L2 Cache: 3MB\nTotal L3 Cache: 16MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "95W",
+      "Supported Technologies": "AMD SenseMI Technology\nAMD \"Zen\" Core Architecture\nAMD Ryzen™ Master Utility\nVirtualization\nEnmotus FuzeDrive for AMD Ryzen\nAES\nAVX2\nFMA3\nXFR (Extended Frequency Range)",
+      "Maximum Speed": "Up to 2667MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 Months Warranty (No Warranty for Cooler or FAN)"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i3-13100 Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/core-i3-13100/core-i3-13100-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.40 GHz up to 4.50 GHz\nCores: 4, Threads: 8\nCache: 12 MB\nSocket: LGA 1700",
+    "additionalDetails": {
+      "regularPrice": "17,600৳",
+      "status": "In Stock",
+      "productCode": "26358",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i3-13100",
+        "Clock Speed: 3.40 GHz up to 4.50 GHz",
+        "Cores: 4, Threads: 8",
+        "Cache: 12 MB",
+        "Socket: LGA 1700",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "4.50 GHz",
+      "Cache": "12 MB Intel Smart Cache",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "60 W",
+      "cTDP": "89 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "89.6 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 730",
+      "Max Dynamic Frequency": "1.50 GHz",
+      "Max Resolution": "HDMI: 4096 x 2160 @ 60Hz\nDP: 7680 x 4320 @ 60Hz\neDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz",
+      "Core Count": "24",
+      "Manufacturing Warranty": "3 years"
+    }
+  },
+  {
+    "name": "Intel 10th Gen Core i5-10400 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i5-10400/i5-10400-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed:2.90 GHz up to 4.30 GHz\nCores-6 & Threads-12\n12 MB SmartCache\nIntel UHD Graphics 630",
+    "additionalDetails": {
+      "regularPrice": "18,480৳",
+      "status": "In Stock",
+      "productCode": "13120",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Core i5-10400",
+        "Clock Speed:2.90 GHz up to 4.30 GHz",
+        "Cores-6 & Threads-12",
+        "12 MB SmartCache",
+        "Intel UHD Graphics 630",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Maximum Turbo Frequency": "4.30 GHz",
+      "Cache": "12 MB SmartCache",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "2666",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 630",
+      "Max Dynamic Frequency": "1.10 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "Max Resolution (HDMI 1.4): 4096x2304@30Hz\nMax Resolution (DP)‡: 4096x2304@60Hz\nMax Resolution (eDP - Integrated Flat Panel): 4096x2304@60Hz",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years Warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 5th Gen Core i7 5930K Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i7-5930k/core-i7-5930k-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: up to 3.70 GHz\nCache: 15MB Intel Smart Cache\nCores: 6, Threads: 12\nSocket: LGA2011",
+    "additionalDetails": {
+      "regularPrice": "18,000৳",
+      "status": "In Stock",
+      "productCode": "25247",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7 5930K",
+        "Clock Speed: up to 3.70 GHz",
+        "Cache: 15MB Intel Smart Cache",
+        "Cores: 6, Threads: 12",
+        "Socket: LGA2011",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.50 GHz",
+      "Maximum Turbo Frequency": "3.70 GHz",
+      "Cache": "15 MB Intel Smart Cache",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "140 W",
+      "Maximum Size": "64 GB",
+      "Maximum Speed": "68 GB/s",
+      "Type": "DDR4 1600/1866/2133",
+      "Max Number of Channels": "4",
+      "Manufacturing Warranty": "1 Month"
+    }
+  },
+  {
+    "name": "Intel 11th Gen Core i5-11400 Rocket Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-11400/core-i5-11400-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 2.60 GHz Up to 4.40 GHz\nCache: 12 MB, Socket: LGA 1200\nCPU Cores: 6, CPU Threads: 12\nGPU name: Intel UHD Graphics 730",
+    "additionalDetails": {
+      "regularPrice": "19,000৳",
+      "status": "In Stock",
+      "productCode": "16749",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5-11400",
+        "Clock Speed: 2.60 GHz Up to 4.40 GHz",
+        "Cache: 12 MB, Socket: LGA 1200",
+        "CPU Cores: 6, CPU Threads: 12",
+        "GPU name: Intel UHD Graphics 730",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Maximum Turbo Frequency": "4.40 GHz",
+      "Cache": "12MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 730",
+      "Max Dynamic Frequency": "1.30 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "Max Resolution (HDMI): 4096x2160@60Hz\nMax Resolution (DP): 5120 x 3200 @60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @60Hz",
+      "Core Count": "24",
+      "Manufacturing Warranty": "3 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 12th Gen Core i5-12400F Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i5-12400/i5-12400-001-228x228.jpg",
+    "price": "N/A",
+    "description": "Base Clock Speed: 2.50 GHz Up to 4.40 GHz\nCache: 18 MB Intel Smart Cache\nCPU Cores: 6, CPU Threads: 12\nSupported Socket: LGA 1700",
+    "additionalDetails": {
+      "regularPrice": "19,530৳",
+      "status": "In Stock",
+      "productCode": "22301",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5-12400F",
+        "Base Clock Speed: 2.50 GHz Up to 4.40 GHz",
+        "Cache: 18 MB Intel Smart Cache",
+        "CPU Cores: 6, CPU Threads: 12",
+        "Supported Socket: LGA 1700",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2.50 GHz",
+      "Maximum Turbo Frequency": "4.40 GHz",
+      "Cache": "18 MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "Maximum Size": "256GB",
+      "Type": "DDR4 / DDR5",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 3400G Processor with Radeon RX Vega 11 Graphics (Tray)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-3400g-bulk/ryzen-5-3400g-bulk-228x228.jpg",
+    "price": "11,999৳",
+    "description": "Speed: 3.7GHz up to 4.2GHz\nCache: L2: 2MB, L3: 4MB\nCores-4 & Threads-8\nMemory Speed: Up to 2933MHz",
+    "additionalDetails": {
+      "cashDiscountPrice": "11,999৳",
+      "regularPrice": "20,000৳",
+      "status": "In Stock",
+      "productCode": "15978",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 3400G",
+        "Speed: 3.7GHz up to 4.2GHz",
+        "Cache: L2: 2MB, L3: 4MB",
+        "Cores-4 & Threads-8",
+        "Memory Speed: Up to 2933MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1400 MHz",
+      "Maximum Turbo Frequency": "4.2GHz",
+      "Cache": "Total L2 Cache: 2MB\nTotal L3 Cache: 4MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65W",
+      "Maximum Speed": "2933MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon RX Vega 11 Graphics",
+      "Core Count": "11",
+      "Manufacturing Warranty": "03 years"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper 1900X 8-core/16 thread Desktop Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-threadripper-228x228.png",
+    "price": "N/A",
+    "description": "Base 3.8 GHz to Max Turbo 4GHz \nCache- 768KB L1, 4MB L2, 16MB L3\nCores-8 & Threads-16\nAMD Ryzenâ„¢ VR-Ready Premium",
+    "additionalDetails": {
+      "regularPrice": "21,700৳",
+      "status": "In Stock",
+      "productCode": "6746",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen Threadripper 1900X",
+        "Base 3.8 GHz to Max Turbo 4GHz",
+        "Cache- 768KB L1, 4MB L2, 16MB L3",
+        "Cores-8 & Threads-16",
+        "AMD Ryzenâ„¢ VR-Ready Premium",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor Type": "AMD Ryzen Threadripper 1900X",
+      "Processor Speed": "3.8 GHz base and 4.0 GHz precision boost clocks",
+      "Processor Cache": "Total L1 Cache 768KB | Total L2 Cache 4MB| Total L3 Cache 16MB"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/5600x/5600x-001-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.7GHz Up to 4.6GHz\nL2 Cache: 3MB,  L3 Cache: 32MB\nCores: 6, Threads: 12\nUp to 3200MHz DDR4",
+    "additionalDetails": {
+      "regularPrice": "21,700৳",
+      "status": "In Stock",
+      "productCode": "15072",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 5600X",
+        "Speed: 3.7GHz Up to 4.6GHz",
+        "L2 Cache: 3MB,  L3 Cache: 32MB",
+        "Cores: 6, Threads: 12",
+        "Up to 3200MHz DDR4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.7GHz",
+      "Maximum Turbo Frequency": "Up to 4.6GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 32MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "cTDP": "65W",
+      "Supported Technologies": "AMD \"Zen 3\" Core Architecture\nAMD StoreMI Technology\nAMD Ryzen Master Utility\nAMD Ryzen VR-Ready Premium",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 5700G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-5700ge/ryzen-7-5700g-0010-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.8GHz up to 4.6GHz\nCache: L2: 4MB, L3: 16MB\nCores-8 & Threads-16\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "regularPrice": "21,700৳",
+      "status": "In Stock",
+      "productCode": "16892",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 5700G",
+        "Speed: 3.8GHz up to 4.6GHz",
+        "Cache: L2: 4MB, L3: 16MB",
+        "Cores-8 & Threads-16",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2000 MHz",
+      "Maximum Turbo Frequency": "4.6GHz",
+      "Cache": "Total L2 Cache: 4MB\nTotal L3 Cache: 16MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "8",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 5700X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/amd-ryzen-7-5700x/amd-ryzen-7-5700x-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.4GHz Up to 4.6GHz\nL2 Cache: 4MB, L3 Cache: 32MB\nCores: 8, Threads: 16\nUp to 3200MHz DDR4",
+    "additionalDetails": {
+      "regularPrice": "22,550৳",
+      "status": "In Stock",
+      "productCode": "22326",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 5700X",
+        "Speed: 3.4GHz Up to 4.6GHz",
+        "L2 Cache: 4MB, L3 Cache: 32MB",
+        "Cores: 8, Threads: 16",
+        "Up to 3200MHz DDR4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.4GHz",
+      "Maximum Turbo Frequency": "4.6GHz",
+      "Cache": "Total L1 Cache: 512KB\nTotal L2 Cache: 4MB\nTotal L3 Cache: 32MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "N/A",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i5 13400F Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core i5 13600K-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 2.50 GHz up to 4.60 GHz\nCache: 20 MB, Socket: LGA1700\nCPU Cores: 10, CPU Threads: 16\nMax RAM Size: 128 GB",
+    "additionalDetails": {
+      "regularPrice": "25,930৳",
+      "status": "In Stock",
+      "productCode": "26210",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5 13400F",
+        "Clock Speed: 2.50 GHz up to 4.60 GHz",
+        "Cache: 20 MB, Socket: LGA1700",
+        "CPU Cores: 10, CPU Threads: 16",
+        "Max RAM Size: 128 GB",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2.50 GHz",
+      "Maximum Turbo Frequency": "4.60 GHz",
+      "Cache": "20 MB",
+      "Cores": "10",
+      "Threads": "16",
+      "Default TDP": "65W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "76.8 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel Core i5-7640X X-series Kaby Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/Intel Core i5-7640X X-series/Intel Core i5-7640X X-series-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 4.00 GHz To 4.20 GHz \nCores: 4, Threads: 4\nCache: 6 MB \nMax No of PCI Express Lanes 16",
+    "additionalDetails": {
+      "regularPrice": "28,000৳",
+      "status": "In Stock",
+      "productCode": "6332",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5-7640X X-series",
+        "Speed: 4.00 GHz To 4.20 GHz",
+        "Cores: 4, Threads: 4",
+        "Cache: 6 MB",
+        "Max No of PCI Express Lanes 16",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Processor Type": "Intel® Core™ X-series Processors (6 MB Cache, 4.00 GHz Max Turbo Frequency 4.20 GHz)",
+      "Processor Speed": "4.00 GHz Max Turbo Frequency 4.20 GHz",
+      "Number Of Cores": "4",
+      "Number Of Threads": "4",
+      "Processor Cache": "6 MB Cache",
+      "Other Features": "Bus Speed: 8 GT/s DMI3 |\nMax Memory Size (dependent on memory type): 64 GB |\nMemory Types: DDR4-2666 |\nMax # of Memory Channels: 2 |\nECC Memory Supported ‡: No |\nProcessor Graphics ‡ : None |"
+    }
+  },
+  {
+    "name": "Intel 12th Gen Core i5-12500 Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i5-12500/i5-12500-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.00 GHz Up to 4.60 GHz\nCache: 18 MB, Socket: LGA 1700\nCPU Cores: 6, CPU Threads: 12\nGraphics: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "regularPrice": "28,050৳",
+      "status": "In Stock",
+      "productCode": "21065",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5-12500",
+        "Clock Speed: 3.00 GHz Up to 4.60 GHz",
+        "Cache: 18 MB, Socket: LGA 1700",
+        "CPU Cores: 6, CPU Threads: 12",
+        "Graphics: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "4.60 GHz",
+      "Cache": "18 MB Intel Smart Cache",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "76.8 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.45 GHz",
+      "Max Resolution": "HDMI: 4096 x 2160 @ 60Hz\nDP: 7680 x 4320 @ 60Hz\neDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz",
+      "Core Count": "32",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 7600 Gaming Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-7600/ryzen-5-7600-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.8GHz Up to 5.1GHz\nCores: 6, Threads: 12\nL2 Cache: 6MB, L3 Cache: 32MB\nSocket: AM5",
+    "additionalDetails": {
+      "regularPrice": "27,000৳",
+      "status": "In Stock",
+      "productCode": "28626",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 7600",
+        "Clock Speed: 3.8GHz Up to 5.1GHz",
+        "Cores: 6, Threads: 12",
+        "L2 Cache: 6MB, L3 Cache: 32MB",
+        "Socket: AM5",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.8GHz",
+      "Maximum Turbo Frequency": "Up to 5.1GHz",
+      "Cache": "Total L1 Cache: 384KB\nTotal L2 Cache: 6MB\nTotal L3 Cache: 32MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "Supported Technologies": "AMD EXPO Technology\nAMD Ryzen Technologies",
+      "Maximum Speed": "2x1R: DDR5-5200\n2x2R: DDR5-5200\n4x1R: DDR5-3600\n4x2R: DDR5-3600",
+      "Type": "DDR5",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "AMD Radeon Graphics",
+      "Max Dynamic Frequency": "2200 MHz",
+      "Core Count": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i5 13400 Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core i5 13600K-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 2.50 GHz up to 4.60 GHz\nCache: 20 MB, Socket: LGA1700\nCPU Cores: 10, CPU Threads: 16\nGraphics: Intel UHD Graphics 730",
+    "additionalDetails": {
+      "regularPrice": "28,750৳",
+      "status": "In Stock",
+      "productCode": "26209",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5 13400",
+        "Clock Speed: 2.50 GHz up to 4.60 GHz",
+        "Cache: 20 MB, Socket: LGA1700",
+        "CPU Cores: 10, CPU Threads: 16",
+        "Graphics: Intel UHD Graphics 730",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "4.60 GHz",
+      "Cache": "20 MB",
+      "Cores": "10",
+      "Threads": "16",
+      "Default TDP": "65W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "76.8 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 730",
+      "Max Dynamic Frequency": "1.55 GHz",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz\nMax Resolution (DP): 7680 x 4320 @ 60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 5800X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-5800x/ryzen-7-5800x-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.8GHz Up to 4.7GHz\nL2 Cache: 4MB, L3 Cache: 32MB\nCores: 8, Threads: 16\nSocket: AM4",
+    "additionalDetails": {
+      "regularPrice": "29,150৳",
+      "status": "In Stock",
+      "productCode": "15077",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 5800X",
+        "Clock Speed: 3.8GHz Up to 4.7GHz",
+        "L2 Cache: 4MB, L3 Cache: 32MB",
+        "Cores: 8, Threads: 16",
+        "Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.8GHz",
+      "Maximum Turbo Frequency": "Up to 4.7GHz",
+      "Cache": "Total L2 Cache: 4MB\nTotal L3 Cache: 32MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "105W",
+      "Supported Technologies": "AMD \"Zen 3\" Core Architecture\nAMD StoreMI Technology\nAMD Ryzen Master Utility\nAMD Ryzen VR-Ready Premium",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 10th Gen Core i7-10700 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i7-10700/i7-10700-228x228.jpg",
+    "price": "N/A",
+    "description": "Frequency:  2.90 GHz up to 4.8GHz\n16M Cache\n8 Core 16 Threads\nIntel UHD Graphics 630",
+    "additionalDetails": {
+      "regularPrice": "29,700৳",
+      "status": "In Stock",
+      "productCode": "13127",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Core i7-10700",
+        "Frequency:  2.90 GHz up to 4.8GHz",
+        "16M Cache",
+        "8 Core 16 Threads",
+        "Intel UHD Graphics 630",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Maximum Turbo Frequency": "4.80 GHz",
+      "Cache": "16 MB SmartCache",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "2933",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 630",
+      "Max Dynamic Frequency": "1.20 GHz",
+      "Max Resolution": "Max Resolution (HDMI 1.4): 4096x2160@30Hz\nMax Resolution (DP): 4096x2304@60Hz\nMax Resolution (eDP - Integrated Flat Panel): 4096 x 304 @60Hz",
+      "Core Count": "8",
+      "Manufacturing Warranty": "03 years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 11th Gen Core i7-11700 Rocket Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i7-11700/i7-11700-228x228.jpg",
+    "price": "N/A",
+    "description": "Clockspeed: 2.50 GHz Up to 4.90 GHz\nCache: 16 MB, Socket: LGA 1200\nCPU Cores: 8, CPU Threads: 16\nGPU name: Intel UHD Graphics 750",
+    "additionalDetails": {
+      "regularPrice": "32,010৳",
+      "status": "In Stock",
+      "productCode": "16039",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7-11700",
+        "Clockspeed: 2.50 GHz Up to 4.90 GHz",
+        "Cache: 16 MB, Socket: LGA 1200",
+        "CPU Cores: 8, CPU Threads: 16",
+        "GPU name: Intel UHD Graphics 750",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "0.40 GHz",
+      "Maximum Turbo Frequency": "4.90 GHz",
+      "Cache": "16MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 750",
+      "Max Dynamic Frequency": "1.35 GHz",
+      "Max Video Memory": "16 GB",
+      "Manufacturing Warranty": "3 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i5 13500 Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core i5 13600K-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 2.50 GHz up to 4.80 GHz\nCache: 24 MB, Socket: LGA1700\nCPU Cores: 14, CPU Threads: 20\nGraphics: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "26213",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5 13500",
+        "Clock Speed: 2.50 GHz up to 4.80 GHz",
+        "Cache: 24 MB, Socket: LGA1700",
+        "CPU Cores: 14, CPU Threads: 20",
+        "Graphics: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "4.80 GHz",
+      "Cache": "24 MB",
+      "Cores": "14",
+      "Threads": "20",
+      "Default TDP": "65W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "76.8 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.55 GHz",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz\nMax Resolution (DP): 7680 x 4320 @ 60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 Years warranty"
+    }
+  },
+  {
+    "name": "Intel 10th Gen Core i7-10700K Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i7-10700k/i7-10700k-228x228.jpg",
+    "price": "N/A",
+    "description": "Frequency:  3.80 GHz up to 5.1GHz\n16M Cache\n8 Core 16 Threads\nIntel UHD Graphics 630",
+    "additionalDetails": {
+      "regularPrice": "32,500৳",
+      "status": "In Stock",
+      "productCode": "13123",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7-10700K",
+        "Frequency:  3.80 GHz up to 5.1GHz",
+        "16M Cache",
+        "8 Core 16 Threads",
+        "Intel UHD Graphics 630",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Maximum Turbo Frequency": "5.10 GHz",
+      "Cache": "16 MB SmartCache",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "125 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "2933",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 630",
+      "Max Dynamic Frequency": "1.20 GHz",
+      "Max Resolution": "iGPU Max. Resolution: 4096x2304 (4K) @60Hz",
+      "Core Count": "8",
+      "Manufacturing Warranty": "03 years"
+    }
+  },
+  {
+    "name": "Intel 12th Gen Core i5-12600K Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i5-12600k/i5-12600k-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Base Clock: P-Core: 3.7 GHz, E-Core: 2.8 GHz\nMax. Boost: P-Core: 4.9 GHz, E-Core: 3.6 GHz\nCache: 20MB, Socket: LGA 1700\nCPU Cores: 10, CPU Threads: 16",
+    "additionalDetails": {
+      "regularPrice": "34,190৳",
+      "status": "In Stock",
+      "productCode": "19703",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5-12600K",
+        "Base Clock: P-Core: 3.7 GHz, E-Core: 2.8 GHz",
+        "Max. Boost: P-Core: 4.9 GHz, E-Core: 3.6 GHz",
+        "Cache: 20MB, Socket: LGA 1700",
+        "CPU Cores: 10, CPU Threads: 16",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "P-Core Turbo: 4.9 GHz\nE-Core Turbo: 3.6 GHz",
+      "Cache": "20 MB",
+      "Cores": "10",
+      "Threads": "16",
+      "Maximum Size": "128GB",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.45 GHz",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz\nMax Resolution (DP): 7680 x 4320 @ 60Hz",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel 12th Gen Core i7-12700 Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i7-12700/i7-12700-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 2.10 GHz Up to 4.80 GHz\nCache: 25MB, Socket: LGA 1700\nCPU Cores: 12, CPU Threads: 20\nGPU: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "regularPrice": "37,980৳",
+      "status": "In Stock",
+      "productCode": "19501",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7-12700",
+        "Clock Speed: 2.10 GHz Up to 4.80 GHz",
+        "Cache: 25MB, Socket: LGA 1700",
+        "CPU Cores: 12, CPU Threads: 20",
+        "GPU: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "4.80 GHz",
+      "Cache": "25MB",
+      "Cores": "12",
+      "Threads": "20",
+      "Default TDP": "65W",
+      "Maximum Size": "256GB",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.50 GHz",
+      "Max Resolution": "HDMI: 4096 x 2160 @ 60Hz\nDP: 7680 x 4320 @ 60Hz\neDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i5 13600KF Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600kf/core-i5-13600kf-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.50 GHz up to 5.10 GHz\nCache: 24 MB Intel Smart Cache\nCPU Cores: 14, CPU Threads: 20\nSocket: LGA1700",
+    "additionalDetails": {
+      "regularPrice": "37,500৳",
+      "status": "In Stock",
+      "productCode": "24878",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5 13600KF",
+        "Clock Speed: 3.50 GHz up to 5.10 GHz",
+        "Cache: 24 MB Intel Smart Cache",
+        "CPU Cores: 14, CPU Threads: 20",
+        "Socket: LGA1700",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.50 GHz",
+      "Maximum Turbo Frequency": "5.10 GHz",
+      "Cache": "24 MB",
+      "Cores": "14",
+      "Threads": "20",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i5 13600K Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-13600k/Core i5 13600K-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.50 GHz up to 5.10 GHz\nCache: 24 MB, Socket: LGA1700\nCPU Cores: 14, CPU Threads: 20\nGraphics: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "regularPrice": "38,500৳",
+      "status": "In Stock",
+      "productCode": "24880",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5 13600K",
+        "Clock Speed: 3.50 GHz up to 5.10 GHz",
+        "Cache: 24 MB, Socket: LGA1700",
+        "CPU Cores: 14, CPU Threads: 20",
+        "Graphics: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "5.10 GHz",
+      "Cache": "24 MB",
+      "Cores": "14",
+      "Threads": "20",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.50 GHz",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz\nMax Resolution (DP): 7680 x 4320 @ 60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "AMD Ryzen 9 5900X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-5900x/ryzen-9-5900x-001-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.7GHz Up to 4.8GHz\nL2 Cache: 6MB, L3 Cache: 64MB\nCores: 12, Threads: 24\nUp to 3200MHz DDR4",
+    "additionalDetails": {
+      "regularPrice": "44,550৳",
+      "status": "In Stock",
+      "productCode": "15078",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 9 5900X",
+        "Speed: 3.7GHz Up to 4.8GHz",
+        "L2 Cache: 6MB, L3 Cache: 64MB",
+        "Cores: 12, Threads: 24",
+        "Up to 3200MHz DDR4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.7GHz",
+      "Maximum Turbo Frequency": "Up to 4.8GHz",
+      "Cache": "Total L2 Cache: 6MB\nTotal L3 Cache: 64MB",
+      "Cores": "12",
+      "Threads": "24",
+      "Default TDP": "105W",
+      "Supported Technologies": "AMD \"Zen 3\" Core Architecture\nAMD StoreMI Technology\nAMD Ryzen Master Utility\nAMD Ryzen VR-Ready Premium",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 7700X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-7700x/ryzen-7-7700x-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 4.5GHz Up to 5.4GHz\nCores: 8, Threads: 16\nL2 Cache: 8MB, L3 Cache: 32MB\nSocket: AM5",
+    "additionalDetails": {
+      "regularPrice": "44,550৳",
+      "status": "In Stock",
+      "productCode": "24216",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 7700X",
+        "Clock Speed: 4.5GHz Up to 5.4GHz",
+        "Cores: 8, Threads: 16",
+        "L2 Cache: 8MB, L3 Cache: 32MB",
+        "Socket: AM5",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "400 MHz",
+      "Maximum Turbo Frequency": "Up to 5.4GHz",
+      "Cache": "Total L1 Cache: 512KB\nTotal L2 Cache: 8MB\nTotal L3 Cache: 32MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "105W",
+      "Supported Technologies": "AMD EXPO Technology\nAMD Ryzen Technologies",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "AMD Radeon Graphics",
+      "Max Dynamic Frequency": "2200 MHz",
+      "Core Count": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 5800X3D Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-5800x3d/ryzen-7-5800x3d-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.4GHz up to 4.5GHz\nCache: L1: 512KB, L2: 4MB, L3: 96MB\nCPU Cores: 8, Threads: 16\nCPU Socket: AM4",
+    "additionalDetails": {
+      "regularPrice": "43,658৳",
+      "status": "In Stock",
+      "productCode": "22564",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 5800X3D",
+        "Speed: 3.4GHz up to 4.5GHz",
+        "Cache: L1: 512KB, L2: 4MB, L3: 96MB",
+        "CPU Cores: 8, Threads: 16",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.4GHz",
+      "Maximum Turbo Frequency": "Up to 4.5GHz",
+      "Cache": "L1 Cache: 512KB\nL2 Cache: 4MB\nL3 Cache: 96MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "105W",
+      "Supported Technologies": "AMD 3D V-Cache Technology\nWindows 11 Gaming\nAMD \"Zen 3\" Core Architecture\nAMD Ryzen VR-Ready Premium",
+      "Maximum Speed": "2x1R: DDR4-3200\n2x2R: DDR4-3200\n4x1R: DDR4-2933\n4x2R: DDR4-2667",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 9 3900X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-3900x/ryzen-9-3900x-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.8GHz up to 4.6GHz\nCache: L2: 6MB, L3: 64MB\nCores-12 & Threads-24\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "regularPrice": "47,300৳",
+      "status": "In Stock",
+      "productCode": "10291",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 9 3900X",
+        "Speed: 3.8GHz up to 4.6GHz",
+        "Cache: L2: 6MB, L3: 64MB",
+        "Cores-12 & Threads-24",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.8GHz",
+      "Maximum Turbo Frequency": "4.6GHz",
+      "Cache": "Total L2 Cache: 6MB\nTotal L3 Cache: 64MB",
+      "Cores": "12",
+      "Threads": "24",
+      "Default TDP": "105W",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 12th Gen Core i7-12700K Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i7-12700k/i7-12700k-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.60 GHz Up to 5.0 GHz\nCores: 12, Threads: 20\nCache: 25 MB Intel Smart Cache\nSocket: LGA 1700",
+    "additionalDetails": {
+      "regularPrice": "41,800৳",
+      "status": "In Stock",
+      "productCode": "19449",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7-12700K",
+        "Clock Speed: 3.60 GHz Up to 5.0 GHz",
+        "Cores: 12, Threads: 20",
+        "Cache: 25 MB Intel Smart Cache",
+        "Socket: LGA 1700",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.60 GHz",
+      "Maximum Turbo Frequency": "5.0 GHz",
+      "Cache": "25MB",
+      "Cores": "12",
+      "Threads": "20",
+      "Default TDP": "125W",
+      "Maximum Size": "256GB",
+      "Type": "DDR5 and DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i7 13700KF Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i7-13700kf/core-i7-13700kf-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.40 GHz up to 5.40 GHz\nCache: 30 MB Intel Smart Cache\nCPU Cores: 16, CPU Threads: 24\nSocket: LGA1700",
+    "additionalDetails": {
+      "regularPrice": "48,950৳",
+      "status": "In Stock",
+      "productCode": "24867",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7 13700KF",
+        "Clock Speed: 3.40 GHz up to 5.40 GHz",
+        "Cache: 30 MB Intel Smart Cache",
+        "CPU Cores: 16, CPU Threads: 24",
+        "Socket: LGA1700",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.40 GHz",
+      "Maximum Turbo Frequency": "5.40 GHz",
+      "Cache": "30 MB",
+      "Cores": "16",
+      "Threads": "24",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i7 13700 Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i7-13700k/core-i7-13700k-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 2.10 GHz GHz up to 5.20 GHz\nCache: 30 MB, Socket: LGA1700\nCPU Cores: 16, CPU Threads: 24\nGraphics: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "regularPrice": "48,200৳",
+      "status": "In Stock",
+      "productCode": "26214",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7-13700",
+        "Clock Speed: 2.10 GHz GHz up to 5.20 GHz",
+        "Cache: 30 MB, Socket: LGA1700",
+        "CPU Cores: 16, CPU Threads: 24",
+        "Graphics: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "5.40 GHz",
+      "Cache": "30 MB",
+      "Cores": "16",
+      "Threads": "24",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "89.6 GB/s",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.60 GHz",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz\nMax Resolution (DP): 7680 x 4320 @ 60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i7 13700K Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i7-13700k/core-i7-13700k-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.40 GHz up to 5.40 GHz\nCache: 30 MB, Socket: LGA1700\nCPU Cores: 16, CPU Threads: 24\nGraphics: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "regularPrice": "50,550৳",
+      "status": "In Stock",
+      "productCode": "24870",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7 13700K",
+        "Clock Speed: 3.40 GHz up to 5.40 GHz",
+        "Cache: 30 MB, Socket: LGA1700",
+        "CPU Cores: 16, CPU Threads: 24",
+        "Graphics: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "5.40 GHz",
+      "Cache": "30 MB",
+      "Cores": "16",
+      "Threads": "24",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.60 GHz",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz\nMax Resolution (DP): 7680 x 4320 @ 60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "AMD Ryzen 9 7900X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-7950x/ryzen-9-7950x-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 4.7GHz Up to 5.6GHz\nCores: 12, Threads: 24\nL2 Cache: 12MB, L3 Cache: 64MB\nSocket: AM5",
+    "additionalDetails": {
+      "regularPrice": "58,300৳",
+      "status": "In Stock",
+      "productCode": "24215",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 9 7900X",
+        "Clock Speed: 4.7GHz Up to 5.6GHz",
+        "Cores: 12, Threads: 24",
+        "L2 Cache: 12MB, L3 Cache: 64MB",
+        "Socket: AM5",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "400 MHz",
+      "Maximum Turbo Frequency": "Up to 5.6GHz",
+      "Cache": "Total L1 Cache: 768KB\nTotal L2 Cache: 12MB\nTotal L3 Cache: 64MB",
+      "Cores": "12",
+      "Threads": "24",
+      "Default TDP": "170W",
+      "Supported Technologies": "AMD EXPO Technology\nAMD Ryzen Technologies",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "AMD Radeon Graphics",
+      "Max Dynamic Frequency": "2200 MHz",
+      "Core Count": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 7800X3D Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-7800x3d/ryzen-7-7800x3d-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 4.2GHz Up to 5.0GHz\nCores: 8, Threads: 16\nL1 Cache: 512KB, L2 Cache: 8MB, L3 Cache: 96MB\nSocket: AM5",
+    "additionalDetails": {
+      "regularPrice": "57,750৳",
+      "status": "In Stock",
+      "productCode": "27897",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 7800X3D",
+        "Clock Speed: 4.2GHz Up to 5.0GHz",
+        "Cores: 8, Threads: 16",
+        "L1 Cache: 512KB, L2 Cache: 8MB, L3 Cache: 96MB",
+        "Socket: AM5",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "4.2GHz",
+      "Maximum Turbo Frequency": "Up to 5.0GHz",
+      "Cache": "Total L1 Cache: 512KB\nTotal L2 Cache: 8MB\nTotal L3 Cache: 96MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "120W",
+      "Supported Technologies": "AMD EXPO Technology\nAMD Ryzen Technologies",
+      "Maximum Speed": "2x1R: DDR5-5200\n2x2R: DDR5-5200\n4x1R: DDR5-3600\n4x2R: DDR5-3600",
+      "Type": "DDR5",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "AMD Radeon Graphics",
+      "Max Dynamic Frequency": "2200 MHz",
+      "Core Count": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 12th Gen Core i9-12900K Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i9-12900k/i9-12900k-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.70 GHz Up to 5.20 GHz\nCache: 30 MB, Socket: LGA 1700\nCPU Cores: 16, CPU Threads: 24\nGPU name: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "regularPrice": "61,740৳",
+      "status": "In Stock",
+      "productCode": "19446",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i9-12900K",
+        "Clock Speed: 3.70 GHz Up to 5.20 GHz",
+        "Cache: 30 MB, Socket: LGA 1700",
+        "CPU Cores: 16, CPU Threads: 24",
+        "GPU name: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.70 GHz",
+      "Maximum Turbo Frequency": "5.20 GHz",
+      "Cache": "30MB",
+      "Cores": "16",
+      "Threads": "24",
+      "Default TDP": "125W",
+      "Maximum Size": "256GB",
+      "Type": "DDR4 / DDR5",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "AMD Ryzen 9 5950X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-5950x/ryzen-9-5950x-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.4GHz Up to 4.9GHz\nL2 Cache: 8MB, L3 Cache: 64MB\nCores: 16, Threads: 32\nUp to 3200MHz DDR4 Memory",
+    "additionalDetails": {
+      "regularPrice": "67,600৳",
+      "status": "In Stock",
+      "productCode": "15099",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 9 5950X",
+        "Speed: 3.4GHz Up to 4.9GHz",
+        "L2 Cache: 8MB, L3 Cache: 64MB",
+        "Cores: 16, Threads: 32",
+        "Up to 3200MHz DDR4 Memory",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.4GHz",
+      "Maximum Turbo Frequency": "Up to 4.9GHz",
+      "Cache": "Total L2 Cache: 8MB\nTotal L3 Cache: 64MB",
+      "Cores": "16",
+      "Threads": "32",
+      "Default TDP": "105W",
+      "Supported Technologies": "AMD \"Zen 3\" Core Architecture\nAMD StoreMI Technology\nAMD Ryzen Master Utility\nAMD Ryzen VR-Ready Premium",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i9 13900KF Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i9-13900kf/core-i9-13900kf-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.00 GHz GHz up to 5.80 GHz \nCache: 36 MB Intel Smart Cache\nCPU Cores: 24, CPU Threads: 32\nSocket: LGA1700",
+    "additionalDetails": {
+      "regularPrice": "70,400৳",
+      "status": "In Stock",
+      "productCode": "24883",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i9 13900KF",
+        "Clock Speed: 3.00 GHz GHz up to 5.80 GHz",
+        "Cache: 36 MB Intel Smart Cache",
+        "CPU Cores: 24, CPU Threads: 32",
+        "Socket: LGA1700",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.00 GHz",
+      "Maximum Turbo Frequency": "5.80 GHz",
+      "Cache": "36M",
+      "Cores": "24",
+      "Threads": "32",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i9 13900K Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i9-13900k/core-i9-13900k-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.00 GHz up to 5.80 GHz\nCache: 36 MB Intel Smart Cache\nCPU Cores: 24, CPU Threads: 32\nSocket: LGA1700",
+    "additionalDetails": {
+      "regularPrice": "74,800৳",
+      "status": "In Stock",
+      "productCode": "24864",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i9 13900K",
+        "Clock Speed: 3.00 GHz up to 5.80 GHz",
+        "Cache: 36 MB Intel Smart Cache",
+        "CPU Cores: 24, CPU Threads: 32",
+        "Socket: LGA1700",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "5.80 GHz",
+      "Cache": "36 MB",
+      "Cores": "24",
+      "Threads": "32",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.65 GHz",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz\nMax Resolution (DP): 7680 x 4320 @ 60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "AMD Ryzen 9 7950X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-7950x/ryzen-9-7950x-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 4.5GHz Up to 5.7GHz\nCores: 16, Threads: 32\nL2 Cache: 16MB, L3 Cache: 64MB\nSocket: AM5",
+    "additionalDetails": {
+      "regularPrice": "76,780৳",
+      "status": "In Stock",
+      "productCode": "24212",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 9 7950X",
+        "Clock Speed: 4.5GHz Up to 5.7GHz",
+        "Cores: 16, Threads: 32",
+        "L2 Cache: 16MB, L3 Cache: 64MB",
+        "Socket: AM5",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "400 MHz",
+      "Maximum Turbo Frequency": "Up to 5.7GHz",
+      "Cache": "Total L1 Cache: 1MB\nTotal L2 Cache: 16MB\nTotal L3 Cache: 64MB",
+      "Cores": "16",
+      "Threads": "32",
+      "Default TDP": "170W",
+      "Supported Technologies": "AMD EXPO Technology\nAMD Ryzen Technologies",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "AMD Radeon Graphics",
+      "Max Dynamic Frequency": "2200 MHz",
+      "Core Count": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5965WX Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-threadripper-pro-5965wx/ryzen-threadripper-pro-5965wx-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.8GHz up to 4.5GHz\nCache: L2: 12MB, L3: 128MB\nCores: 24, Threads: 48\nCPU Socket: sWRX8",
+    "additionalDetails": {
+      "regularPrice": "299,200৳",
+      "status": "In Stock",
+      "productCode": "29002",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen Threadripper PRO 5965WX",
+        "Speed: 3.8GHz up to 4.5GHz",
+        "Cache: L2: 12MB, L3: 128MB",
+        "Cores: 24, Threads: 48",
+        "CPU Socket: sWRX8",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.8GHz",
+      "Maximum Turbo Frequency": "Up to 4.5GHz",
+      "Cache": "L1 Cache: 1.5MB\nL2 Cache: 12MB\nL3 Cache: 128MB",
+      "Cores": "24",
+      "Threads": "48",
+      "Default TDP": "280W",
+      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "8",
+      "Processor Graphics": "Discrete Graphics Card Required",
+      "Manufacturing Warranty": "03 years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5975WX Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-threadripper-pro-5965wx/ryzen-threadripper-pro-5965wx-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.6GHz up to 4.5GHz\nCache: L2: 16MB, L3: 128MB\nCores: 32, Threads: 64\nCPU Socket: sWRX8",
+    "additionalDetails": {
+      "regularPrice": "341,000৳",
+      "status": "In Stock",
+      "productCode": "29004",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen Threadripper PRO 5975WX",
+        "Speed: 3.6GHz up to 4.5GHz",
+        "Cache: L2: 16MB, L3: 128MB",
+        "Cores: 32, Threads: 64",
+        "CPU Socket: sWRX8",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.6GHz",
+      "Maximum Turbo Frequency": "Up to 4.5GHz",
+      "Cache": "L1 Cache: 2MB\nL2 Cache: 16MB\nL3 Cache: 128MB",
+      "Cores": "32",
+      "Threads": "64",
+      "Default TDP": "280W",
+      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "8",
+      "Processor Graphics": "Discrete Graphics Card Required",
+      "Manufacturing Warranty": "03 years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen Threadripper PRO 5995WX Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-threadripper-pro-5995wx/ryzen-threadripper-pro-5995wx-228x228.webp",
+    "price": "N/A",
+    "description": "Speed: 2.7GHz up to 4.5GHz\nCache: L2: 32MB, L3: 256MB\nCores: 64, Threads: 128\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "regularPrice": "753,500৳",
+      "status": "In Stock",
+      "productCode": "27994",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen Threadripper PRO 5995WX",
+        "Speed: 2.7GHz up to 4.5GHz",
+        "Cache: L2: 32MB, L3: 256MB",
+        "Cores: 64, Threads: 128",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2.7GHz",
+      "Maximum Turbo Frequency": "Up to 4.5GHz",
+      "Cache": "Total L1 Cache: 4MB\nTotal L2 Cache: 32MB\nTotal L3 Cache: 256MB",
+      "Cores": "64",
+      "Threads": "128",
+      "Default TDP": "280W",
+      "Supported Technologies": "AMD \"Zen 3\" Core Architecture",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "8",
+      "Processor Graphics": "No\nDiscrete Graphics Card Required",
+      "Manufacturing Warranty": "03 years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 3800XT Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-3800xt/ryzen-7-3800xt-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.9GHz up to 4.7GHz\nCache: L2: 4MB, L3: 32MB\nCores-8 & Threads-16\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "16871",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 3800XT",
+        "Speed: 3.9GHz up to 4.7GHz",
+        "Cache: L2: 4MB, L3: 32MB",
+        "Cores-8 & Threads-16",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.9GHz",
+      "Maximum Turbo Frequency": "4.7GHz",
+      "Cache": "Total L2 Cache: 4MB\nTotal L3 Cache: 32MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "105W",
+      "Supported Technologies": "AMD StoreMI Technology\nAMD Ryzen Master Utility",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 5700GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-5700ge/ryzen-7-5700ge-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.2GHz up to 4.6GHz\nCache: L2: 4MB, L3: 16MB\nCores-8 & Threads-16\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "17028",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 5700GE",
+        "Speed: 3.2GHz up to 4.6GHz",
+        "Cache: L2: 4MB, L3: 16MB",
+        "Cores-8 & Threads-16",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2000 MHz",
+      "Maximum Turbo Frequency": "4.6GHz",
+      "Cache": "Total L2 Cache: 4MB\nTotal L3 Cache: 16MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "8",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 5600GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-5600ge/ryzen-5-5600ge-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.9GHz up to 4.4GHz\nCache: L2: 3MB, L3: 16MB\nCores-6 & Threads-12\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "17036",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 5600GE",
+        "Speed: 3.9GHz up to 4.4GHz",
+        "Cache: L2: 3MB, L3: 16MB",
+        "Cores-6 & Threads-12",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1900 MHz",
+      "Maximum Turbo Frequency": "4.4GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 16MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 5300G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-5300g/ryzen-3-5300g-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 4.0GHz up to 4.2GHz\nCache: L2: 2MB, L3: 8MB\nCores-4 & Threads-8\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "17037",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 5300G",
+        "Speed: 4.0GHz up to 4.2GHz",
+        "Cache: L2: 2MB, L3: 8MB",
+        "Cores-4 & Threads-8",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1700 MHz",
+      "Maximum Turbo Frequency": "4.2GHz",
+      "Cache": "Total L2 Cache: 2MB\nTotal L3 Cache: 8MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 5300GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-5300ge/ryzen-3-5300ge-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.6GHz up to 4.2GHz\nCache: L2: 2MB, L3: 8MB\nCores-4 & Threads-8\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "17038",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 5300GE",
+        "Speed: 3.6GHz up to 4.2GHz",
+        "Cache: L2: 2MB, L3: 8MB",
+        "Cores-4 & Threads-8",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1700 MHz",
+      "Maximum Turbo Frequency": "4.2GHz",
+      "Cache": "Total L2 Cache: 2MB\nTotal L3 Cache: 8MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 4300G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-4300g/ryzen-3-4300g-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.8GHz up to 4.0GHz\nCache: L2: 3MB, L3: 4MB\nCores-4 & Threads-8\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "17041",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 4300G",
+        "Speed: 3.8GHz up to 4.0GHz",
+        "Cache: L2: 3MB, L3: 4MB",
+        "Cores-4 & Threads-8",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1700 MHz",
+      "Maximum Turbo Frequency": "4.0GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 4MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 4700GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-4700ge/ryzen-7-4700ge-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.1GHz up to 4.3GHz\nCache: L2: 4MB, L3: 8MB\nCores-8 & Threads-16\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "17042",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 4700GE",
+        "Speed: 3.1GHz up to 4.3GHz",
+        "Cache: L2: 4MB, L3: 8MB",
+        "Cores-8 & Threads-16",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2000 MHz",
+      "Maximum Turbo Frequency": "4.3GHz",
+      "Cache": "Total L2 Cache: 4MB\nTotal L3 Cache: 8MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "Up to 3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "8",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 4600GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-4600ge/ryzen-5-4600ge-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.3GHz up to 4.2GHz\nCache: L2: 3MB, L3: 8MB\nCores-6 & Threads-12\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "17043",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 4600GE",
+        "Speed: 3.3GHz up to 4.2GHz",
+        "Cache: L2: 3MB, L3: 8MB",
+        "Cores-6 & Threads-12",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1900 MHz",
+      "Maximum Turbo Frequency": "4.2GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 8MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 4300GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-3-4300ge/ryzen-3-4300ge-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.5GHz up to 4.0GHz\nCache: L2: 2MB, L3: 4MB\nCores-4 & Threads-8\nMemory Speed: Up to 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "17044",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 4300GE",
+        "Speed: 3.5GHz up to 4.0GHz",
+        "Cache: L2: 2MB, L3: 4MB",
+        "Cores-4 & Threads-8",
+        "Memory Speed: Up to 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1700 MHz",
+      "Maximum Turbo Frequency": "4.0GHz",
+      "Cache": "Total L2 Cache: 2MB\nTotal L3 Cache: 4MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 5650G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-5-pro-5650g/ryzen-5-pro-5650g-01-228x228.webp",
+    "price": "N/A",
+    "description": "Speed: 3.9GHz up to 4.4GHz\nCache: L2: 3MB, L3: 16MB\nCores-6 & Threads-12\nCPU Socket: AM4",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "23963",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 5650G",
+        "Speed: 3.9GHz up to 4.4GHz",
+        "Cache: L2: 3MB, L3: 16MB",
+        "Cores-6 & Threads-12",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1900 MHz",
+      "Maximum Turbo Frequency": "4.4GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 16MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 5650GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-5-pro-5650g/ryzen-5-pro-5650g-01-228x228.webp",
+    "price": "N/A",
+    "description": "Speed: 3.4GHz up to 4.4GHz\nCache: L2: 3MB, L3: 16MB\nCores-6 & Threads-12\nCPU Socket: AM4",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "23964",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 PRO 5650GE",
+        "Speed: 3.4GHz up to 4.4GHz",
+        "Cache: L2: 3MB, L3: 16MB",
+        "Cores-6 & Threads-12",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1900 MHz",
+      "Maximum Turbo Frequency": "4.4GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 16MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Size": "TSMC 7nm FinFET",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 5750G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-7-pro-5750g/ryzen-7-pro-5750g-01-228x228.webp",
+    "price": "N/A",
+    "description": "Speed: 3.8GHz up to 4.4GHz\nCache: L2: 4MB, L3: 16MB\nCores-8 & Threads-16\nCPU Socket: AM4",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "23965",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 PRO 5750G",
+        "Speed: 3.8GHz up to 4.4GHz",
+        "Cache: L2: 4MB, L3: 16MB",
+        "Cores-8 & Threads-16",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2000 MHz",
+      "Maximum Turbo Frequency": "Up to 4.6GHz",
+      "Cache": "Total L2 Cache: 4MB\nTotal L3 Cache: 16MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Size": "TSMC 7nm FinFET",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 PRO 5750GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-7-pro-5750g/ryzen-7-pro-5750g-01-228x228.webp",
+    "price": "N/A",
+    "description": "Speed: 3.2GHz up to 4.6GHz\nCache: L2: 4MB, L3: 16MB\nCores-8 & Threads-16\nCPU Socket: AM4",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "23967",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 PRO 5750GE",
+        "Speed: 3.2GHz up to 4.6GHz",
+        "Cache: L2: 4MB, L3: 16MB",
+        "Cores-8 & Threads-16",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2000 MHz",
+      "Maximum Turbo Frequency": "Up to 4.6GHz",
+      "Cache": "Total L2 Cache: 4MB\nTotal L3 Cache: 16MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Size": "TSMC 7nm FinFET",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 PRO 5350G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-pro-5350g/ryzen-3-pro-5350g-01-228x228.webp",
+    "price": "N/A",
+    "description": "Speed: 4.0GHz up to 4.2GHz\nCache: L2: 2MB, L3: 8MB\nCores-4 & Threads-8\nCPU Socket: AM4",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "23969",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 PRO 5350G",
+        "Speed: 4.0GHz up to 4.2GHz",
+        "Cache: L2: 2MB, L3: 8MB",
+        "Cores-4 & Threads-8",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "Up to 3200MHz",
+      "Maximum Turbo Frequency": "Up to 4.2GHz",
+      "Cache": "Total L2 Cache: 2MB\nTotal L3 Cache: 8MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Size": "TSMC 7nm FinFET",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics\nGraphics Frequency: 1700 MHz",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 PRO 5350GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-pro-5350g/ryzen-3-pro-5350g-01-228x228.webp",
+    "price": "N/A",
+    "description": "Speed: 3.6GHz up to 4.2GHz\nCache: L2: 2MB, L3: 8MB\nCores-4 & Threads-8\nCPU Socket: AM4",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "23970",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 PRO 5350GE",
+        "Speed: 3.6GHz up to 4.2GHz",
+        "Cache: L2: 2MB, L3: 8MB",
+        "Cores-4 & Threads-8",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "Up to 3200MHz",
+      "Maximum Turbo Frequency": "Up to 4.2GHz",
+      "Cache": "Total L2 Cache: 2MB\nTotal L3 Cache: 8MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "35W",
+      "Supported Technologies": "Display Port: Yes\nHDMI: Yes",
+      "Maximum Size": "TSMC 7nm FinFET",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics\nGraphics Frequency: 1700 MHz",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 PRO 4650GE Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-5-pro-4650ge/ryzen-5-pro-4650ge-01-228x228.webp",
+    "price": "N/A",
+    "description": "Speed: 3.3GHz up to 4.2GHz\nCache: L2: 3MB, L3: 8MB\nCores-6 & Threads-12\nCPU Socket: AM4",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "23971",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 PRO 4650GE",
+        "Speed: 3.3GHz up to 4.2GHz",
+        "Cache: L2: 3MB, L3: 8MB",
+        "Cores-6 & Threads-12",
+        "CPU Socket: AM4",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1900 MHz",
+      "Maximum Turbo Frequency": "4.2GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 8MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "35W",
+      "cTDP": "45-65W",
+      "Supported Technologies": "AMD PRO technologies\nDisplay Port: Yes\nHDMI: Yes",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "7",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel Pentium Gold G6405 Coffee Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/pentium-gold-g6405/pentium-gold-g6405-01-228x228.webp",
+    "price": "N/A",
+    "description": "Socket Supported FCLGA1200\nSpeed 4.10 GHz, Cores- 2 & Threads- 4\n4M Intel Smart Cache\nIntel UHD Graphics 610",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "19087",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Pentium Gold G6405",
+        "Socket Supported FCLGA1200",
+        "Speed 4.10 GHz, Cores- 2 & Threads- 4",
+        "4M Intel Smart Cache",
+        "Intel UHD Graphics 610",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Cache": "4 MB Intel Smart Cache",
+      "Cores": "2",
+      "Threads": "4",
+      "Default TDP": "58 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "41.6 GB/s",
+      "Type": "DDR4-2666",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 610",
+      "Max Dynamic Frequency": "1.05 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "Max Resolution (HDMI): 4096x2160@30Hz\nMax Resolution (DP): 4096x2304@60Hz\nMax Resolution (eDP - Integrated Flat Panel): 4096x2304@60Hz",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 11th Gen Core i5-11500 Rocket Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i5-11500/core-i5-11500-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 2.70 GHz Up to 4.60 GHz\nCache: 12 MB, Socket: LGA 1200\nCPU Cores: 6, CPU Threads: 12\nGPU name: Intel UHD Graphics 750",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "16789",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i5-11500 11th Gen",
+        "Clock Speed: 2.70 GHz Up to 4.60 GHz",
+        "Cache: 12 MB, Socket: LGA 1200",
+        "CPU Cores: 6, CPU Threads: 12",
+        "GPU name: Intel UHD Graphics 750",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Maximum Turbo Frequency": "4.60 GHz",
+      "Cache": "12MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 750",
+      "Max Dynamic Frequency": "1.30 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "4K Support: Yes, at 60Hz\nMax Resolution (HDMI): 4096x2160@60Hz\nMax Resolution (DP): 5120 x 3200 @60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @60Hz",
+      "Core Count": "32",
+      "Manufacturing Warranty": "3 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 Pro 4750G with Radeon RX Vega Graphics Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-7-pro-4750g/ryzen-7-pro-4750g-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.6GHz up to 4.4GHz\nCache: L2: 4MB, L3: 8MB\nCores-8 & Threads-16\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "16750",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 Pro 4750G",
+        "Speed: 3.6GHz up to 4.4GHz",
+        "Cache: L2: 4MB, L3: 8MB",
+        "Cores-8 & Threads-16",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2100 MHz",
+      "Maximum Turbo Frequency": "Up to 4.4GHz",
+      "Cache": "Total L2 Cache: 4MB\nTotal L3 Cache: 32MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "65W",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "8",
+      "Manufacturing Warranty": "03-year"
+    }
+  },
+  {
+    "name": "AMD Ryzen 7 7700 Gaming Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-7-7700/ryzen-7-7700-01-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 3.8GHz Up to 5.3GHz\nCores: 8, Threads: 16\nL2 Cache: 8MB, L3 Cache: 32MB\nSocket: AM5",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "28627",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 7 7700",
+        "Clock Speed: 3.8GHz Up to 5.3GHz",
+        "Cores: 8, Threads: 16",
+        "L2 Cache: 8MB, L3 Cache: 32MB",
+        "Socket: AM5",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.8GHz",
+      "Maximum Turbo Frequency": "Up to 5.3GHz",
+      "Cache": "Total L1 Cache: 512KB\nTotal L2 Cache: 8MB\nTotal L3 Cache: 32MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "65W",
+      "Supported Technologies": "AMD EXPO Technology\nAMD Ryzen Technologies",
+      "Maximum Speed": "2x1R: DDR5-5200\n2x2R: DDR5-5200\n4x1R: DDR5-3600\n4x2R: DDR5-3600",
+      "Type": "DDR5",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "AMD Radeon Graphics",
+      "Max Dynamic Frequency": "2200 MHz",
+      "Core Count": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 9 3950X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-9-3950/ryzen-9-3950-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.5GHz up to 4.7GHz\nCache: L2: 8MB, L3: 64MB\nCores-16 & Threads-32\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "status": "Up Coming",
+      "productCode": "10290",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 9 3950X",
+        "Speed: 3.5GHz up to 4.7GHz",
+        "Cache: L2: 8MB, L3: 64MB",
+        "Cores-16 & Threads-32",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.5GHz",
+      "Maximum Turbo Frequency": "4.7GHz",
+      "Cache": "Total L2 Cache: 8MB\nTotal L3 Cache: 64MB",
+      "Cores": "16",
+      "Threads": "32",
+      "Default TDP": "105W",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 3600X Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-3600x/3600x-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.8GHz up to 4.4GHz\nCache: L2: 3MB, L3: 32MB\nCores-6 & Threads-12\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "10170",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 3600X",
+        "Speed: 3.8GHz up to 4.4GHz",
+        "Cache: L2: 3MB, L3: 32MB",
+        "Cores-6 & Threads-12",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.8GHz",
+      "Maximum Turbo Frequency": "4.4GHz",
+      "Cache": "Total L2 Cache: 3MB\nTotal L3 Cache: 32MB",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "95W",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Max Dynamic Frequency": "4.4GHz",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 5 3400G Processor with Radeon RX Vega 11 Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-5-3400g/3400g-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.7GHz up to 4.2GHz\nCache: L2: 2MB, L3: 4MB\nCores-4 & Threads-8\nMemory Speed: Up to 2933MHz",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "10293",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 5 3400G",
+        "Speed: 3.7GHz up to 4.2GHz",
+        "Cache: L2: 2MB, L3: 4MB",
+        "Cores-4 & Threads-8",
+        "Memory Speed: Up to 2933MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1400 MHz",
+      "Maximum Turbo Frequency": "4.2GHz",
+      "Cache": "Total L2 Cache: 2MB\nTotal L3 Cache: 4MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65W",
+      "Maximum Speed": "2933MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon RX Vega 11 Graphics",
+      "Core Count": "11",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel Pentium Gold G6400 10th gen Coffee Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/g6400/g6400-228x228.jpg",
+    "price": "N/A",
+    "description": "Socket  Supported FCLGA1200\nSpeed 4.00 GHz\nCores- 2 & Threads- 4\n4M Intel Smart  Cache",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "15250",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Pentium Gold G6400",
+        "Socket  Supported FCLGA1200",
+        "Speed 4.00 GHz",
+        "Cores- 2 & Threads- 4",
+        "4M Intel Smart  Cache",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Cache": "4 MB SmartCache",
+      "Cores": "2",
+      "Threads": "4",
+      "Default TDP": "58 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "41.6 GB/s",
+      "Type": "DDR4-2666",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 610",
+      "Max Dynamic Frequency": "1.05 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "Max Resolution (HDMI): 4096x2160@30Hz\nMax Resolution (DP): 4096x2304@60Hz\nMax Resolution (eDP - Integrated Flat Panel): 4096x2304@60Hz",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel Pentium Gold G7400 Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/intel-12th-gen-pentium-gold-g7400/intel-pentium-gold-g7400-12th-gen-alder-lake-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Base Clock Speed: 3.70 GHz\nCache: 6 MB Intel Smart Cache, Socket: LGA 1700\nCPU Cores: 2, CPU Threads: 4\nIntel UHD Graphics 710",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "22305",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Pentium Gold G7400",
+        "Base Clock Speed: 3.70 GHz",
+        "Cache: 6 MB Intel Smart Cache, Socket: LGA 1700",
+        "CPU Cores: 2, CPU Threads: 4",
+        "Intel UHD Graphics 710",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Cache": "6 MB",
+      "Cores": "2",
+      "Threads": "4",
+      "Default TDP": "46W",
+      "Maximum Size": "128 GB",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 710",
+      "Max Dynamic Frequency": "1.35 GHz",
+      "Max Resolution": "HDMI: 4096 x 2160 @ 60Hz\nDP: 7680 x 4320 @ 60Hz\neDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel Core i3 10105F 10th Gen Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i3-10105f/i3-10105f-228x228.jpg",
+    "price": "N/A",
+    "description": "Socket  Supported FCLGA1200\nSpeed 3. 70 up to 4.40 GHz\nCores- 4 & Threads- 8\n6M Cache",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16528",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i3 10105F",
+        "Socket  Supported FCLGA1200",
+        "Speed 3. 70 up to 4.40 GHz",
+        "Cores- 4 & Threads- 8",
+        "6M Cache",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.70 GHz",
+      "Maximum Turbo Frequency": "4.40 GHz",
+      "Cache": "6 MB SmartCache",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "2666MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Athlon 3000G Processor with Radeon Graphics",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/athlon-3000g/athlon-3000g-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.5GHz\nCache: L2: 1MB, L3: 4MB\nCores-2 & Threads-4\nMemory Speed: 2667MHz",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "13593",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Athlon 3000G",
+        "Speed: 3.5GHz",
+        "Cache: L2: 1MB, L3: 4MB",
+        "Cores-2 & Threads-4",
+        "Memory Speed: 2667MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1100 MHz",
+      "Cache": "Total L1 Cache: 192KB\nTotal L2 Cache: 1MB\nTotal L3 Cache: 4MB",
+      "Cores": "2",
+      "Threads": "4",
+      "Default TDP": "35W",
+      "Maximum Speed": "2667MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Vega 3 Graphics",
+      "Core Count": "3",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "AMD Ryzen 3 PRO 4350G Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/AMD/ryzen-3-pro-4350g/ryzen-3-pro-4350g-02-228x228.jpg",
+    "price": "N/A",
+    "description": "Quad-Core Processor 3.8 GHz / 4.0 GHz\nAMD AM4 socket\n4 MB L3 cache\nRadeon Vega 6 Graphics",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "22846",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 3 PRO 4350G",
+        "Quad-Core Processor 3.8 GHz / 4.0 GHz",
+        "AMD AM4 socket",
+        "4 MB L3 cache",
+        "Radeon Vega 6 Graphics",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "1700 MHz",
+      "Maximum Turbo Frequency": "4.0GHz",
+      "Cache": "L1 Cache: 256KB\nL2 Cache: 2MB\nL3 Cache: 4MB",
+      "Cores": "4",
+      "Threads": "8",
+      "Default TDP": "65W",
+      "cTDP": "45-65W",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Radeon Graphics",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 10th Gen Core i5-10500 Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i5-10400/i5-10400-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.10 GHz up to 4.50 GHz\nCores-6 & Threads-12\n12 MB SmartCache\nIntel UHD Graphics 630",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "13124",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Intel Core i5-10500",
+        "Clock Speed: 3.10 GHz up to 4.50 GHz",
+        "Cores-6 & Threads-12",
+        "12 MB SmartCache",
+        "Intel UHD Graphics 630",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Maximum Turbo Frequency": "4.50 GHz",
+      "Cache": "12 MB SmartCache",
+      "Cores": "6",
+      "Threads": "12",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "2666",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 630",
+      "Max Dynamic Frequency": "1.15 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "Max Resolution (HDMI 1.4): 4096x2304@30Hz\nMax Resolution (DP): 4096x2304@60Hz\nMax Resolution (eDP - Integrated Flat Panel): 4096x2304@60Hz",
+      "Core Count": "6",
+      "Manufacturing Warranty": "03 Years Warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 9th Gen Core i5-9500 Processor (Tray)",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i5-9500/i5-9500-0110-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 3.00 GHz up to 4.40 GHz\nCores-6 & Threads-6\n9MB Smart Cache\nIntel UHD Graphics 630",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16212",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: i5-9500 (Tray)",
+        "Clock Speed: 3.00 GHz up to 4.40 GHz",
+        "Cores-6 & Threads-6",
+        "9MB Smart Cache",
+        "Intel UHD Graphics 630",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.00 GHz",
+      "Maximum Turbo Frequency": "4.40 GHz",
+      "Cache": "9 MB SmartCache",
+      "Cores": "6",
+      "Threads": "6",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "2666MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 630",
+      "Max Dynamic Frequency": "1.05 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "Max Resolution (HDMI 1.4)‡: 4096x2304@24Hz\nMax Resolution (DP)‡: 4096x2304@60Hz\nMax Resolution (eDP - Integrated Flat Panel)‡: 4096x2304@60Hz",
+      "Core Count": "6",
+      "Manufacturing Warranty": "1 Year (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 11th Generation Core i7-11700k Rocket Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i7-11700k/i7-11700k-001-228x228.jpg",
+    "price": "N/A",
+    "description": "Clockspeed: 3.6 GHz Up to 5.0 GHz\nCache: 16 MB, Socket:\tLGA 1200\nCPU Cores: 8, CPU Threads: 16\nGPU name: Intel UHD Graphics 750",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16026",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i7-11700k",
+        "Clockspeed: 3.6 GHz Up to 5.0 GHz",
+        "Cache: 16 MB, Socket:\tLGA 1200",
+        "CPU Cores: 8, CPU Threads: 16",
+        "GPU name: Intel UHD Graphics 750",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "350 MHz",
+      "Maximum Turbo Frequency": "up to 5.0 GHz",
+      "Cache": "16MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "125 W",
+      "cTDP": "3.10 GHz",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 750",
+      "Max Dynamic Frequency": "1.30 GHz",
+      "Max Video Memory": "64 GB",
+      "Max Resolution": "4096x2160@60Hz",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "AMD Ryzen 9 3900XT Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/amd/ryzen-9-3900xt/ryzen-9-3900xt-228x228.jpg",
+    "price": "N/A",
+    "description": "Speed: 3.8GHz up to 4.7GHz\nCache: L2: 6MB, L3: 64MB\nCores-12 & Threads-24\nMemory Speed: 3200MHz",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16866",
+      "brand": "AMD",
+      "keyFeatures": [
+        "Model: Ryzen 9 3900XT",
+        "Speed: 3.8GHz up to 4.7GHz",
+        "Cache: L2: 6MB, L3: 64MB",
+        "Cores-12 & Threads-24",
+        "Memory Speed: 3200MHz",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "3.8GHz",
+      "Maximum Turbo Frequency": "4.7GHz",
+      "Cache": "Total L2 Cache: 6MB\nTotal L3 Cache: 64MB",
+      "Cores": "12",
+      "Threads": "24",
+      "Default TDP": "105W",
+      "Supported Technologies": "AMD StoreMI Technology\nAMD Ryzen Master Utility",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  },
+  {
+    "name": "Intel 11th Gen Core i9-11900K Rocket Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/i9-11900k/i9-11900k-228x228.jpg",
+    "price": "N/A",
+    "description": "Clockspeed: 3.5 GHz Up to 5.3 GHz\nCache: 16 MB, Socket: LGA 1200\nCPU Cores: 8, CPU Threads: 16\nGPU name: Intel Iris Xe Graphics 32",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "16037",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i9-11900K",
+        "Clockspeed: 3.5 GHz Up to 5.3 GHz",
+        "Cache: 16 MB, Socket: LGA 1200",
+        "CPU Cores: 8, CPU Threads: 16",
+        "GPU name: Intel Iris Xe Graphics 32",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "0.40 GHz",
+      "Maximum Turbo Frequency": "5.30 GHz",
+      "Cache": "16MB",
+      "Cores": "8",
+      "Threads": "16",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "3200MHz",
+      "Type": "DDR4",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel Iris Xe Graphics 32 (Rocket Lake S)",
+      "Max Dynamic Frequency": "GPU (Turbo): 1.35 GHz",
+      "Max Video Memory": "16 GB",
+      "Manufacturing Warranty": "3 Years"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i9 13900F Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i9-13900/core-i9-1390002-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 2.00 GHz GHz up to 5.60 GHz\nCache: 36 MB, Socket: LGA1700\nCPU Cores: 24, CPU Threads: 32\nDual-Channel DDR5-5600 Memory",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "26221",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i9-13900F",
+        "Clock Speed: 2.00 GHz GHz up to 5.60 GHz",
+        "Cache: 36 MB, Socket: LGA1700",
+        "CPU Cores: 24, CPU Threads: 32",
+        "Dual-Channel DDR5-5600 Memory",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "2.00 GHz",
+      "Maximum Turbo Frequency": "5.60 GHz",
+      "Cache": "36 MB",
+      "Cores": "24",
+      "Threads": "32",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "89.6 GB/s",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel 13th Gen Core i9 13900 Raptor Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/Intel/core-i9-13900/core-i9-1390002-228x228.webp",
+    "price": "N/A",
+    "description": "Clock Speed: 2.00 GHz GHz up to 5.60 GHz\nCache: 36 MB, Socket: LGA1700\nCPU Cores: 24, CPU Threads: 32\nGraphics: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "26220",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i9-13900",
+        "Clock Speed: 2.00 GHz GHz up to 5.60 GHz",
+        "Cache: 36 MB, Socket: LGA1700",
+        "CPU Cores: 24, CPU Threads: 32",
+        "Graphics: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "5.60 GHz",
+      "Cache": "36 MB",
+      "Cores": "24",
+      "Threads": "32",
+      "Default TDP": "65 W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "89.6 GB/s",
+      "Type": "Up to DDR5 5600 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.65 GHz",
+      "Max Resolution": "Max Resolution (HDMI): 4096 x 2160 @ 60Hz\nMax Resolution (DP): 7680 x 4320 @ 60Hz\nMax Resolution (eDP - Integrated Flat Panel): 5120 x 3200 @ 120Hz",
+      "Manufacturing Warranty": "03 years warranty"
+    }
+  },
+  {
+    "name": "Intel Core i9-12900KS 12th Gen Alder Lake Processor",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/processor/intel/i9-12900ks/i9-12900ks-01-228x228.jpg",
+    "price": "N/A",
+    "description": "Clock Speed: 2.40 GHz up to 5.20 GHz\nCache: 30 MB, Socket: LGA 1700\nCPU Cores: 16, CPU Threads: 24\nGPU: Intel UHD Graphics 770",
+    "additionalDetails": {
+      "status": "Out Of Stock",
+      "productCode": "22196",
+      "brand": "INTEL",
+      "keyFeatures": [
+        "Model: Core i9-12900KS",
+        "Clock Speed: 2.40 GHz up to 5.20 GHz",
+        "Cache: 30 MB, Socket: LGA 1700",
+        "CPU Cores: 16, CPU Threads: 24",
+        "GPU: Intel UHD Graphics 770",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Base Frequency": "300 MHz",
+      "Maximum Turbo Frequency": "5.20 GHz",
+      "Cache": "30 MB Intel Smart Cache",
+      "Cores": "16 (8 x P-Cores + 8 x E-Cores)",
+      "Threads": "24",
+      "Default TDP": "125W",
+      "Maximum Size": "128 GB",
+      "Maximum Speed": "76.8 GB/s",
+      "Type": "Up to DDR5 4800 MT/s\nUp to DDR4 3200 MT/s",
+      "Max Number of Channels": "2",
+      "Processor Graphics": "Intel UHD Graphics 770",
+      "Max Dynamic Frequency": "1.55 GHz",
+      "Max Resolution": "HDMI: 4096 x 2160 @ 60Hz\nDP: 7680 x 4320 @ 60Hz\neDP - Integrated Flat Panel: 5120 x 3200 @ 120Hz",
+      "Core Count": "32",
+      "Manufacturing Warranty": "03 years warranty (No Warranty for Fan or Cooler)"
+    }
+  }
+]

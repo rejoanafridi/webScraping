@@ -1,0 +1,371 @@
+[
+  {
+    "name": "Seagate Internal 1TB SATA Barracuda HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/Component/HDD/Seagate /seagate-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Capacity:1TB\nInterface: SATA 6Gb/s\nLatency Average: 6Gb/s\nRotational Speed: 7200 RPM",
+    "additionalDetails": {
+      "regularPrice": "4,560৳",
+      "status": "In Stock",
+      "productCode": "6513",
+      "brand": "Seagate",
+      "keyFeatures": [
+        "MPN: ST1000DM010",
+        "Model: BarraCuda",
+        "Capacity:1TB",
+        "Interface: SATA 6Gb/s",
+        "Latency Average: 6Gb/s",
+        "Rotational Speed: 7200 RPM",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Type": "SATA",
+      "Capacity": "1TB",
+      "Interface": "SATA 6Gb/s",
+      "RPM Class": "7,200 RPM",
+      "Read/Write Speed": "Read: 210MB/s",
+      "Manufacturing Warranty": "2 Years"
+    }
+  },
+  {
+    "name": "Western Digital 1TB Blue Desktop HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/HDD/Western Digital/WD INT Blue 1TB-228x228.jpg",
+    "price": "N/A",
+    "description": "Capacity: 1000 GB\nInterface: SATA 6 Gb/s\nRotational Speed: RPM- 7200\nLatency Average 8.9ms",
+    "additionalDetails": {
+      "regularPrice": "4,770৳",
+      "status": "In Stock",
+      "productCode": "407",
+      "brand": "WESTERN DIGITAL",
+      "keyFeatures": [
+        "Model: WD10EZEX",
+        "Capacity: 1000 GB",
+        "Interface: SATA 6 Gb/s",
+        "Rotational Speed: RPM- 7200",
+        "Latency Average 8.9ms",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Buffer size": "64 MB",
+      "Formatted Capacity": "1,000,204 MB",
+      "Idle Mode": "29 dBA (average)",
+      "Interface type": "SATA 6 Gb/s",
+      "Load/unload Cycles": "300,000 minimum",
+      "Operating Shock (Read)": "30G, 2 ms",
+      "Rotational speed": "7,200 RPM (nominal)",
+      "Seek Mode 0": "30 dBA (average)",
+      "Internal or External": "Internal",
+      "Capacity (GB)": "1000 GB",
+      "RPM": "7200",
+      "Warranty": "02 Years"
+    }
+  },
+  {
+    "name": "Western Digital 1TB My Passport Portable HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/western/my-passport/my-passport-hdd-228x228.JPG",
+    "price": "N/A",
+    "description": "USB 3.2 Gen 1; USB 2.0 compatible\nWeight : 170g\nEnclosure: Small\nDimension: 4.33 x 3.21 x 0.64 in",
+    "additionalDetails": {
+      "regularPrice": "5,980৳",
+      "status": "In Stock",
+      "productCode": "5402",
+      "brand": "WESTERN DIGITAL",
+      "keyFeatures": [
+        "Model: My Passport 1TB",
+        "USB 3.2 Gen 1; USB 2.0 compatible",
+        "Weight : 170g",
+        "Enclosure: Small",
+        "Dimension: 4.33 x 3.21 x 0.64 in",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Interface": "USB 3.2 Gen 1"
+    }
+  },
+  {
+    "name": "Western Digital 2TB Blue 7200RPM Desktop HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/western-digital/wd-2tb-blue/wd-2tb-blue-02-228x228.webp",
+    "price": "N/A",
+    "description": "Interface: SATA\nForm Factor: 3.5 Inch\nCache Size: 256 MB\nDisk Speed: 7200rpm",
+    "additionalDetails": {
+      "regularPrice": "6,350৳",
+      "status": "In Stock",
+      "productCode": "24391",
+      "brand": "WESTERN DIGITAL",
+      "keyFeatures": [
+        "MPN: WD20EZBX",
+        "Model: WD Blue",
+        "Interface: SATA",
+        "Form Factor: 3.5 Inch",
+        "Cache Size: 256 MB",
+        "Disk Speed: 7200rpm",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Buffer size": "256 MB",
+      "Interface type": "SATA",
+      "Internal or External": "Internal",
+      "Capacity (GB)": "2 TB",
+      "RPM": "7200rpm",
+      "Warranty": "2 Years"
+    }
+  },
+  {
+    "name": "Toshiba P300 2TB 3.5-Inch SATA 7200RPM Desktop HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/toshiba/p300/p300-01-228x228.webp",
+    "price": "N/A",
+    "description": "Capacity: 2TB 7200RPM \nInterface: SATA 6Gb/s\nBuffer: 128MB\nForm Factor: 3.5 Inch",
+    "additionalDetails": {
+      "regularPrice": "6,160৳",
+      "status": "In Stock",
+      "productCode": "25774",
+      "brand": "Toshiba",
+      "keyFeatures": [
+        "MPN: HDWD320UZSVA",
+        "Model: P300",
+        "Capacity: 2TB 7200RPM",
+        "Interface: SATA 6Gb/s",
+        "Buffer: 128MB",
+        "Form Factor: 3.5 Inch",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Capacity": "2TB",
+      "Interface": "SATA 6.0 Gbit/s)",
+      "RPM Class": "7,200 rpm",
+      "Manufacturing Warranty": "2 Years"
+    }
+  },
+  {
+    "name": "Transcend 25H3 1TB USB 3.1 External HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/component/portable-hdd/transcend/ts1tsj25h3p-1tb/ts1tsj25h3p-228x228.jpg",
+    "price": "N/A",
+    "description": "Interface: USB 3.1 Gen 1\nOne touch auto backup\nTranscend Elite\nSleek, classic design",
+    "additionalDetails": {
+      "regularPrice": "6,750৳",
+      "status": "In Stock",
+      "productCode": "11986",
+      "brand": "Transcend",
+      "keyFeatures": [
+        "MPN: TS1TSJ25H3P",
+        "Model: Transcend 25H3",
+        "Interface: USB 3.1 Gen 1",
+        "One touch auto backup",
+        "Transcend Elite",
+        "Sleek, classic design",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Type": "External",
+      "Capacity": "1 TB",
+      "Interface": "USB Type: micro USB to USB Type A\nConnection Interface: USB 3.1 Gen 1",
+      "Size": "131.8 mm x 80.8 mm x 16.3 mm (5.19\" x 3.18\" x 0.64\")\nWeight : 191g (6.74 oz)",
+      "Manufacturing Warranty": "03 Years Warranty"
+    }
+  },
+  {
+    "name": "Seagate One Touch 1TB Portable USB 3.0 External HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/seagate-one-touch-2tb-external-hdd/one-touch-2tb-external-hdd-01-228x228.webp",
+    "price": "N/A",
+    "description": "Interface: ‎‎USB 3.0\nForm Factor: HDD, Storage: 1TB\nExternal Material: Aluminum\nAdvanced Password Protection",
+    "additionalDetails": {
+      "regularPrice": "7,370৳",
+      "status": "In Stock",
+      "productCode": "23945",
+      "brand": "Seagate",
+      "keyFeatures": [
+        "MPN: STKY1000400",
+        "Model: One Touch",
+        "Interface: ‎‎USB 3.0",
+        "Form Factor: HDD, Storage: 1TB",
+        "External Material: Aluminum",
+        "Advanced Password Protection",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Type": "Portable",
+      "Capacity": "1TB",
+      "Interface": "USB 3.0",
+      "Size": "2.5\"",
+      "RPM Class": "5400 RPM",
+      "Others": "Black",
+      "Manufacturing Warranty": "03 Year Warranty"
+    }
+  },
+  {
+    "name": "Western Digital 2TB My Passport Portable HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/western/my-passport/my-passport-hdd-2-228x228.JPG",
+    "price": "N/A",
+    "description": "USB 3.2 Gen 1; USB 2.0 compatible\nWeight : 250g\nEnclosure: Small\nDimension: 4.33 x 3.21 x 0.85 in",
+    "additionalDetails": {
+      "regularPrice": "7,980৳",
+      "status": "In Stock",
+      "productCode": "6454",
+      "brand": "WESTERN DIGITAL",
+      "keyFeatures": [
+        "Model: Western Digital 2TB My Passport",
+        "USB 3.2 Gen 1; USB 2.0 compatible",
+        "Weight : 250g",
+        "Enclosure: Small",
+        "Dimension: 4.33 x 3.21 x 0.85 in",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Interface": "USB 3.2 Gen 1"
+    }
+  },
+  {
+    "name": "Seagate Skyhawk 2TB 3.5\" Surveillance HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/skyhawk-2tb-surveillance/skyhawk-2tb-surveillance-01-228x228.webp",
+    "price": "N/A",
+    "description": "Capacity: 2TB Storage \nSATA III 6 Gb/s Interface, 256MB Cache\n600,000 Load/Unload Cycles\nDesigned for 24/7 Surveillance, Supports up to 64 HD Cameras",
+    "additionalDetails": {
+      "regularPrice": "7,810৳",
+      "status": "In Stock",
+      "productCode": "26827",
+      "brand": "Seagate",
+      "keyFeatures": [
+        "MPN: ST2000VX015",
+        "Model: Skyhawk 2TB",
+        "Capacity: 2TB Storage",
+        "SATA III 6 Gb/s Interface, 256MB Cache",
+        "600,000 Load/Unload Cycles",
+        "Designed for 24/7 Surveillance, Supports up to 64 HD Cameras",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Type": "Internal",
+      "Capacity": "2TB",
+      "Interface": "SATA 6.0Gb/s",
+      "RPM Class": "5900",
+      "Read/Write Speed": "180 MB/s",
+      "Others": "Load/Unload Cycles: 600,000\nMTBF: 1.0 Million Hours\nSupported Voltage: 12 VDC\nCurrent: 1.8 A at 12 VDC\nOperating Temperature: 32 to 158°F / 0 to 70°C",
+      "Manufacturing Warranty": "03 years"
+    }
+  },
+  {
+    "name": "Seagate Barracuda 2TB 7200RPM SATA 3.5-inch HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/2tb-7200rpm/2tb-7200rpm-1-228x228.jpg",
+    "price": "N/A",
+    "description": "Hard Disk Capacity: 2TB\nHard Disk Rotational Speed: 7200 rpm\nForm Factor: 3.5 inches\nHardware Interface: SATA 6.0 Gb/s",
+    "additionalDetails": {
+      "regularPrice": "7,820৳",
+      "status": "In Stock",
+      "productCode": "14262",
+      "brand": "Seagate",
+      "keyFeatures": [
+        "MPN: ST2000DM008",
+        "Model: Seagate Barracuda",
+        "Hard Disk Capacity: 2TB",
+        "Hard Disk Rotational Speed: 7200 rpm",
+        "Form Factor: 3.5 inches",
+        "Hardware Interface: SATA 6.0 Gb/s",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Type": "Internal",
+      "Capacity": "2TB",
+      "Interface": "SATA 6.0 Gb/s",
+      "Size": "3.5 Inch",
+      "RPM Class": "7200 RPM",
+      "Manufacturing Warranty": "02 years warranty"
+    }
+  },
+  {
+    "name": "Seagate Barracuda 2TB 2.5 Inch SATA Laptop HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/barracuda/barracuda-0010-228x228.jpg",
+    "price": "N/A",
+    "description": "Capacity: 2TB\nForm factor: 2.5 Inch\nInterface (Built-in): SATA 6.0Gb/s\nAverage Seek Time: 13ms",
+    "additionalDetails": {
+      "regularPrice": "9,010৳",
+      "status": "In Stock",
+      "productCode": "18485",
+      "brand": "Seagate",
+      "keyFeatures": [
+        "MPN: ST2000LM015",
+        "Model: Barracuda",
+        "Capacity: 2TB",
+        "Form factor: 2.5 Inch",
+        "Interface (Built-in): SATA 6.0Gb/s",
+        "Average Seek Time: 13ms",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Type": "Laptop HDD",
+      "Capacity": "2TB",
+      "Interface": "SATA 6.0Gb/s",
+      "Size": "2.5 Inch",
+      "RPM Class": "5400RPM",
+      "Manufacturing Warranty": "02 years warranty"
+    }
+  },
+  {
+    "name": "Toshiba S300 4TB 3.5 Inch Surveillance HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/component/hdd/toshiba/s300-4tb/s300-03-228x228.jpg",
+    "price": "N/A",
+    "description": "128 MB buffer\nInterface: Serial ATA\nRotational Speed: 5400 RPM \nToshiba Dynamic Cache Technology",
+    "additionalDetails": {
+      "regularPrice": "9,220৳",
+      "status": "In Stock",
+      "productCode": "11908",
+      "brand": "Toshiba",
+      "keyFeatures": [
+        "Model: S300",
+        "128 MB buffer",
+        "Interface: Serial ATA",
+        "Rotational Speed: 5400 RPM",
+        "Toshiba Dynamic Cache Technology",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Type": "3.5\" SATA Hard Drive",
+      "Capacity": "4 TB",
+      "Interface": "6.0 Gbit/s",
+      "Size": "Buffer size: 128 MB",
+      "RPM Class": "5,400 rpm",
+      "Manufacturing Warranty": "02 Years Warranty"
+    }
+  },
+  {
+    "name": "Seagate One Touch 2TB Portable USB 3.0 External HDD",
+    "imageUrl": "https://www.startech.com.bd/image/cache/catalog/hdd/seagate/seagate-one-touch-2tb-external-hdd/one-touch-2tb-external-hdd-01-228x228.webp",
+    "price": "N/A",
+    "description": "Interface: ‎‎USB 3.0\nForm Factor: HDD, Storage: 2TB\nExternal Material: Aluminum\nAdvanced Password Protection",
+    "additionalDetails": {
+      "regularPrice": "9,330৳",
+      "status": "In Stock",
+      "productCode": "23946",
+      "brand": "Seagate",
+      "keyFeatures": [
+        "MPN: STKY2000400",
+        "Model: One Touch",
+        "Interface: ‎‎USB 3.0",
+        "Form Factor: HDD, Storage: 2TB",
+        "External Material: Aluminum",
+        "Advanced Password Protection",
+        "View More Info"
+      ]
+    },
+    "specifications": {
+      "Type": "Portable",
+      "Capacity": "2TB",
+      "Interface": "USB 3.0",
+      "Size": "2.5\"",
+      "RPM Class": "5400 RPM",
+      "Others": "Black",
+      "Manufacturing Warranty": "03 Year Warranty"
+    }
+  }
+]
